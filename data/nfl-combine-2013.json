@@ -1,4 +1,15 @@
 {
+  "average": {
+    "3cone": "7.22",
+    "40yd": "4.79",
+    "benchpress": "20.49",
+    "broadjump": "115.42",
+    "height": "73.86",
+    "shuttle": "4.43",
+    "vertleap": "32.36",
+    "weight": "244.75",
+    "wonderlic": "22.54"
+  },
   "players": [
     {
       "year": "2013",
@@ -4295,7 +4306,7 @@
       "height": "77",
       "weight": "308",
       "wonderlic": "",
-      "40yd": "*5.45",
+      "40yd": "5.45",
       "benchpress": "17",
       "vertleap": "23.5",
       "broadjump": "100",
