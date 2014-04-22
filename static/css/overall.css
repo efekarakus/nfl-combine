@@ -1,0 +1,14 @@
+body {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.player {
+    width: 100px;
+    height: 100px;
+    float: left;
+    display: inline;
+    position: relative;
+    margin: 10px;
+    border: 1px solid;
+}
