@@ -42,15 +42,15 @@ def add_key(avg, player, key):
 
 def meta( players ):
     meta = {
-        "height": [0.0, 0.0],
-        "weight": [0.0, 0.0],
-        "wonderlic": [0.0, 0.0],
-        "40yd": [0.0, 0.0],
-        "benchpress": [0.0, 0.0],
-        "vertleap": [0.0, 0.0],
-        "broadjump": [0.0, 0.0],
-        "shuttle": [0.0, 0.0],
-        "3cone": [0.0, 0.0]
+        "height": [float('inf'), 0.0],
+        "weight": [float('inf'), 0.0],
+        "wonderlic": [float('inf'), 0.0],
+        "40yd": [float('inf'), 0.0],
+        "benchpress": [float('inf'), 0.0],
+        "vertleap": [float('inf'), 0.0],
+        "broadjump": [float('inf'), 0.0],
+        "shuttle": [float('inf'), 0.0],
+        "3cone": [float('inf'), 0.0]
     }
     for player in players:
         range_key( meta, player, "height" )
