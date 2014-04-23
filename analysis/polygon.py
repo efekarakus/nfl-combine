@@ -40,7 +40,42 @@ def add_key(avg, player, key):
         avg[key]["values"] += float(player[key])
         avg[key]["count"] += 1
 
+def meta( players ):
+    meta = {
+        "height": [0.0, 0.0],
+        "weight": [0.0, 0.0],
+        "wonderlic": [0.0, 0.0],
+        "40yd": [0.0, 0.0],
+        "benchpress": [0.0, 0.0],
+        "vertleap": [0.0, 0.0],
+        "broadjump": [0.0, 0.0],
+        "shuttle": [0.0, 0.0],
+        "3cone": [0.0, 0.0]
+    }
+    for player in players:
+        range_key( meta, player, "height" )
+        range_key( meta, player, "weight" )
+        range_key( meta, player, "wonderlic" )
+        range_key( meta, player, "40yd" )
+        range_key( meta, player, "benchpress" )
+        range_key( meta, player, "vertleap" )
+        range_key( meta, player, "broadjump" )
+        range_key( meta, player, "shuttle" )
+        range_key( meta, player, "3cone" )
+    return meta
+
+def range_key( meta, player, key ):
+    if player[key] != "":
+        meta[key][0] = min( meta[key][0], float( player[key] ) )
+        meta[key][1] = max( meta[key][1], float( player[key] ) )
+
+def combine( meta, avg ):
+    for key in meta:
+        meta[key].insert( 1, avg[key] )
+
 if __name__ == '__main__':
     data = read_data()
     avg = average(data["players"])
-    pprint(avg)
+    m = meta(data["players"])
+    combine( m, avg )
+    pprint(m)

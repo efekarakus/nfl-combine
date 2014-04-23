@@ -17,15 +17,15 @@ function _clean( player )
     }
 }
 
-function drawAllPlayers(selector)
+function drawAllPlayers( selector )
 {
     d3.json( "../data/nfl-combine-2013.json", 
         function( err, json ) 
         {
             if ( err ) return console.warn( err );
 
-            var averagePlayer = json[ 'average' ];
-            _clean( averagePlayer );
+            var meta = json[ "meta" ];
+            console.log( meta );
 
             var players = json[ 'players' ];
             players.forEach( function( player ) 
