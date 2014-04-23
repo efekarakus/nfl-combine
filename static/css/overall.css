@@ -5,6 +5,19 @@
     width: 1000px;
 }
 
+.example {
+    width: 150px;
+    height: 100px;
+    float: left;
+    display: inline;
+    position: relative;
+    margin: 7px;
+}
+
+.example svg {
+    margin-left: 10px;
+}
+
 .player {
     width: 70px;
     height: 100px;
@@ -14,7 +27,13 @@
     margin: 7px;
 }
 
-.player .name {
+.example text {
+    font-family: 'Signika', 'sans-serif';
+    font-weight: 400;
+    font-size: 10px;
+}
+
+.name {
     border-top: 1px solid black;
     text-align: center;
     font-family: 'Signika', 'sans-serif';
