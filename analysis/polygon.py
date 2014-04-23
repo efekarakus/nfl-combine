@@ -2,7 +2,7 @@ import json
 from pprint import pprint
 
 def read_data():
-    return json.load(open('../data/nfl-combine-2013.json'))
+    return json.load(open('../data/pruned-nfl-combine-2013.json'))
 
 
 def average(players):

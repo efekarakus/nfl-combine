@@ -1,14 +1,35 @@
-body {
+@import url(http://fonts.googleapis.com/css?family=Signika:400,600,700,300);
+
+.main {
     margin: 0 auto;
     width: 1000px;
 }
 
 .player {
     width: 70px;
-    height: 70px;
+    height: 100px;
     float: left;
     display: inline;
     position: relative;
     margin: 7px;
-    border: 1px solid;
+}
+
+.player .name {
+    border-top: 1px solid black;
+    text-align: center;
+    font-family: 'Signika', 'sans-serif';
+    font-weight: 400;
+    font-size: 12px;
+}
+
+polygon.inner {
+    fill: #505050;
+    stroke: #383838;
+    stroke-width: 0.5px;
+    opacity: 0.5;
+}
+
+polygon.outer {
+    fill: #202020;
+    opacity: 0.8;
 }
