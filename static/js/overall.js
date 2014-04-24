@@ -27,58 +27,65 @@ function drawAllPlayers( selector )
 
     function _getCoords( meta, player )
     {
+        
+        var ydG = Gaussian(4.8, 0.32*0.32);
+        var bpG = Gaussian(20.39, 7.2*7.2);
+        var vlG = Gaussian(32.19, 4.49*4.49);
+        var bjG = Gaussian(114.89, 9.94*9.94);
+        var coneG = Gaussian(7.22, 0.42*0.42);
+        var shuttleG = Gaussian(4.42, 0.28*0.28);
 
         var sxCone = d3.scale.linear()
-            .domain( [ meta['3cone'][0], meta['3cone'][2] ] )
+            .domain( [ coneG.cdf(meta['3cone'][0]), coneG.cdf(meta['3cone'][2]) ] )
             .range( [0.0, 35.0] );
 
         var syCone = d3.scale.linear()
-            .domain( [ meta['3cone'][0], meta['3cone'][2] ] )
+            .domain( [ coneG.cdf(meta['3cone'][0]), coneG.cdf(meta['3cone'][2]) ] )
             .range( [0.0, 35.0] );
 
         var sx40Yard = d3.scale.linear()
-            .domain( [ meta['40yd'][0], meta['40yd'][2] ] )
+            .domain( [ ydG.cdf(meta['40yd'][0]), ydG.cdf(meta['40yd'][2]) ] )
             .range( [70.0, 35.0] );
 
         var sy40Yard = d3.scale.linear()
-            .domain( [ meta['40yd'][0], meta['40yd'][2] ] )
+            .domain( [ ydG.cdf(meta['40yd'][0]), ydG.cdf(meta['40yd'][2]) ] )
             .range( [0.0, 35.0] );
 
         var sxBenchPress = d3.scale.linear()
-            .domain( [ meta['benchpress'][0], meta['benchpress'][2] ])
-            .range( [35.0, 70.0] );
+            .domain( [ bpG.cdf(meta['benchpress'][0]), bpG.cdf(meta['benchpress'][2]) ])
+            .range( [45.0, 70.0] );
 
 
         var sBroadJump = d3.scale.linear()
-            .domain( [ meta['broadjump'][0], meta['broadjump'][2] ] )
+            .domain( [ bjG.cdf(meta['broadjump'][0]), bjG.cdf(meta['broadjump'][2]) ] )
             .range( [35.0, 70.0] );
 
         var sxVerticalLeap = d3.scale.linear()
-            .domain( [ meta['vertleap'][0], meta['vertleap'][2] ] )
+            .domain( [ vlG.cdf(meta['vertleap'][0]), vlG.cdf(meta['vertleap'][2]) ] )
             .range( [35.0, 0.0] );
 
         var syVerticalLeap = d3.scale.linear()
-            .domain( [ meta['vertleap'][0], meta['vertleap'][2] ] )
+            .domain( [ vlG.cdf(meta['vertleap'][0]), vlG.cdf(meta['vertleap'][2]) ] )
             .range( [35.0, 70.0] );
 
         var sxShuttle = d3.scale.linear()
-            .domain( [meta['shuttle'][0], meta['shuttle'][2] ] )
-            .range( [0.0, 35.0] );
+            .domain( [ shuttleG.cdf(meta['shuttle'][0]), shuttleG.cdf(meta['shuttle'][2]) ] )
+            .range( [0.0, 25.0] );
 
         var coords = [];
 
         if (player['3cone'] != undefined)
-            coords.push( {"x": sxCone( player['3cone'] ), "y": syCone( player['3cone'] )} );
+            coords.push( {"x": sxCone( coneG.cdf(player['3cone']) ), "y": syCone( coneG.cdf(player['3cone']) )} );
         if (player['40yd'] != undefined)
-            coords.push( {"x": sx40Yard( player['40yd'] ), "y": sy40Yard( player['40yd'] )} );
+            coords.push( {"x": sx40Yard( ydG.cdf(player['40yd']) ), "y": sy40Yard( ydG.cdf(player['40yd']) )} );
         if (player['benchpress'] != undefined)
-            coords.push( {"x": sxBenchPress( player['benchpress'] ), "y": 35.0 } );
+            coords.push( {"x": sxBenchPress( bpG.cdf(player['benchpress']) ), "y": 35.0 } );
         if (player['broadjump'] != undefined)
-            coords.push( {"x": sBroadJump( player['broadjump'] ), "y": sBroadJump( player['broadjump'] )} );
+            coords.push( {"x": sBroadJump( bjG.cdf(player['broadjump']) ), "y": sBroadJump( bjG.cdf(player['broadjump']) )} );
         if (player['vertleap'] != undefined)
-            coords.push( {"x": sxVerticalLeap( player['vertleap'] ), "y": syVerticalLeap( player['vertleap'] )} );
+            coords.push( {"x": sxVerticalLeap( vlG.cdf(player['vertleap']) ), "y": syVerticalLeap( vlG.cdf(player['vertleap']) )} );
         if (player['shuttle'] != undefined)
-            coords.push( {"x": sxShuttle( player['shuttle'] ), "y": 35.0} );
+            coords.push( {"x": sxShuttle( shuttleG.cdf(player['shuttle']) ), "y": 35.0} );
 
         return coords;
     }
