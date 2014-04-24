@@ -42,13 +42,13 @@
 }
 
 polygon.inner {
-    fill: #505050;
-    stroke: #383838;
-    stroke-width: 0.5px;
-    opacity: 0.5;
+    fill: #202020;
+    opacity: 0.8;
 }
 
 polygon.outer {
-    fill: #202020;
-    opacity: 0.8;
+    fill: #C0C0C0;
+    stroke: #000;
+    stroke-width: 1px;
+    opacity: 0.5;
 }

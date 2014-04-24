@@ -1,3 +1,10 @@
+//+ Jonas Raoni Soares Silva
+//@ http://jsfromhell.com/array/shuffle [v1.0]
+function shuffle(o){ //v1.0
+    for(var j, x, i = o.length; i; j = Math.floor(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
+    return o;
+};
+
 function drawAllPlayers( selector )
 {
     function _clean( player ) 
@@ -23,19 +30,19 @@ function drawAllPlayers( selector )
 
         var sxCone = d3.scale.linear()
             .domain( [ meta['3cone'][0], meta['3cone'][2] ] )
-            .range( [35.0, 0.0] );
+            .range( [0.0, 35.0] );
 
         var syCone = d3.scale.linear()
             .domain( [ meta['3cone'][0], meta['3cone'][2] ] )
-            .range( [35.0, 0.0] );
+            .range( [0.0, 35.0] );
 
         var sx40Yard = d3.scale.linear()
             .domain( [ meta['40yd'][0], meta['40yd'][2] ] )
-            .range( [35.0, 70.0] );
+            .range( [70.0, 35.0] );
 
         var sy40Yard = d3.scale.linear()
             .domain( [ meta['40yd'][0], meta['40yd'][2] ] )
-            .range( [35.0, 0.0] );
+            .range( [0.0, 35.0] );
 
         var sxBenchPress = d3.scale.linear()
             .domain( [ meta['benchpress'][0], meta['benchpress'][2] ])
@@ -56,7 +63,7 @@ function drawAllPlayers( selector )
 
         var sxShuttle = d3.scale.linear()
             .domain( [meta['shuttle'][0], meta['shuttle'][2] ] )
-            .range( [35.0, 0.0] );
+            .range( [0.0, 35.0] );
 
         var coords = [];
 
@@ -142,8 +149,8 @@ function drawAllPlayers( selector )
             .attr("y", "20")
             .attr("width", 20)
             .attr("height", 10)
-            .style("fill", "#505050")
-            .style("opacity", "0.5")
+            .style("fill", "#202020")
+            .style("opacity", "0.8")
             .style("stroke", "#000")
             .style("stroke-width", "0.5");
 
@@ -152,8 +159,8 @@ function drawAllPlayers( selector )
             .attr("y", 35)
             .attr("width", 20)
             .attr("height", 10)
-            .style("fill", "#202020")
-            .style("opacity", "0.8")
+            .style("fill", "#C0C0C0")
+            .style("opacity", "0.5")
             .style("stroke", "#000")
             .style("stroke-width", "0.5");
 
@@ -161,15 +168,15 @@ function drawAllPlayers( selector )
             .attr("x", 70)
             .attr("y", 28)
             .text("Average")
-            .style("color", "#505050")
-            .style("opacity", "0.5");
+            .style("color", "#202020")
+            .style("opacity", "0.8");
 
         svg.append("text")
             .attr("x", 75)
             .attr("y", 42)
             .text("Player")
-            .style("color", "#202020")
-            .style("opacity", "0.8");
+            .style("color", "#C0C0C0")
+            .style("opacity", "0.5");
 
 
         exampleDiv.append('div')
@@ -230,6 +237,7 @@ function drawAllPlayers( selector )
 
             // clean data
             var players = json[ 'players' ];
+            players = shuffle(players);
             players.forEach( function( player ) 
             {
                 _clean( player );
