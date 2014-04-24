@@ -5,6 +5,12 @@ function shuffle(o){ //v1.0
     return o;
 };
 
+var overall = {
+    scales: {},
+    gaussians: {}
+}
+
+
 function drawAllPlayers( selector )
 {
     function _clean( player ) 
@@ -27,52 +33,24 @@ function drawAllPlayers( selector )
 
     function _getCoords( meta, player )
     {
-        
-        var ydG = Gaussian(4.8, 0.32*0.32);
-        var bpG = Gaussian(20.39, 7.2*7.2);
-        var vlG = Gaussian(32.19, 4.49*4.49);
-        var bjG = Gaussian(114.89, 9.94*9.94);
-        var coneG = Gaussian(7.22, 0.42*0.42);
-        var shuttleG = Gaussian(4.42, 0.28*0.28);
-
-        var sxCone = d3.scale.linear()
-            .domain( [ coneG.cdf(meta['3cone'][0]), coneG.cdf(meta['3cone'][2]) ] )
-            .range( [0.0, 35.0] );
-
-        var syCone = d3.scale.linear()
-            .domain( [ coneG.cdf(meta['3cone'][0]), coneG.cdf(meta['3cone'][2]) ] )
-            .range( [0.0, 35.0] );
-
-        var sx40Yard = d3.scale.linear()
-            .domain( [ ydG.cdf(meta['40yd'][0]), ydG.cdf(meta['40yd'][2]) ] )
-            .range( [70.0, 35.0] );
-
-        var sy40Yard = d3.scale.linear()
-            .domain( [ ydG.cdf(meta['40yd'][0]), ydG.cdf(meta['40yd'][2]) ] )
-            .range( [0.0, 35.0] );
-
-        var sxBenchPress = d3.scale.linear()
-            .domain( [ bpG.cdf(meta['benchpress'][0]), bpG.cdf(meta['benchpress'][2]) ])
-            .range( [45.0, 70.0] );
-
-
-        var sBroadJump = d3.scale.linear()
-            .domain( [ bjG.cdf(meta['broadjump'][0]), bjG.cdf(meta['broadjump'][2]) ] )
-            .range( [35.0, 70.0] );
-
-        var sxVerticalLeap = d3.scale.linear()
-            .domain( [ vlG.cdf(meta['vertleap'][0]), vlG.cdf(meta['vertleap'][2]) ] )
-            .range( [35.0, 0.0] );
-
-        var syVerticalLeap = d3.scale.linear()
-            .domain( [ vlG.cdf(meta['vertleap'][0]), vlG.cdf(meta['vertleap'][2]) ] )
-            .range( [35.0, 70.0] );
-
-        var sxShuttle = d3.scale.linear()
-            .domain( [ shuttleG.cdf(meta['shuttle'][0]), shuttleG.cdf(meta['shuttle'][2]) ] )
-            .range( [0.0, 25.0] );
-
         var coords = [];
+
+        var coneG = overall.gaussians.coneG,
+            ydG = overall.gaussians.ydG,
+            bpG = overall.gaussians.bpG,
+            vlG = overall.gaussians.vlG,
+            bjG = overall.gaussians.bjG,
+            shuttleG = overall.gaussians.shuttleG;
+
+        var sxCone = overall.scales.sxCone,
+            syCone = overall.scales.syCone,
+            sx40Yard = overall.scales.sx40Yard,
+            sy40Yard = overall.scales.sy40Yard,
+            sxBenchPress = overall.scales.sxBenchPress,
+            sBroadJump = overall.scales.sBroadJump,
+            sxVerticalLeap = overall.scales.sxVerticalLeap,
+            syVerticalLeap = overall.scales.syVerticalLeap,
+            sxShuttle = overall.scales.sxShuttle;
 
         if (player['3cone'] != undefined)
             coords.push( {"x": sxCone( coneG.cdf(player['3cone']) ), "y": syCone( coneG.cdf(player['3cone']) )} );
@@ -131,25 +109,6 @@ function drawAllPlayers( selector )
                 .attr("points", function(d) {
                     return d.map(function(d) { return [d.x, d.y].join(","); }).join(" ");
                 });
-
-        /**
-        svg.append("text")
-            .attr("x", 0)
-            .attr("y", 22)
-            .text("3-cone")
-            .attr("transform", "rotate(-20)");
-
-        svg.append("text")
-            .attr("x", 42)
-            .attr("y", -3)
-            .text("40 yard")
-            .attr("transform", "rotate(20)");
-
-        svg.append("text")
-            .attr("x", 55)
-            .attr("y", 35)
-            .text("bench press");
-        */
 
         svg.append("rect")
             .attr("x", "110")
@@ -235,6 +194,14 @@ function drawAllPlayers( selector )
             .text(function( d ) { return d.name.text; } );
     }
 
+    overall.gaussians.ydG = Gaussian(4.8, 0.32*0.32),
+    overall.gaussians.bpG = Gaussian(20.39, 7.2*7.2),
+    overall.gaussians.vlG = Gaussian(32.19, 4.49*4.49),
+    overall.gaussians.bjG = Gaussian(114.89, 9.94*9.94),
+    overall.gaussians.coneG = Gaussian(7.22, 0.42*0.42),
+    overall.gaussians.shuttleG = Gaussian(4.42, 0.28*0.28);
+
+
     d3.json( "../data/pruned-nfl-combine-2013.json", 
         function( err, json ) 
         {
@@ -249,6 +216,44 @@ function drawAllPlayers( selector )
             {
                 _clean( player );
             } );
+
+            // scales
+            overall.scales.sxCone = d3.scale.linear()
+                .domain( [ overall.gaussians.coneG.cdf(meta['3cone'][0]), overall.gaussians.coneG.cdf(meta['3cone'][2]) ] )
+                .range( [0.0, 35.0] );
+
+            overall.scales.syCone = d3.scale.linear()
+                .domain( [ overall.gaussians.coneG.cdf(meta['3cone'][0]), overall.gaussians.coneG.cdf(meta['3cone'][2]) ] )
+                .range( [0.0, 35.0] );
+
+            overall.scales.sx40Yard = d3.scale.linear()
+                .domain( [ overall.gaussians.ydG.cdf(meta['40yd'][0]), overall.gaussians.ydG.cdf(meta['40yd'][2]) ] )
+                .range( [70.0, 35.0] );
+
+            overall.scales.sy40Yard = d3.scale.linear()
+                .domain( [ overall.gaussians.ydG.cdf(meta['40yd'][0]), overall.gaussians.ydG.cdf(meta['40yd'][2]) ] )
+                .range( [0.0, 35.0] );
+
+            overall.scales.sxBenchPress = d3.scale.linear()
+                .domain( [ overall.gaussians.bpG.cdf(meta['benchpress'][0]), overall.gaussians.bpG.cdf(meta['benchpress'][2]) ])
+                .range( [45.0, 70.0] );
+
+            overall.scales.sBroadJump = d3.scale.linear()
+                .domain( [ overall.gaussians.bjG.cdf(meta['broadjump'][0]), overall.gaussians.bjG.cdf(meta['broadjump'][2]) ] )
+                .range( [35.0, 70.0] );
+
+            overall.scales.sxVerticalLeap = d3.scale.linear()
+                .domain( [ overall.gaussians.vlG.cdf(meta['vertleap'][0]), overall.gaussians.vlG.cdf(meta['vertleap'][2]) ] )
+                .range( [35.0, 0.0] );
+
+            overall.scales.syVerticalLeap = d3.scale.linear()
+                .domain( [ overall.gaussians.vlG.cdf(meta['vertleap'][0]), overall.gaussians.vlG.cdf(meta['vertleap'][2]) ] )
+                .range( [35.0, 70.0] );
+
+            overall.scales.sxShuttle = d3.scale.linear()
+                .domain( [ overall.gaussians.shuttleG.cdf(meta['shuttle'][0]), overall.gaussians.shuttleG.cdf(meta['shuttle'][2]) ] )
+                .range( [0.0, 25.0] );
+
 
             _drawExample(selector, meta);
 
