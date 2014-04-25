@@ -199,7 +199,7 @@ function drawAllPlayers( selector, filter_by )
     }
 
     overall.gaussians.ydG = Gaussian(4.8, 0.32*0.32),
-    overall.gaussians.bpG = Gaussian(20.39, 7.2*7.2),
+    overall.gaussians.bpG = Gaussian(19.19, 8.47*8.47),
     overall.gaussians.vlG = Gaussian(32.19, 4.49*4.49),
     overall.gaussians.bjG = Gaussian(114.89, 9.94*9.94),
     overall.gaussians.coneG = Gaussian(7.22, 0.42*0.42),
@@ -276,9 +276,13 @@ function drawAllPlayers( selector, filter_by )
                 .range( [0.0, 25.0] );
 
 
-            _drawExample(selector, meta);
+            if (filter_by === "position") {
 
-            _drawPlayers(selector, players, meta);
+            } else {
+                _drawExample(selector, meta);
+
+                _drawPlayers(selector, players, meta);
+            }
             
         });
 }

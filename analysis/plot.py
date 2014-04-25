@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import matplotlib.mlab as mlab
 
 def read_data():
-    return json.load(open('../data/nfl-combine-2013.json'))
+    return json.load(open('../data/pruned-nfl-combine-2013.json'))
 
 def plot(players, key):
     points = {}
@@ -28,8 +28,10 @@ def plot(players, key):
 
     # normal distribution
     values = sorted(values)
-    mean = np.mean(values)
-    std = np.std(values)
+    mean = round(np.mean(values), 2)
+    std = round(np.std(values), 2)
+    print key, mean, std
+    """
     pdf = mlab.normpdf(x,mean,std)
 
     # plot points
@@ -50,7 +52,7 @@ def plot(players, key):
     plt.title('normal distribution ' + key)
     plt.plot(x, pdf)
     plt.savefig('normal-' + key + '.png')
-    
+    """
 
 if __name__ == '__main__':
     data = read_data()
