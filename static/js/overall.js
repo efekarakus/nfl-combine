@@ -35,6 +35,66 @@ function drawAllPlayers( selector, filter_by )
         }
     }
 
+    function _addScales( meta )
+    {
+        overall.scales.sxCone = d3.scale.linear()
+                .domain( [ overall.gaussians.coneG.cdf(meta['3cone'][0]), overall.gaussians.coneG.cdf(meta['3cone'][2]) ] )
+                .range( [0.0, 35.0] );
+
+        overall.scales.syCone = d3.scale.linear()
+            .domain( [ overall.gaussians.coneG.cdf(meta['3cone'][0]), overall.gaussians.coneG.cdf(meta['3cone'][2]) ] )
+            .range( [0.0, 35.0] );
+
+        overall.scales.sx40Yard = d3.scale.linear()
+            .domain( [ overall.gaussians.ydG.cdf(meta['40yd'][0]), overall.gaussians.ydG.cdf(meta['40yd'][2]) ] )
+            .range( [70.0, 35.0] );
+
+        overall.scales.sy40Yard = d3.scale.linear()
+            .domain( [ overall.gaussians.ydG.cdf(meta['40yd'][0]), overall.gaussians.ydG.cdf(meta['40yd'][2]) ] )
+            .range( [0.0, 35.0] );
+
+        overall.scales.sxBenchPress = d3.scale.linear()
+            .domain( [ overall.gaussians.bpG.cdf(meta['benchpress'][0]), overall.gaussians.bpG.cdf(meta['benchpress'][2]) ])
+            .range( [45.0, 70.0] );
+
+        overall.scales.sBroadJump = d3.scale.linear()
+            .domain( [ overall.gaussians.bjG.cdf(meta['broadjump'][0]), overall.gaussians.bjG.cdf(meta['broadjump'][2]) ] )
+            .range( [35.0, 70.0] );
+
+        overall.scales.sxVerticalLeap = d3.scale.linear()
+            .domain( [ overall.gaussians.vlG.cdf(meta['vertleap'][0]), overall.gaussians.vlG.cdf(meta['vertleap'][2]) ] )
+            .range( [35.0, 0.0] );
+
+        overall.scales.syVerticalLeap = d3.scale.linear()
+            .domain( [ overall.gaussians.vlG.cdf(meta['vertleap'][0]), overall.gaussians.vlG.cdf(meta['vertleap'][2]) ] )
+            .range( [35.0, 70.0] );
+
+        overall.scales.sxShuttle = d3.scale.linear()
+            .domain( [ overall.gaussians.shuttleG.cdf(meta['shuttle'][0]), overall.gaussians.shuttleG.cdf(meta['shuttle'][2]) ] )
+            .range( [0.0, 25.0] );
+    }
+
+    function _sortPlayers( players , filter_by )
+    {
+        if (filter_by === 'random') {
+            players = shuffle(players);
+        }
+        else if (filter_by === '40yd' || filter_by === '3cone' || filter_by === 'shuttle') {
+            players.sort(function(p1, p2) {
+                if (p1[filter_by] > p2[filter_by]) return 1;
+                if (p1[filter_by] < p2[filter_by]) return -1;
+                return 0;
+            });
+        }
+        else if (filter_by === 'benchpress' || filter_by === 'vertleap' || filter_by === 'broadjump') {
+            players.sort(function(p1, p2) {
+                if (p1[filter_by] > p2[filter_by]) return -1;
+                if (p1[filter_by] < p2[filter_by]) return 1;
+                return 0;
+            });
+        }
+    }
+
     function _getCoords( meta, player )
     {
         var coords = [];
@@ -198,6 +258,7 @@ function drawAllPlayers( selector, filter_by )
             .text(function( d ) { return d.name.text; } );
     }
 
+
     overall.gaussians.ydG = Gaussian(4.8, 0.32*0.32),
     overall.gaussians.bpG = Gaussian(19.19, 8.47*8.47),
     overall.gaussians.vlG = Gaussian(32.19, 4.49*4.49),
@@ -220,64 +281,14 @@ function drawAllPlayers( selector, filter_by )
                 _clean( player );
             } );
 
-            if (filter_by === 'random') {
-                players = shuffle(players);
-            }
-            else if (filter_by === '40yd' || filter_by === '3cone' || filter_by === 'shuttle') {
-                players.sort(function(p1, p2) {
-                    if (p1[filter_by] > p2[filter_by]) return 1;
-                    if (p1[filter_by] < p2[filter_by]) return -1;
-                    return 0;
-                });
-            }
-            else if (filter_by === 'benchpress' || filter_by === 'vertleap' || filter_by === 'broadjump') {
-                players.sort(function(p1, p2) {
-                    if (p1[filter_by] > p2[filter_by]) return -1;
-                    if (p1[filter_by] < p2[filter_by]) return 1;
-                    return 0;
-                });
-            }
-
+            // sort based on filter
+            _sortPlayers( players, filter_by );
+            
             // scales
-            overall.scales.sxCone = d3.scale.linear()
-                .domain( [ overall.gaussians.coneG.cdf(meta['3cone'][0]), overall.gaussians.coneG.cdf(meta['3cone'][2]) ] )
-                .range( [0.0, 35.0] );
-
-            overall.scales.syCone = d3.scale.linear()
-                .domain( [ overall.gaussians.coneG.cdf(meta['3cone'][0]), overall.gaussians.coneG.cdf(meta['3cone'][2]) ] )
-                .range( [0.0, 35.0] );
-
-            overall.scales.sx40Yard = d3.scale.linear()
-                .domain( [ overall.gaussians.ydG.cdf(meta['40yd'][0]), overall.gaussians.ydG.cdf(meta['40yd'][2]) ] )
-                .range( [70.0, 35.0] );
-
-            overall.scales.sy40Yard = d3.scale.linear()
-                .domain( [ overall.gaussians.ydG.cdf(meta['40yd'][0]), overall.gaussians.ydG.cdf(meta['40yd'][2]) ] )
-                .range( [0.0, 35.0] );
-
-            overall.scales.sxBenchPress = d3.scale.linear()
-                .domain( [ overall.gaussians.bpG.cdf(meta['benchpress'][0]), overall.gaussians.bpG.cdf(meta['benchpress'][2]) ])
-                .range( [45.0, 70.0] );
-
-            overall.scales.sBroadJump = d3.scale.linear()
-                .domain( [ overall.gaussians.bjG.cdf(meta['broadjump'][0]), overall.gaussians.bjG.cdf(meta['broadjump'][2]) ] )
-                .range( [35.0, 70.0] );
-
-            overall.scales.sxVerticalLeap = d3.scale.linear()
-                .domain( [ overall.gaussians.vlG.cdf(meta['vertleap'][0]), overall.gaussians.vlG.cdf(meta['vertleap'][2]) ] )
-                .range( [35.0, 0.0] );
-
-            overall.scales.syVerticalLeap = d3.scale.linear()
-                .domain( [ overall.gaussians.vlG.cdf(meta['vertleap'][0]), overall.gaussians.vlG.cdf(meta['vertleap'][2]) ] )
-                .range( [35.0, 70.0] );
-
-            overall.scales.sxShuttle = d3.scale.linear()
-                .domain( [ overall.gaussians.shuttleG.cdf(meta['shuttle'][0]), overall.gaussians.shuttleG.cdf(meta['shuttle'][2]) ] )
-                .range( [0.0, 25.0] );
-
-
+            _addScales( meta );
+            
             if (filter_by === "position") {
-
+                
             } else {
                 _drawExample(selector, meta);
 
