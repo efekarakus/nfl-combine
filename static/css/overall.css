@@ -85,6 +85,23 @@ body {
     font-size: 12px;
 }
 
+.position {
+    display: table-row;
+    font-family: 'Signika', 'sans-serif';
+    font-weight: 400px;
+    font-size: 14px;
+}
+
+.position .title {
+    display: table-cell;
+    vertical-align: middle;
+    border-right: 1px solid black;
+}
+
+.position .polygons {
+    display: table-cell; 
+}
+
 polygon.inner {
     fill: #202020;
     opacity: 0.8;

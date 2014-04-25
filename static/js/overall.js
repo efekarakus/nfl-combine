@@ -132,9 +132,9 @@ function drawAllPlayers( selector, filter_by )
         return coords;
     }
 
-    function _drawExample(selector, meta)
+    function _drawExample(mainDiv, meta)
     {
-        var exampleDiv = d3.select(selector)
+        var exampleDiv = mainDiv
             .append('div')
             .attr('class', 'example');
 
@@ -214,9 +214,9 @@ function drawAllPlayers( selector, filter_by )
             .text('Example')
     }
 
-    function _drawPlayers(selector, players, meta)
+    function _drawPlayers(mainDiv, players, meta)
     {
-        var playerDivs = d3.select(selector)
+        var playerDivs = mainDiv
             .selectAll('player')
             .data(players)
             .enter()
@@ -258,6 +258,49 @@ function drawAllPlayers( selector, filter_by )
             .text(function( d ) { return d.name.text; } );
     }
 
+    function _drawPositions(mainDiv, players, meta)
+    {
+        var positions = [
+            // offense
+            {name: "Wide Receiver", abbr: "WR"},
+            {name: "Offensive Tackle", abbr: "OT"},
+            {name: "Offensive Guard", abbr: "OG"},
+            {name: "Center", abbr: "C"},
+            {name: "Tight End", abbr: "TE"},
+            {name: "Quarterback", abbr: "QB"},
+            {name: "Fullback", abbr: "FB"},
+            {name: "Runningback", abbr: "RB"},
+            // defense
+            {name: "Defensive End", abbr: "DE"},
+            {name: "Defensive Tackle", abbr: "DT"},
+            {name: "Outside Linebacker", abbr: "OLB"},
+            {name: "Inside Linebacker", abbr: "ILB"},
+            {name: "Cornerback", abbr: "CB"},
+            {name: "Free Safety", abbr: "FS"},
+            {name: "Strong Safety", abbr: "SS"}
+        ];
+
+        positions.forEach(function(position) {
+            var positionDiv = mainDiv.append('div')
+                .attr('class', 'position');
+
+            positionDiv.append('div')
+                .attr('class', 'title')
+                .text(position.name);
+
+            var polygonsDiv = positionDiv.append('div')
+                .attr('class', 'polygons');
+
+            var posPlayers = [];
+            console.log(meta['positions'], position.abbr);
+            meta['positions'][position.abbr]['indices'].forEach(function(i) {
+                posPlayers.push( players[i] );
+            });
+
+            _drawPlayers(polygonsDiv, posPlayers, meta);
+        });
+    }
+
 
     overall.gaussians.ydG = Gaussian(4.8, 0.32*0.32),
     overall.gaussians.bpG = Gaussian(19.19, 8.47*8.47),
@@ -286,13 +329,18 @@ function drawAllPlayers( selector, filter_by )
             
             // scales
             _addScales( meta );
-            
-            if (filter_by === "position") {
-                
-            } else {
-                _drawExample(selector, meta);
+           
+            var mainDiv = d3.select( selector );
 
-                _drawPlayers(selector, players, meta);
+            if (filter_by === "position") {
+
+                _drawPositions(mainDiv, players, meta);
+
+            } else {
+
+                _drawExample(mainDiv, meta);
+
+                _drawPlayers(mainDiv, players, meta);
             }
             
         });
