@@ -1,7 +1,46 @@
 @import url(http://fonts.googleapis.com/css?family=Signika:400,600,700,300);
 
+.header {
+    margin-left: 200px;
+    width: 910px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    font-family: 'Signika', 'sans-serif';
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.header .filter {
+    display: inline;
+}
+
+.filter .title {
+    display: inline;
+}
+
+.filter .menu {
+    display: inline;
+    margin-left: 5px;
+}
+
+.header .nav {
+    display: inline;
+    float: right;
+}
+
+.nav .sub-nav {
+    display: inline;
+    margin-left: 30px;
+}
+
+.nav .sub-nav:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
 .main {
-    margin: 0 auto;
+    margin-left: 200px;
+    margin-top: 30px;
     width: 1000px;
 }
 

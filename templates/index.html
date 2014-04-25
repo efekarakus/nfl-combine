@@ -4,6 +4,29 @@
     </head>
     <body>
 
+    <div class="header">
+        <div class="filter">
+            <div class="title"> Filter: </div>
+            <div class="menu">
+                <select>
+                    <option id="random" selected="selected"> Random </option>
+                    <option id="position"> Position </option>
+                    <option id="40yd"> 40-Yard Dash </option>
+                    <option id="benchpress"> Bench Press </option>
+                    <option id="vertleap"> Vertical Jump </option>
+                    <option id="broadjump"> Broad Jump </option>
+                    <option id="3cone"> 3-Cone Drill </option>
+                    <option id="shuttle"> Shuttle Run </option>
+                </select>
+            </div>
+        </div>
+
+        <div class="nav">
+            <div class="sub-nav"> FAQ </div>
+            <div class="sub-nav"> About </div>
+        </div>
+    </div>
+
     <div class="main">
     </div>
 
@@ -12,7 +35,12 @@
     <script src="../static/js/gaussian.js"></script>
     <script src="../static/js/overall.js"></script>
     <script>
-        drawAllPlayers('.main');
+        drawAllPlayers('.main', 'random');
+
+        $("select").change(function() {
+            var filter_by = $("select option:selected").attr("id");
+            drawAllPlayers('.main', filter_by);
+        })
     </script>
     </body>
 </html>

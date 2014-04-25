@@ -11,8 +11,12 @@ var overall = {
 }
 
 
-function drawAllPlayers( selector )
+function drawAllPlayers( selector, filter_by )
 {
+
+    // clear
+    $(selector).html('');
+
     function _clean( player ) 
     {
         c( player, '3cone' );
@@ -187,7 +191,7 @@ function drawAllPlayers( selector )
                 .attr("class", "outer")
                 .attr("points", function(d) {
                     return d.map(function(d) { return [d.x, d.y].join(","); }).join(" ");
-                });
+                })
 
         var name = playerDivs.append('div')
             .attr('class', 'name')
@@ -211,11 +215,28 @@ function drawAllPlayers( selector )
 
             // clean data
             var players = json[ 'players' ];
-            players = shuffle(players);
             players.forEach( function( player ) 
             {
                 _clean( player );
             } );
+
+            if (filter_by === 'random') {
+                players = shuffle(players);
+            }
+            else if (filter_by === '40yd' || filter_by === '3cone' || filter_by === 'shuttle') {
+                players.sort(function(p1, p2) {
+                    if (p1[filter_by] > p2[filter_by]) return 1;
+                    if (p1[filter_by] < p2[filter_by]) return -1;
+                    return 0;
+                });
+            }
+            else if (filter_by === 'benchpress' || filter_by === 'vertleap' || filter_by === 'broadjump') {
+                players.sort(function(p1, p2) {
+                    if (p1[filter_by] > p2[filter_by]) return -1;
+                    if (p1[filter_by] < p2[filter_by]) return 1;
+                    return 0;
+                });
+            }
 
             // scales
             overall.scales.sxCone = d3.scale.linear()
