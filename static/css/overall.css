@@ -71,6 +71,14 @@ body {
     margin: 7px;
 }
 
+.player:hover {
+    cursor: pointer;
+}
+
+.player.average:hover {
+    cursor: default;
+}
+
 .example text {
     font-family: 'Signika', 'sans-serif';
     font-weight: 400;
@@ -90,16 +98,26 @@ body {
     font-family: 'Signika', 'sans-serif';
     font-weight: 400px;
     font-size: 14px;
+    border-bottom: 1px dashed black;
 }
 
 .position .title {
     display: table-cell;
     vertical-align: middle;
-    border-right: 1px solid black;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    transform: rotate(-90deg); 
 }
 
 .position .polygons {
     display: table-cell; 
+}
+
+.separator {
+    display: table-row;
+    height: 30px;
 }
 
 polygon.inner {
@@ -112,4 +130,21 @@ polygon.outer {
     stroke: #000;
     stroke-width: 1px;
     opacity: 0.5;
+}
+
+.player.average polygon.inner {
+    fill: #1c3667;
+    opacity: 0.8;
+}
+
+.player.average polygon.outer {
+    fill: #b52025;
+    stroke: #000;
+    stroke-width: 1px;
+    opacity: 0.5;
+}
+
+.separator {
+    width: 100%;
+    margin-top: 20px;
 }

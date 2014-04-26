@@ -289,15 +289,27 @@ function drawAllPlayers( selector, filter_by )
                 .text(position.name);
 
             var polygonsDiv = positionDiv.append('div')
-                .attr('class', 'polygons');
+                .attr('class', 'polygons')
+                .attr('id', position.abbr);
 
             var posPlayers = [];
-            console.log(meta['positions'], position.abbr);
+
+            // add average player
+            meta['positions'][position.abbr]['average']['name'] = { 'text': 'Average' };
+            posPlayers.push( meta['positions'][position.abbr]['average'] )
+
             meta['positions'][position.abbr]['indices'].forEach(function(i) {
                 posPlayers.push( players[i] );
             });
 
             _drawPlayers(polygonsDiv, posPlayers, meta);
+
+
+            var avgDiv = $( $('#' + position.abbr).children()[0] );
+            avgDiv.addClass('average');
+
+            mainDiv.append('div')
+                .attr('class', 'separator');
         });
     }
 
