@@ -7,15 +7,22 @@ function shuffle(o){ //v1.0
 
 var overall = {
     scales: {},
-    gaussians: {}
+    gaussians: {},
+    selectedCount: 0,
+    maxSelected: 4,
+    selections: []
 }
 
 
 function drawAllPlayers( selector, filter_by )
 {
+    // reset selections
+    overall.selectedCount = 0;
+    overall.selections = [];
 
     // clear
     $(selector).html('');
+    $('.compare').html('Compare');
 
     function _clean( player ) 
     {
@@ -295,6 +302,54 @@ function drawAllPlayers( selector, filter_by )
         var name = playerDivs.append('div')
             .attr('class', 'name')
             .text(function( d ) { return d.name.text; } );
+
+        playerDivs.on('click', function(data) {
+
+            if(data['name']['text'] === 'Average') { return; }
+
+            var p = d3.select(this);
+            var inner = p.select('.inner');
+            var outer = p.select('.outer');
+
+            var innerClass = inner.attr('class');
+            var outerClass = outer.attr('class');
+
+            if (innerClass === 'inner') {
+                if ( overall.selectedCount < overall.maxSelected ) {
+                    // change the colors
+                    outer.attr('class', 'outer selected');
+                    inner.attr('class', 'inner selected');
+
+                    // increment selection amount
+                    overall.selectedCount += 1;
+
+                    // change the text in compare
+                    $('.compare').html('Compare (' + overall.selectedCount + '/' + overall.maxSelected + ')');
+
+                    overall.selections.push( data );
+                }
+            } else {
+                // reset the colors
+                inner.attr('class', 'inner');
+                outer.attr('class', 'outer');
+
+                // decrement count
+                overall.selectedCount -= 1;
+
+                // adjust text in compare
+                if (overall.selectedCount === 0) {
+                    $('.compare').html('Compare');
+                } else {
+                    $('.compare').html('Compare (' + overall.selectedCount + '/' + overall.maxSelected + ')');
+                }
+
+                // remove from selections
+                var index = overall.selections.indexOf(data);
+                overall.selections.splice( index, 1 );
+            }
+            
+
+        });
     }
 
     function _drawPositions(mainDiv, players, meta)

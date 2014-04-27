@@ -6,19 +6,23 @@
 
     <div class="header">
         <div class="filter">
-            <div class="title"> Filter: </div>
+            <div class="title"> Sort by: </div>
             <div class="menu">
                 <select>
                     <option id="random" selected="selected"> Random </option>
                     <option id="position"> Position </option>
                     <option id="40yd"> 40-Yard Dash </option>
                     <option id="benchpress"> Bench Press </option>
-                    <option id="vertleap"> Vertical Jump </option>
+                    <option id="vertleap"> Vertical Leap </option>
                     <option id="broadjump"> Broad Jump </option>
                     <option id="3cone"> 3-Cone Drill </option>
                     <option id="shuttle"> Shuttle Run </option>
                 </select>
             </div>
+        </div>
+
+        <div class="compare">
+            Compare
         </div>
 
         <div class="nav">
@@ -35,12 +39,18 @@
     <script src="../static/js/gaussian.js"></script>
     <script src="../static/js/overall.js"></script>
     <script>
+
         drawAllPlayers('.main', 'random');
 
-        $("select").change(function() {
+        $("select").change(function() {            
             var filter_by = $("select option:selected").attr("id");
             drawAllPlayers('.main', filter_by);
+        });
+
+        $(".compare").click(function() {
+            console.log( overall.selections );
         })
+
     </script>
     </body>
 </html>

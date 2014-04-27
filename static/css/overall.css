@@ -28,19 +28,34 @@ body {
     margin-left: 5px;
 }
 
+.header .compare {
+    display: inline;
+    margin-left: 220px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.header .compare:hover {
+    cursor: pointer;
+    background: #C0C0C0;
+    color: #fff;
+}
+
 .header .nav {
     display: inline;
     float: right;
+    margin-right: 5px;
 }
 
 .nav .sub-nav {
     display: inline;
-    margin-left: 30px;
+    margin-left: 20px;
 }
 
 .nav .sub-nav:hover {
     cursor: pointer;
-    text-decoration: underline;
+    background: #C0C0C0;
+    color: #fff;
 }
 
 .main {
@@ -131,6 +146,14 @@ polygon.outer {
     stroke: #000;
     stroke-width: 1px;
     opacity: 0.8;
+}
+
+polygon.inner.selected {
+    fill: #fcb827;
+}
+
+polygon.outer.selected {
+    fill: #552684;
 }
 
 .player.average polygon.inner {
