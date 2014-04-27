@@ -139,20 +139,18 @@ function drawAllPlayers( selector, filter_by )
             .attr('class', 'example');
 
         var svg = exampleDiv.append('svg')
-            .attr("width", 140)
-            .attr("height", 70);
+            .attr("width", 230)
+            .attr("height", 184);
 
         svg.selectAll(".inner")
-            .data( [_getCoords( meta, { 
-                    "3cone": meta["3cone"][1],
-                    "40yd": meta["40yd"][1],
-                    "benchpress": meta["benchpress"][1],
-                    "broadjump": meta["broadjump"][1],
-                    "vertleap": meta["vertleap"][1],
-                    "shuttle": meta["shuttle"][1]
-                }
-            )] )
-            .enter()
+            .data([[ 
+                {"x": 20, "y": 20},
+                {"x": 124, "y": 20},
+                {"x": 144, "y": 72},
+                {"x": 124, "y": 124},
+                {"x": 20, "y": 124},
+                {"x": 0, "y": 72}
+            ]]).enter()
                 .append("polygon")
                 .attr("class", "inner")
                 .attr("points", function(d) {
@@ -161,12 +159,12 @@ function drawAllPlayers( selector, filter_by )
 
         svg.selectAll(".outer")
             .data([[ 
-                {"x": 20, "y": 20},
-                {"x": 50, "y": 20},
-                {"x": 55, "y": 35},
-                {"x": 50, "y": 50},
-                {"x": 20, "y": 50},
-                {"x": 15, "y": 35}
+                {"x": 15, "y": 15},
+                {"x": 134, "y": 10},
+                {"x": 122, "y": 72},
+                {"x": 144, "y": 144},
+                {"x": 10, "y": 134},
+                {"x": 72, "y": 72}
             ]]).enter()
                 .append("polygon")
                 .attr("class", "outer")
@@ -174,39 +172,80 @@ function drawAllPlayers( selector, filter_by )
                     return d.map(function(d) { return [d.x, d.y].join(","); }).join(" ");
                 });
 
+        {
+            // add polygon labels
+            svg.append("text")
+                .attr("x", 0)
+                .attr("y", 10)
+                .text("3-Cone")
+                .style("font-size", "12px")
+                .style("fill", "#b52025");
+
+            svg.append("text")
+                .attr("x", 138)
+                .attr("y", 10)
+                .text("40 Yard")
+                .style("font-size", "12px")
+                .style("fill", "#b52025");
+
+            svg.append("text")
+                .attr("x", 125)
+                .attr("y", 72)
+                .text("Bench Press")
+                .style("font-size", "12px")
+                .style("fill", "#b52025");
+
+
+            svg.append("text")
+                .attr("x", 130)
+                .attr("y", 155)
+                .text("Broad Jump")
+                .style("font-size", "12px")
+                .style("fill", "#b52025");
+
+            svg.append("text")
+                .attr("x", 0)
+                .attr("y", 150)
+                .text("Vertical Leap")
+                .style("font-size", "12px")
+                .style("fill", "#b52025");
+
+            svg.append("text")
+                .attr("x", 25)
+                .attr("y", 75)
+                .text("Shuttle")
+                .style("font-size", "12px")
+                .style("fill", "#b52025");
+        }
+
         svg.append("rect")
-            .attr("x", "110")
+            .attr("x", "200")
             .attr("y", "20")
             .attr("width", 20)
             .attr("height", 10)
-            .style("fill", "#202020")
-            .style("opacity", "0.8")
+            .style("fill", "none")
             .style("stroke", "#000")
-            .style("stroke-width", "0.5");
+            .style("stroke-width", "1");
 
         svg.append("rect")
-            .attr("x", 110)
+            .attr("x", 200)
             .attr("y", 35)
             .attr("width", 20)
             .attr("height", 10)
             .style("fill", "#C0C0C0")
-            .style("opacity", "0.5")
+            .style("opacity", "0.8")
             .style("stroke", "#000")
-            .style("stroke-width", "0.5");
+            .style("stroke-width", "1");
 
         svg.append("text")
-            .attr("x", 70)
+            .attr("x", 160)
             .attr("y", 28)
             .text("Average")
-            .style("color", "#202020")
-            .style("opacity", "0.8");
 
         svg.append("text")
-            .attr("x", 75)
+            .attr("x", 165)
             .attr("y", 42)
             .text("Player")
-            .style("color", "#C0C0C0")
-            .style("opacity", "0.5");
 
 
         exampleDiv.append('div')
