@@ -3,16 +3,18 @@
 body {
     width: 1400px;
     margin: 0 auto;
+    background-color: #111f33;
 }
 
 .header {
     margin-left: 200px;
     width: 910px;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
     font-family: 'Signika', 'sans-serif';
     font-size: 20px;
     font-weight: 400;
+    color: #fff;
 }
 
 .header .filter {
@@ -101,11 +103,11 @@ body {
 }
 
 .name {
-    border-top: 1px solid black;
     text-align: center;
     font-family: 'Signika', 'sans-serif';
-    font-weight: 400;
+    font-weight: 300;
     font-size: 12px;
+    color: #fff;
 }
 
 .position {
@@ -124,6 +126,7 @@ body {
     -o-transform: rotate(-90deg);
     -ms-transform: rotate(-90deg);
     transform: rotate(-90deg); 
+    color: #fff;
 }
 
 .position .polygons {
@@ -136,24 +139,23 @@ body {
 }
 
 polygon.inner {
-    fill: none;
-    stroke: #202020;
-    stroke-width: 1px;
+    fill: #202e42;
+    opacity: 0.7;
 }
 
 polygon.outer {
-    fill: #C0C0C0;
-    stroke: #000;
+    fill: none;
+    stroke: #b52025;
     stroke-width: 1px;
-    opacity: 0.8;
 }
 
 polygon.inner.selected {
-    fill: #fcb827;
+    fill: #202e42;
 }
 
 polygon.outer.selected {
-    fill: #552684;
+    fill: #b52025;
+    opacity: 0.6;
 }
 
 .player.average polygon.inner {
