@@ -14,15 +14,12 @@ var overall = {
 }
 
 
-function drawAllPlayers( selector, filter_by )
+
+function drawAllPlayers( selector, filter_by, isFirst )
 {
     // reset selections
     overall.selectedCount = 0;
     overall.selections = [];
-
-    // clear
-    $(selector).html('');
-    $('.compare').html('Compare');
 
     function _clean( player ) 
     {
@@ -46,39 +43,43 @@ function drawAllPlayers( selector, filter_by )
     {
         overall.scales.sxCone = d3.scale.linear()
                 .domain( [ overall.gaussians.coneG.cdf(meta['3cone'][0]), overall.gaussians.coneG.cdf(meta['3cone'][2]) ] )
-                .range( [0.0, 35.0] );
+                .range( [20.0, 45.0] );
 
         overall.scales.syCone = d3.scale.linear()
             .domain( [ overall.gaussians.coneG.cdf(meta['3cone'][0]), overall.gaussians.coneG.cdf(meta['3cone'][2]) ] )
-            .range( [0.0, 35.0] );
+            .range( [0.0, 45.0] );
 
         overall.scales.sx40Yard = d3.scale.linear()
             .domain( [ overall.gaussians.ydG.cdf(meta['40yd'][0]), overall.gaussians.ydG.cdf(meta['40yd'][2]) ] )
-            .range( [70.0, 35.0] );
+            .range( [70.0, 45.0] );
 
         overall.scales.sy40Yard = d3.scale.linear()
             .domain( [ overall.gaussians.ydG.cdf(meta['40yd'][0]), overall.gaussians.ydG.cdf(meta['40yd'][2]) ] )
-            .range( [0.0, 35.0] );
+            .range( [0.0, 45.0] );
 
         overall.scales.sxBenchPress = d3.scale.linear()
             .domain( [ overall.gaussians.bpG.cdf(meta['benchpress'][0]), overall.gaussians.bpG.cdf(meta['benchpress'][2]) ])
+            .range( [55.0, 90.0] );
+
+        overall.scales.sxBroadJump = d3.scale.linear()
+            .domain( [ overall.gaussians.bjG.cdf(meta['broadjump'][0]), overall.gaussians.bjG.cdf(meta['broadjump'][2]) ] )
             .range( [45.0, 70.0] );
 
-        overall.scales.sBroadJump = d3.scale.linear()
+        overall.scales.syBroadJump = d3.scale.linear()
             .domain( [ overall.gaussians.bjG.cdf(meta['broadjump'][0]), overall.gaussians.bjG.cdf(meta['broadjump'][2]) ] )
-            .range( [35.0, 70.0] );
+            .range( [45.0, 90.0] );
 
         overall.scales.sxVerticalLeap = d3.scale.linear()
             .domain( [ overall.gaussians.vlG.cdf(meta['vertleap'][0]), overall.gaussians.vlG.cdf(meta['vertleap'][2]) ] )
-            .range( [35.0, 0.0] );
+            .range( [45.0, 20.0] );
 
         overall.scales.syVerticalLeap = d3.scale.linear()
             .domain( [ overall.gaussians.vlG.cdf(meta['vertleap'][0]), overall.gaussians.vlG.cdf(meta['vertleap'][2]) ] )
-            .range( [35.0, 70.0] );
+            .range( [45.0, 90.0] );
 
         overall.scales.sxShuttle = d3.scale.linear()
             .domain( [ overall.gaussians.shuttleG.cdf(meta['shuttle'][0]), overall.gaussians.shuttleG.cdf(meta['shuttle'][2]) ] )
-            .range( [0.0, 25.0] );
+            .range( [0.0, 35.0] );
     }
 
     function _sortPlayers( players , filter_by )
@@ -118,7 +119,8 @@ function drawAllPlayers( selector, filter_by )
             sx40Yard = overall.scales.sx40Yard,
             sy40Yard = overall.scales.sy40Yard,
             sxBenchPress = overall.scales.sxBenchPress,
-            sBroadJump = overall.scales.sBroadJump,
+            sxBroadJump = overall.scales.sxBroadJump,
+            syBroadJump = overall.scales.syBroadJump,
             sxVerticalLeap = overall.scales.sxVerticalLeap,
             syVerticalLeap = overall.scales.syVerticalLeap,
             sxShuttle = overall.scales.sxShuttle;
@@ -128,13 +130,13 @@ function drawAllPlayers( selector, filter_by )
         if (player['40yd'] != undefined)
             coords.push( {"x": sx40Yard( ydG.cdf(player['40yd']) ), "y": sy40Yard( ydG.cdf(player['40yd']) )} );
         if (player['benchpress'] != undefined)
-            coords.push( {"x": sxBenchPress( bpG.cdf(player['benchpress']) ), "y": 35.0 } );
+            coords.push( {"x": sxBenchPress( bpG.cdf(player['benchpress']) ), "y": 45.0 } );
         if (player['broadjump'] != undefined)
-            coords.push( {"x": sBroadJump( bjG.cdf(player['broadjump']) ), "y": sBroadJump( bjG.cdf(player['broadjump']) )} );
+            coords.push( {"x": sxBroadJump( bjG.cdf(player['broadjump']) ), "y": syBroadJump( bjG.cdf(player['broadjump']) )} );
         if (player['vertleap'] != undefined)
             coords.push( {"x": sxVerticalLeap( vlG.cdf(player['vertleap']) ), "y": syVerticalLeap( vlG.cdf(player['vertleap']) )} );
         if (player['shuttle'] != undefined)
-            coords.push( {"x": sxShuttle( shuttleG.cdf(player['shuttle']) ), "y": 35.0} );
+            coords.push( {"x": sxShuttle( shuttleG.cdf(player['shuttle']) ), "y": 45.0} );
 
         return coords;
     }
@@ -143,20 +145,20 @@ function drawAllPlayers( selector, filter_by )
     {
         var exampleDiv = mainDiv
             .append('div')
-            .attr('class', 'example');
+            .attr('class', 'legend');
 
         var svg = exampleDiv.append('svg')
-            .attr("width", 230)
-            .attr("height", 184);
+            .attr("width", 700)
+            .attr("height", 600);
 
         svg.selectAll(".inner")
             .data([[ 
-                {"x": 20, "y": 20},
-                {"x": 124, "y": 20},
-                {"x": 144, "y": 72},
-                {"x": 124, "y": 124},
-                {"x": 20, "y": 124},
-                {"x": 0, "y": 72}
+                {"x": 350, "y": 150},
+                {"x": 500, "y": 150},
+                {"x": 600, "y": 300},
+                {"x": 500, "y": 450},
+                {"x": 350, "y": 450},
+                {"x": 250, "y": 300}
             ]]).enter()
                 .append("polygon")
                 .attr("class", "inner")
@@ -164,14 +166,15 @@ function drawAllPlayers( selector, filter_by )
                     return d.map(function(d) { return [d.x, d.y].join(","); }).join(" ");
                 });
 
+        
         svg.selectAll(".outer")
             .data([[ 
-                {"x": 15, "y": 15},
-                {"x": 134, "y": 10},
-                {"x": 122, "y": 72},
-                {"x": 144, "y": 144},
-                {"x": 10, "y": 134},
-                {"x": 72, "y": 72}
+                {"x": 320, "y": 120},
+                {"x": 510, "y": 140},
+                {"x": 550, "y": 300},
+                {"x": 480, "y": 420},
+                {"x": 370, "y": 470},
+                {"x": 270, "y": 300}
             ]]).enter()
                 .append("polygon")
                 .attr("class", "outer")
@@ -179,52 +182,60 @@ function drawAllPlayers( selector, filter_by )
                     return d.map(function(d) { return [d.x, d.y].join(","); }).join(" ");
                 });
 
+        svg.selectAll(".point")
+            .data([
+                {"x": 320, "y": 120},
+                {"x": 510, "y": 140},
+                {"x": 550, "y": 300},
+                {"x": 480, "y": 420},
+                {"x": 370, "y": 470},
+                {"x": 270, "y": 300}
+            ]).enter()
+                .append("circle")
+                .attr("class", "point")
+                .attr("cx", function(c) {return c.x;})
+                .attr("cy", function(c) {return c.y;})
+                .attr("r", "4");
+
         {
             // add polygon labels
             svg.append("text")
-                .attr("x", 0)
-                .attr("y", 10)
+                .attr("class", "label")
+                .attr("x", 280)
+                .attr("y", 110)
                 .text("3-Cone")
-                .style("font-size", "12px")
-                .style("fill", "#b52025");
 
             svg.append("text")
-                .attr("x", 138)
-                .attr("y", 10)
+                .attr("class", "label")
+                .attr("x", 515)
+                .attr("y", 130)
                 .text("40 Yard")
-                .style("font-size", "12px")
-                .style("fill", "#b52025");
 
             svg.append("text")
-                .attr("x", 125)
-                .attr("y", 72)
+                .attr("class", "label")
+                .attr("x", 560)
+                .attr("y", 305)
                 .text("Bench Press")
-                .style("font-size", "12px")
-                .style("fill", "#b52025");
-
 
             svg.append("text")
-                .attr("x", 130)
-                .attr("y", 155)
+                .attr("class", "label")
+                .attr("x", 485)
+                .attr("y", 440)
                 .text("Broad Jump")
-                .style("font-size", "12px")
-                .style("fill", "#b52025");
 
             svg.append("text")
-                .attr("x", 0)
-                .attr("y", 150)
+                .attr("class", "label")
+                .attr("x", 330)
+                .attr("y", 490)
                 .text("Vertical Leap")
-                .style("font-size", "12px")
-                .style("fill", "#b52025");
 
             svg.append("text")
-                .attr("x", 25)
-                .attr("y", 75)
+                .attr("class", "label")
+                .attr("x", 210)
+                .attr("y", 305)
                 .text("Shuttle")
-                .style("font-size", "12px")
-                .style("fill", "#b52025");
         }
-
+        /*
         svg.append("rect")
             .attr("x", "200")
             .attr("y", "20")
@@ -261,6 +272,7 @@ function drawAllPlayers( selector, filter_by )
         exampleDiv.append('div')
             .attr('class', 'name')
             .text('Example')
+        */
     }
 
     function _drawPlayers(mainDiv, players, meta)
@@ -273,8 +285,8 @@ function drawAllPlayers( selector, filter_by )
                 .attr('class', 'player');
 
         var svg = playerDivs.append('svg')
-            .attr("width", 70)
-            .attr("height", 70);
+            .attr("width", 90)
+            .attr("height", 90);
 
         svg.selectAll(".inner")
             .data( [_getCoords( meta, { 
@@ -301,6 +313,16 @@ function drawAllPlayers( selector, filter_by )
                 .attr("points", function(d) {
                     return d.map(function(d) { return [d.x, d.y].join(","); }).join(" ");
                 })
+
+        svg.selectAll(".point")
+            .data(function(player) { return _getCoords(meta, player); })
+            .enter()
+                .append("circle")
+                .attr("class", "point")
+                .attr("cx", function(c) { return c.x; })
+                .attr("cy", function(c) { return c.y; })
+                .attr("r", "2");
+
 
         var name = playerDivs.append('div')
             .attr('class', 'name')
@@ -447,10 +469,9 @@ function drawAllPlayers( selector, filter_by )
 
             } else {
 
-                _drawExample(mainDiv, meta);
+                if (isFirst) _drawExample(d3.select('.example-container'), meta);
 
                 _drawPlayers(mainDiv, players, meta);
             }
-            
         });
 }
