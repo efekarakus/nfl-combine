@@ -235,44 +235,54 @@ function drawAllPlayers( selector, filter_by, isFirst )
                 .attr("y", 305)
                 .text("Shuttle")
         }
-        /*
-        svg.append("rect")
-            .attr("x", "200")
-            .attr("y", "20")
-            .attr("width", 20)
-            .attr("height", 10)
-            .style("fill", "#202e42")
-            .style("stroke", "#fff")
-            .style("opacity", "0.7")
-            .style("stroke-width", "0.5");
 
-        svg.append("rect")
-            .attr("x", 200)
-            .attr("y", 35)
-            .attr("width", 20)
-            .attr("height", 10)
-            .style("fill", "#b52025")
-            .style("opacity", "0.6")
-            .style("stroke", "#fff")
-            .style("stroke-width", "0.5");
+        {
+            // legend
+            svg.selectAll(".legend-inner")
+            .data([[ 
+                {"x": 7, "y": 275},
+                {"x": 23, "y": 275},
+                {"x": 30, "y": 290},
+                {"x": 23, "y": 305},
+                {"x": 7, "y": 305},
+                {"x": 0, "y": 290}
+            ]]).enter()
+                .append("polygon")
+                .attr("class", "legend-inner")
+                .attr("points", function(d) {
+                    return d.map(function(d) { return [d.x, d.y].join(","); }).join(" ");
+                });
 
-        svg.append("text")
-            .attr("x", 160)
-            .attr("y", 28)
-            .text("Average")
-            .style("fill", "#fff");
+            svg.selectAll(".legend-outer")
+            .data([[ 
+                {"x": 7, "y": 335},
+                {"x": 23, "y": 335},
+                {"x": 30, "y": 350},
+                {"x": 23, "y": 365},
+                {"x": 7, "y": 365},
+                {"x": 0, "y": 350}
+            ]]).enter()
+                .append("polygon")
+                .attr("class", "legend-outer")
+                .attr("points", function(d) {
+                    return d.map(function(d) { return [d.x, d.y].join(","); }).join(" ");
+                });
+        }
 
-        svg.append("text")
-            .attr("x", 165)
-            .attr("y", 42)
-            .text("Player")
-            .style("fill", "#fff");
+        {
+            svg.append("text")
+                .attr("class", "legend-label")
+                .attr("x", "35")
+                .attr("y", "294")
+                .text("Average");
 
+            svg.append("text")
+                .attr("class", "legend-label")
+                .attr("x", "35")
+                .attr("y", "354")
+                .text("Player"); 
+        }
 
-        exampleDiv.append('div')
-            .attr('class', 'name')
-            .text('Example')
-        */
     }
 
     function _drawPlayers(mainDiv, players, meta)

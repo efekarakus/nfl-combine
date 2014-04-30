@@ -173,6 +173,19 @@ a:active { color: #ffffff; }
     fill: #e83f42;
 }
 
+.legend .legend-inner {
+    fill: #202e42;
+}
+
+.legend .legend-outer {
+    fill: #e83f42;
+}
+
+.legend .legend-label {
+    font-size: 12px;
+    fill: #fff;
+}
+
 /* Main Polygon View Stylings */
 
 .main {

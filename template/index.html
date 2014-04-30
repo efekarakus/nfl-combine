@@ -12,7 +12,7 @@
 				</ul>
 			</div>
 			<div id="main-header-title">
-				<img class="centered-img logo-img" src="../static/img/football.svg"></img>
+				<img class="centered-img logo-img" src="../static/img/football.svg" data-stellar-ratio="10"></img>
 				<h1>NFL Combine Player Comparison</h1>
 				<h2>a comparison of football players in the nfl draft</h2>
 			</div>
@@ -25,7 +25,7 @@
             <div class="legend-title">legend</div>
 		</div>
 
-        
+
         <button class="main-button"> Compare Selected </button>
 
         <div class="main-header">
@@ -49,9 +49,7 @@
         <script src="../static/js/gaussian.js"></script>
         <script src="../static/js/overall.js"></script>
         <script>
-
             drawAllPlayers('.main', 'random', true);
-
             
             $(".sub-nav").click(function(e) {
                 $(".sub-nav").removeClass("selected");
