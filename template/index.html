@@ -1,0 +1,76 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="../static/css/overall.css">
+	</head>
+
+	<body>
+		<div class="header">
+			<div class="navbar">
+				<ul>
+					<li><a href="about.html">about</a></li>
+					<li><a href="faq.html">faq</a></li>
+				</ul>
+			</div>
+			<div class="header-title">
+				<img class="main-img" src="../static/img/football.svg"></img>
+				<h1>NFL Combine Player Comparison</h1>
+				<h3>a comparison of football players in the nfl draft</h3>
+			</div>
+		</div>
+
+		<div class="content-container">
+		</div>
+
+	</body>
+</html>
+<!--
+        <div class="filter">
+            <div class="title"> Sort by: </div>
+            <div class="menu">
+                <select>
+                    <option id="random" selected="selected"> Random </option>
+                    <option id="position"> Position </option>
+                    <option id="40yd"> 40-Yard Dash </option>
+                    <option id="benchpress"> Bench Press </option>
+                    <option id="vertleap"> Vertical Leap </option>
+                    <option id="broadjump"> Broad Jump </option>
+                    <option id="3cone"> 3-Cone Drill </option>
+                    <option id="shuttle"> Shuttle Run </option>
+                </select>
+            </div>
+        </div>
+
+        <div class="compare">
+            Compare
+        </div>
+
+        <div class="nav">
+            <div class="sub-nav"> FAQ </div>
+            <div class="sub-nav"> About </div>
+        </div>
+    </div>
+
+    <div class="main">
+    </div>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="../static/js/gaussian.js"></script>
+    <script src="../static/js/overall.js"></script>
+    <script>
+
+        drawAllPlayers('.main', 'random');
+
+        $("select").change(function() {            
+            var filter_by = $("select option:selected").attr("id");
+            drawAllPlayers('.main', filter_by);
+        });
+
+        $(".compare").click(function() {
+            console.log( overall.selections );
+        })
+
+    </script>
+    </body>
+</html>
+-->

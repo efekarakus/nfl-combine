@@ -1,11 +1,149 @@
-@import url(http://fonts.googleapis.com/css?family=Signika:400,600,700,300);
+@import url(http://fonts.googleapis.com/css?family=Dosis:300,600,500);
+@font-face { font-family: OratorStd; src: url( "../font/oratorstd.ttf" ); }
+
+/* Main Page Stylings */
 
 body {
-    width: 1400px;
-    margin: 0 auto;
-    background-color: #111f33;
+	margin-top: 0px;
+	margin-left: 0px;
+	width: 100%;
+
+	background-color: #111f33;
+
+	font-family: Dosis;
+	font-size: 15px;
+	font-weight: medium;
+	font-style: normal;
+	color: #ffffff;
 }
 
+a:link { color: #ffffff; text-decoration: none; }
+a:visited { color: #dddddd; }
+a:hover { color: #ffffff; }
+a:active { color: #ffffff; }
+
+.content-container {
+	width: 800px;
+	height: 200px;
+
+	border: 2px solid #ffffff;
+
+	display: block;
+	margin: auto;
+}
+
+.footer {
+	position: relative;
+	margin-top: -150px; /* negative value of footer height */
+	height: 150px;
+	clear:both;
+}
+
+/* Input From Stylings */
+
+.main-button {
+	height: 65px;
+	line-height: 65px;
+	width: 200px;
+
+	background-color: transparent;
+	border:2px solid #ffffff;
+	color: #ffffff;
+
+	-webkit-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+
+	font-family: Dosis;
+	font-size: 15px;
+	font-weight: medium;
+	font-style: normal;
+
+	display: inline-block;
+	text-align: center;
+}
+
+.main-button:hover {
+	opacity: 0.2;
+	color: #ffffff;
+}
+
+.main-button:active {
+	position: relative;
+	top: 1px;
+}
+
+/* Heading Stylings */
+
+.header {
+	height: 480px;
+	padding-top: 20px;
+
+	background-size: 100% 100%;
+	background-image: url( "../img/background.jpg" );
+}
+
+.navbar ul {
+	margin: 0px;
+	margin-right: 30px;
+	padding: 0px;
+
+	list-style-type: none;
+	overflow: hidden;
+}
+
+.navbar li {
+	display:block;
+	width:60px;
+	float:right;
+
+	font-family: OratorStd;
+	font-size: 15px;
+	font-style: normal;
+}
+
+.header-title {
+	display: block;
+	margin: auto;
+	margin-top: 80px;
+	width: 600px;
+	height: 140px;
+
+	color: #e83f42;
+	text-align: center;
+}
+
+.header-title .main-img {
+	display: block;
+	margin: auto;
+	width: 45px;
+}
+
+.header-title h1 {
+	margin-top: 5px;
+	margin-bottom: 0px;
+
+	font-size: 40px;
+	font-style: medium;
+}
+
+.header-title h3 {
+	margin-top: 15px;
+	margin-bottom: 0px;
+
+	font-family: OratorStd;
+	font-size: 12px;
+	font-style: normal;
+}
+
+/* Main Polygon View Stylings */
+
+
+
+/* Polygon Listing Stylings */
+
+
+/*
 .header {
     margin-left: 200px;
     width: 910px;
@@ -174,3 +312,4 @@ polygon.outer.selected {
     width: 100%;
     margin-top: 20px;
 }
+*/
