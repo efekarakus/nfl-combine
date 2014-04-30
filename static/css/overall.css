@@ -22,6 +22,12 @@ a:visited { color: #dddddd; }
 a:hover { color: #ffffff; }
 a:active { color: #ffffff; }
 
+.logo-img { width: 45px; }
+.footer-img { width: 80px; }
+
+#sidebar {
+	float: right;
+}
 
 .content-container {
 	width: 800px;
@@ -38,48 +44,47 @@ a:active { color: #ffffff; }
 	margin: auto;
 }
 
-.footer-img {
-	width: 80px;
-}
-
 /* Input From Stylings */
 
 .main-button {
-	height: 65px;
-	line-height: 65px;
-	width: 200px;
+	background-color:transparent;
+	-webkit-border-top-left-radius:40px;
+	-moz-border-radius-topleft:40px;
+	border-top-left-radius:40px;
+	-webkit-border-top-right-radius:40px;
+	-moz-border-radius-topright:40px;
+	border-top-right-radius:40px;
+	-webkit-border-bottom-right-radius:40px;
+	-moz-border-radius-bottomright:40px;
+	border-bottom-right-radius:40px;
+	-webkit-border-bottom-left-radius:40px;
+	-moz-border-radius-bottomleft:40px;
+	border-bottom-left-radius:40px;
 
-	background-color: transparent;
+	text-indent:0;
 	border:2px solid #ffffff;
-	color: #ffffff;
+	display:block;
+	margin: auto;
+	color:#ffffff;
 
-	-webkit-border-radius: 30px;
-	-webkit-border-radius: 30px;
-	-moz-border-radius: 30px;
+	height:40px;
+	line-height:40px;
+	width:180px;
 
-	font-family: Dosis;
-	font-size: 15px;
-	font-weight: medium;
-	font-style: normal;
+	font-family: OratorStd;
 
-	display: inline-block;
-	text-align: center;
-}
-
-.main-button:hover {
-	opacity: 0.2;
-	color: #ffffff;
+	text-decoration:none;
+	text-align:center;
 }
 
 .main-button:active {
-	position: relative;
-	top: 1px;
+	position:relative;
+	top:1px;
 }
 
 /* Heading Stylings */
 
-.header {
-	height: 480px;
+#main-header {
 	padding-top: 20px;
 
 	background-size: 100% 100%;
@@ -105,10 +110,7 @@ a:active { color: #ffffff; }
 	font-style: normal;
 }
 
-.header-title {
-	display: block;
-	margin: auto;
-	margin-top: 80px;
+#main-header-title {
 	width: 600px;
 	height: 140px;
 
@@ -116,11 +118,7 @@ a:active { color: #ffffff; }
 	text-align: center;
 }
 
-.header-title .main-img {
-	width: 45px;
-}
-
-.header-title h1 {
+#main-header-title h1 {
 	margin-top: 5px;
 	margin-bottom: 0px;
 
@@ -128,7 +126,7 @@ a:active { color: #ffffff; }
 	font-style: medium;
 }
 
-.header-title h3 {
+#main-header-title h2 {
 	margin-top: 15px;
 	margin-bottom: 0px;
 
@@ -137,14 +135,11 @@ a:active { color: #ffffff; }
 	font-style: normal;
 }
 
-/* HACK: Restyle so that footers are positioned relative to parent. */
-.header-footer {
-	margin-top: 150px;
-}
-
 /* Main Polygon View Stylings */
 
-
+.comparison-view {
+	margin-top: 30px;
+}
 
 /* Polygon Listing Stylings */
 
