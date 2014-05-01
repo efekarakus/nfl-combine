@@ -107,6 +107,8 @@ a:active { color: #ffffff; }
 	font-family: OratorStd;
 	font-size: 20px;
 	font-style: normal;
+
+    padding-right: 50px;
 }
 
 #main-header-title {
@@ -137,14 +139,27 @@ a:active { color: #ffffff; }
 #main-header-wave:hover, #legend-wave:hover {
     cursor: pointer;
 
-    transition: 1s ease;
-    webkit-transition-duration: 1s ease;
+    transition-duration: 1s;
+    webkit-transition-duration: 1s;
 
     -webkit-transform: translate(0px,10px);
     -moz-transform: translate(0px,10px);
     -o-transform: translate(0px,10px);
     -ms-transform: translate(0px,10px);
     transform: translate(0px,10px);
+}
+
+#main-content-wave:hover {
+    cursor: pointer;
+
+    transition-duration: 1s;
+    webkit-transition-duration: 1s;
+
+    -webkit-transform: translate(0px,-10px);
+    -moz-transform: translate(0px,-10px);
+    -o-transform: translate(0px,-10px);
+    -ms-transform: translate(0px,-10px);
+    transform: translate(0px,-10px);
 }
 
 /* Legend Stylings */
@@ -309,7 +324,7 @@ a:active { color: #ffffff; }
     margin: 0 auto;
     width: 850px;
 
-    margin-top: 20px;
+    margin-top: 50px;
     margin-bottom: 70px;
 
     font-family: 'Dosis', 'sans-serif';
@@ -342,6 +357,11 @@ a:active { color: #ffffff; }
 
 .main-header .sub-nav.selected {
     font-weight: 700;
+}
+
+.main-content-footer {
+    clear: both;
+    margin-bottom: 100px;
 }
 
 /*  Compare Content stylings */
