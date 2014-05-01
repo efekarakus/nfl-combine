@@ -31,7 +31,20 @@ function main()
 		} );
 	}
 
-	// Add Autoscroll to Elements //
+	// Set Up the Comparison View Side Bar //
+	{
+		$( "#comparison-sidebar" ).width(
+			($(document).width() - $("#main-content").width()) / 2.0 - 10.0
+		);
+
+		$( "#comparison-sidebar" ).position( {
+			of: $( "#main-content" ),
+			my: "left top",
+			at: "right top",
+		} );
+	}
+
+	// Add Autoscroll to Wave Button Elements //
 	{
 		$( "#main-header-footer" ).click( function () {
 			$( "html, body" ).animate(

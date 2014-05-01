@@ -25,12 +25,23 @@ a:active { color: #ffffff; }
 .logo-img { width: 200px; }
 .footer-img { width: 100px; }
 
-#sidebar {
-	float: right;
+aside {
+	float: left;
+
+	border:2px solid #ffffff;
+
+	height: 200px;
 }
 
-.example-container {
-	width: 800px;
+#comparison-sidebar.sticky {
+	float: none;
+	position: fixed;
+	z-index: 6;
+	left: auto;
+}
+
+.example-container, #main-content {
+	width: 850px;
 
 	display: block;
 	margin: auto;
