@@ -30,6 +30,15 @@ function main()
 			at: "center bottom",
 		} );
 	}
+
+	// Add Autoscroll to Elements //
+	{
+		$( "#main-header-footer" ).click( function () {
+			$( "html, body" ).animate(
+				{ scrollTop: $( ".example-container" ).offset().top}, 500
+			);
+		});
+	}
 }
 
 
