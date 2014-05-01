@@ -25,19 +25,12 @@ a:active { color: #ffffff; }
 .logo-img { width: 200px; }
 .footer-img { width: 100px; }
 
-aside {
+#comparison-sidebar {
 	float: left;
 
 	border:2px solid #ffffff;
 
 	height: 200px;
-}
-
-#comparison-sidebar.sticky {
-	float: none;
-	position: fixed;
-	z-index: 6;
-	left: auto;
 }
 
 .example-container, #main-content {

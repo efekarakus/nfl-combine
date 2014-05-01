@@ -5,8 +5,8 @@
  *
  * Sets Up the Main Visualization Page
  *
- * @TODO
- * - Write the implementation for this script!
+ * @see http://stackoverflow.com/a/16475234
+ * @see http://jqueryui.com/position/
  */
 
 /**
@@ -33,22 +33,30 @@ function main()
 
 	// Add Autoscroll to Wave Button Elements //
 	{
-		$( "#main-header-footer" ).click( function () {
+		$( "#main-header-wave" ).click( function () {
 			$( "html, body" ).animate(
 				{ scrollTop: $( ".example-container" ).offset().top }, 800
 			);
 		});
 
-		$( ".legend-footer" ).click( function () {
+		$( "#legend-wave" ).click( function () {
 			$( "html, body" ).animate(
 				{ scrollTop: $( "#compare-btn" ).offset().top }, 800
 			);
 		});
 
-		$( ".main-content-footer" ).click( function () {
-			console.log( "HEY" );
+		$( "#main-content-wave" ).click( function () {
 			$( "html, body" ).animate(
 				{ scrollTop: $( "#compare-btn" ).offset().top }, 800
+			);
+		});
+	}
+
+	// Add Rendering Functionality to Compare Button //
+	{
+		$( "#compare-btn" ).click( function () {
+			$( "html, body" ).animate(
+				{ scrollTop: $( ".compare-content" ).offset().top }, 800
 			);
 		});
 	}
@@ -86,6 +94,8 @@ function main()
 			my: "left top",
 			at: "right top",
 		} );
+
+		$( "#comparison-sidebar" ).fixTo( "#main-content" );
 	}
 	*/
 }
