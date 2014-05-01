@@ -16,7 +16,7 @@ function main()
 {
 	// Adjust the Header to Fit The Page //
 	{
-		$( "#main-header" ).height( 0.85 * $(window).height() );
+		$( "#main-header" ).height( 0.90 * $(window).height() );
 
 		$( "#main-header-title" ).position( {
 			of: $( "#main-header" ),
@@ -35,7 +35,20 @@ function main()
 	{
 		$( "#main-header-footer" ).click( function () {
 			$( "html, body" ).animate(
-				{ scrollTop: $( ".example-container" ).offset().top}, 800
+				{ scrollTop: $( ".example-container" ).offset().top }, 800
+			);
+		});
+
+		$( ".legend-footer" ).click( function () {
+			$( "html, body" ).animate(
+				{ scrollTop: $( "#compare-btn" ).offset().top }, 800
+			);
+		});
+
+		$( ".main-content-footer" ).click( function () {
+			console.log( "HEY" );
+			$( "html, body" ).animate(
+				{ scrollTop: $( "#compare-btn" ).offset().top }, 800
 			);
 		});
 	}
