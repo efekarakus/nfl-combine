@@ -451,7 +451,7 @@ function drawAllPlayers( selector, filter_by, isFirst )
     overall.gaussians.shuttleG = Gaussian(4.42, 0.28*0.28);
 
 
-    d3.json( "../data/pruned-nfl-combine-2013.json", 
+    d3.json( "./data/pruned-nfl-combine-2013.json", 
         function( err, json ) 
         {
             if ( err ) return console.warn( err );
