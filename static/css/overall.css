@@ -22,8 +22,8 @@ a:visited { color: #dddddd; }
 a:hover { color: #ffffff; text-decoration: underline; }
 a:active { color: #ffffff; }
 
-.logo-img { width: 45px; }
-.footer-img { width: 200px; }
+.logo-img { width: 200px; }
+.footer-img { width: 100px; }
 
 #sidebar {
 	float: right;
@@ -64,14 +64,13 @@ a:active { color: #ffffff; }
 	margin: auto;
 	color:#ffffff;
 
-
 	font-family: OratorStd;
-    font-size: 30px;
+	font-size: 30px;
 
-    padding-left: 10px;
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-bottom: 5px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 5px;
 
 	text-decoration:none;
 	text-align:center;
@@ -106,12 +105,12 @@ a:active { color: #ffffff; }
 	float:right;
 
 	font-family: OratorStd;
-	font-size: 15px;
+	font-size: 20px;
 	font-style: normal;
 }
 
 #main-header-title {
-	width: 600px;
+	width: 800px;
 	height: 140px;
 
 	color: #e83f42;
@@ -122,7 +121,7 @@ a:active { color: #ffffff; }
 	margin-top: 5px;
 	margin-bottom: 0px;
 
-	font-size: 40px;
+	font-size: 50px;
 	font-style: medium;
 }
 
@@ -131,7 +130,7 @@ a:active { color: #ffffff; }
 	margin-bottom: 0px;
 
 	font-family: OratorStd;
-	font-size: 12px;
+	font-size: 20px;
 	font-style: normal;
 }
 
