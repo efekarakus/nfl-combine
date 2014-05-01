@@ -16,7 +16,7 @@ function main()
 {
 	// Adjust the Header to Fit The Page //
 	{
-		$( "#main-header" ).height( 0.85 * $(document).height() );
+		$( "#main-header" ).height( 0.90 * $(window).height() );
 
 		$( "#main-header-title" ).position( {
 			of: $( "#main-header" ),
@@ -29,6 +29,28 @@ function main()
 			my: "center bottom",
 			at: "center bottom",
 		} );
+	}
+
+	// Add Autoscroll to Wave Button Elements //
+	{
+		$( "#main-header-footer" ).click( function () {
+			$( "html, body" ).animate(
+				{ scrollTop: $( ".example-container" ).offset().top }, 800
+			);
+		});
+
+		$( ".legend-footer" ).click( function () {
+			$( "html, body" ).animate(
+				{ scrollTop: $( "#compare-btn" ).offset().top }, 800
+			);
+		});
+
+		$( ".main-content-footer" ).click( function () {
+			console.log( "HEY" );
+			$( "html, body" ).animate(
+				{ scrollTop: $( "#compare-btn" ).offset().top }, 800
+			);
+		});
 	}
 
 	// Draw the player polygons //
@@ -44,14 +66,30 @@ function main()
         });
 	}
 
-	// Draw comparision on compare selected
+	// Draw comparision on compare selected //
 	{
 		$("#compare-btn").click(function() {
 			var selections = overall.selections;
 			drawComparisons(selections);
-		})
+		});
 	}
+
+	// Set Up the Comparison View Side Bar //
+	/*
+	{
+		$( "#comparison-sidebar" ).width(
+			($(document).width() - $("#main-content").width()) / 2.0 - 10.0
+		);
+
+		$( "#comparison-sidebar" ).position( {
+			of: $( "#main-content" ),
+			my: "left top",
+			at: "right top",
+		} );
+	}
+	*/
 }
 
 
 $( document ).ready( main );
+

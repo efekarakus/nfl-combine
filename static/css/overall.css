@@ -25,12 +25,23 @@ a:active { color: #ffffff; }
 .logo-img { width: 200px; }
 .footer-img { width: 100px; }
 
-#sidebar {
-	float: right;
+aside {
+	float: left;
+
+	border:2px solid #ffffff;
+
+	height: 200px;
 }
 
-.example-container {
-	width: 800px;
+#comparison-sidebar.sticky {
+	float: none;
+	position: fixed;
+	z-index: 6;
+	left: auto;
+}
+
+.example-container, #main-content {
+	width: 850px;
 
 	display: block;
 	margin: auto;
@@ -43,6 +54,7 @@ a:active { color: #ffffff; }
 
 /* Input From Stylings */
 
+/* @see http://www.cssbuttongenerator.com/ */
 .main-button {
 	background-color:transparent;
 	-webkit-border-top-left-radius:40px;
@@ -107,6 +119,8 @@ a:active { color: #ffffff; }
 	font-family: OratorStd;
 	font-size: 20px;
 	font-style: normal;
+
+    padding-right: 50px;
 }
 
 #main-header-title {
@@ -137,14 +151,27 @@ a:active { color: #ffffff; }
 #main-header-wave:hover, #legend-wave:hover {
     cursor: pointer;
 
-    transition: 1s ease;
-    webkit-transition-duration: 1s ease;
+    transition-duration: 1s;
+    webkit-transition-duration: 1s;
 
     -webkit-transform: translate(0px,10px);
     -moz-transform: translate(0px,10px);
     -o-transform: translate(0px,10px);
     -ms-transform: translate(0px,10px);
     transform: translate(0px,10px);
+}
+
+#main-content-wave:hover {
+    cursor: pointer;
+
+    transition-duration: 1s;
+    webkit-transition-duration: 1s;
+
+    -webkit-transform: translate(0px,-10px);
+    -moz-transform: translate(0px,-10px);
+    -o-transform: translate(0px,-10px);
+    -ms-transform: translate(0px,-10px);
+    transform: translate(0px,-10px);
 }
 
 /* Legend Stylings */
@@ -309,7 +336,7 @@ a:active { color: #ffffff; }
     margin: 0 auto;
     width: 850px;
 
-    margin-top: 20px;
+    margin-top: 50px;
     margin-bottom: 70px;
 
     font-family: 'Dosis', 'sans-serif';
@@ -342,6 +369,11 @@ a:active { color: #ffffff; }
 
 .main-header .sub-nav.selected {
     font-weight: 700;
+}
+
+.main-content-footer {
+    clear: both;
+    margin-bottom: 100px;
 }
 
 /*  Compare Content stylings */
