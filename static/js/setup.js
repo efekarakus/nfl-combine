@@ -30,6 +30,27 @@ function main()
 			at: "center bottom",
 		} );
 	}
+
+	// Draw the player polygons //
+	{
+        drawAllPlayers('.main', 'random', true);
+        
+        $(".sub-nav").click(function(e) {
+            $(".sub-nav").removeClass("selected");
+            $(this).addClass("selected");
+            var filter_by = $(this).attr("id");
+            $('.main').html('');
+            drawAllPlayers('.main', filter_by, false);
+        });
+	}
+
+	// Draw comparision on compare selected
+	{
+		$("#compare-btn").click(function() {
+			var selections = overall.selections;
+			drawComparisons(selections);
+		})
+	}
 }
 
 

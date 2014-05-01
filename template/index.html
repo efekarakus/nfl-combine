@@ -17,7 +17,7 @@
 				<h2>a comparison of football players in the nfl draft</h2>
 			</div>
 			<div id="main-header-footer">
-				<img class="centered-img footer-img" src="../static/img/wave.svg"></img>
+				<img id="main-header-wave" class="centered-img footer-img" src="../static/img/wave.svg"></img>
 			</div>
 		</div>
 
@@ -26,7 +26,12 @@
 		</div>
 
 
-        <button class="main-button"> Compare Selected </button>
+        <div class="legend-footer">
+            <img id="legend-wave" class="centered-img footer-img" src="../static/img/wave.svg"></img>
+        </div>
+
+
+        <button id="compare-btn" class="main-button"> compare selected </button>
 
         <div class="main-header">
             <div id="random" class="sub-nav first selected">Random</div>
@@ -42,22 +47,19 @@
         <div id="main-content" class="main">
         </div>
 
+        <div class="compare-content">
+            <div class="compare-3cone"></div>
+            <div class="compare-40yd"></div>
+        </div>
+
         <script src="../static/js/jquery-1.11.0.min.js"></script>
         <script src="../static/js/jquery-ui-1.10.4.min.js"></script>
         <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
         <script src="../static/js/setup.js"></script>
         <script src="../static/js/gaussian.js"></script>
         <script src="../static/js/overall.js"></script>
+        <script src="../static/js/comparison.js"></script>
         <script>
-            drawAllPlayers('.main', 'random', true);
-            
-            $(".sub-nav").click(function(e) {
-                $(".sub-nav").removeClass("selected");
-                $(this).addClass("selected");
-                var filter_by = $(this).attr("id");
-                $('.main').html('');
-                drawAllPlayers('.main', filter_by, false);
-            });
 
         </script>
 	</body>
