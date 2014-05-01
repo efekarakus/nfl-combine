@@ -307,12 +307,12 @@ a:active { color: #ffffff; }
 }
 
 .main .player.average polygon.inner {
-    fill: #1c3667;
-    opacity: 0.8;
+    fill: #0e3989;
+    opacity: 1.0;
 }
 
 .main .player.average polygon.outer {
-    fill: #e83f42;
+    fill: none;
     stroke: #e83f42;
     stroke-width: 1.5px;
     opacity: 0.6;

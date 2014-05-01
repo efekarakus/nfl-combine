@@ -173,7 +173,7 @@ function drawAllPlayers( selector, filter_by, isFirst )
                 {"x": 510, "y": 140},
                 {"x": 550, "y": 300},
                 {"x": 480, "y": 420},
-                {"x": 370, "y": 470},
+                {"x": 340, "y": 470},
                 {"x": 270, "y": 300}
             ]]).enter()
                 .append("polygon")
@@ -188,7 +188,7 @@ function drawAllPlayers( selector, filter_by, isFirst )
                 {"x": 510, "y": 140},
                 {"x": 550, "y": 300},
                 {"x": 480, "y": 420},
-                {"x": 370, "y": 470},
+                {"x": 340, "y": 470},
                 {"x": 270, "y": 300}
             ]).enter()
                 .append("circle")
