@@ -3,9 +3,21 @@ function drawComparisons(players)
 
     function drawIndividual(divName, players, key)
     {
-        $(divName).find('svg').remove();
+        $(divName).html('');
 
         if(players.length === 0) return;
+
+        d3.select(divName)
+            .append('div')
+            .attr('class', 'title')
+            .text(function() {
+                if (key === '3cone') return '3-Cone Drill';
+                if (key === '40yd') return '40 Yard Drill';
+                if (key === 'benchpress') return 'Bench Press';
+                if (key === 'broadjump') return 'Broad Jump';
+                if (key === 'vertleap') return 'Vertical Leap';
+                return 'Shuttle';
+            });
 
         players.sort(function(a, b) {
             if (key === '40yd' || key === '3cone' || key === 'shuttle') {
