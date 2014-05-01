@@ -43,6 +43,7 @@ a:active { color: #ffffff; }
 
 /* Input From Stylings */
 
+/* @see http://www.cssbuttongenerator.com/ */
 .main-button {
 	background-color:transparent;
 	-webkit-border-top-left-radius:40px;

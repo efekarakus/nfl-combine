@@ -35,7 +35,7 @@ function main()
 	{
 		$( "#main-header-footer" ).click( function () {
 			$( "html, body" ).animate(
-				{ scrollTop: $( ".example-container" ).offset().top}, 500
+				{ scrollTop: $( ".example-container" ).offset().top}, 800
 			);
 		});
 	}
