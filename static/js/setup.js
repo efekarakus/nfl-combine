@@ -5,8 +5,8 @@
  *
  * Sets Up the Main Visualization Page
  *
- * @TODO
- * - Write the implementation for this script!
+ * @see http://stackoverflow.com/a/16475234
+ * @see http://jqueryui.com/position/
  */
 
 /**
@@ -46,9 +46,17 @@ function main()
 		});
 
 		$( ".main-content-footer" ).click( function () {
-			console.log( "HEY" );
 			$( "html, body" ).animate(
 				{ scrollTop: $( "#compare-btn" ).offset().top }, 800
+			);
+		});
+	}
+
+	// Add Rendering Functionality to Compare Button //
+	{
+		$( "#compare-btn" ).click( function () {
+			$( "html, body" ).animate(
+				{ scrollTop: $( ".compare-content" ).offset().top }, 800
 			);
 		});
 	}
@@ -75,7 +83,6 @@ function main()
 	}
 
 	// Set Up the Comparison View Side Bar //
-	/*
 	{
 		$( "#comparison-sidebar" ).width(
 			($(document).width() - $("#main-content").width()) / 2.0 - 10.0
@@ -86,8 +93,9 @@ function main()
 			my: "left top",
 			at: "right top",
 		} );
+
+		$( "#comparison-sidebar" ).fixTo( "#main-content" );
 	}
-	*/
 }
 
 
