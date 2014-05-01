@@ -1,48 +1,63 @@
+<!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" type="text/css" href="../static/css/overall.css">
-    </head>
+	<head>
+		<link rel="stylesheet" type="text/css" href="../static/css/overall.css">
+	</head>
 
-    <body>
-        <div id="main-header">
-            <div class="navbar">
-                <ul>
-                    <li><a href="about.html">about</a></li>
-                    <li><a href="faq.html">faq</a></li>
-                </ul>
-            </div>
-            <div id="main-header-title">
-                <img class="centered-img logo-img" src="../static/img/logo.svg"></img>
-                <h1>NFL Combine Player Comparison</h1>
-                <h2>a comparison of football players in the nfl draft</h2>
-            </div>
-            <div id="main-header-footer">
-                <img class="centered-img footer-img" src="../static/img/wave.svg"></img>
-            </div>
-        </div>
+	<body>
+		<div id="main-header">
+			<div class="navbar">
+				<ul>
+					<li><a href="about.html">about</a></li>
+					<li><a href="faq.html">faq</a></li>
+				</ul>
+			</div>
+			<div id="main-header-title">
+				<img class="centered-img logo-img" src="../static/img/logo.svg"></img>
+				<h1>NFL Combine Player Comparison</h1>
+				<h2>a comparison of football players in the nfl draft</h2>
+			</div>
+			<div id="main-header-footer">
+                <img id="main-header-wave" class="centered-img footer-img" 
+                src="../static/img/wave.svg"></img>
+			</div>
+		</div>
 
-        <div class="example-container">
+		<div class="example-container">
             <div class="legend-title">legend</div>
+		</div>
+
+
+        <div class="legend-footer">
+            <img id="legend-wave" class="centered-img footer-img"
+            src="../static/img/wave.svg"></img>
         </div>
 
-        <div id="comparison-container">
-            <div id="comparison-sidebar"><p>Hello, world!</p></div>
 
-            <button class="main-button"> Compare Selected </button>
+        <button id="compare-btn" class="main-button"> compare selected </button>
 
-            <div class="main-header">
-                <div id="random" class="sub-nav first selected">Random</div>
-                <div id="position" class="sub-nav">Position</div>
-                <div id="3cone" class="sub-nav">3-Cone</div>
-                <div id="40yd" class="sub-nav">40-Yard</div>
-                <div id="benchpress" class="sub-nav">Bench Press</div>
-                <div id="broadjump" class="sub-nav">Broad Jump</div>
-                <div id="vertleap" class="sub-nav">Vertical Leap</div>
-                <div id="shuttle" class="sub-nav last">Shuttle</div>
-            </div>
+        <div class="main-header">
+            <div id="random" class="sub-nav first selected">Random</div>
+            <div id="position" class="sub-nav">Position</div>
+            <div id="3cone" class="sub-nav">3-Cone</div>
+            <div id="40yd" class="sub-nav">40-Yard</div>
+            <div id="benchpress" class="sub-nav">Bench Press</div>
+            <div id="broadjump" class="sub-nav">Broad Jump</div>
+            <div id="vertleap" class="sub-nav">Vertical Leap</div>
+            <div id="shuttle" class="sub-nav last">Shuttle</div>
+        </div>
 
-            <div id="main-content" class="main">
-            </div>
+        <div id="main-content" class="main">
+        </div>
+
+        <div class="main-content-footer">
+            <img id="main-content-wave" class="centered-img footer-img" 
+            src="../static/img/wave.svg"></img>
+        </div>
+
+        <div class="compare-content">
+            <div class="compare-3cone"></div>
+            <div class="compare-40yd"></div>
         </div>
 
         <script src="../static/js/jquery-1.11.0.min.js"></script>
@@ -51,17 +66,7 @@
         <script src="../static/js/setup.js"></script>
         <script src="../static/js/gaussian.js"></script>
         <script src="../static/js/overall.js"></script>
-        <script>
-            drawAllPlayers('.main', 'random', true);
-            
-            $(".sub-nav").click(function(e) {
-                $(".sub-nav").removeClass("selected");
-                $(this).addClass("selected");
-                var filter_by = $(this).attr("id");
-                $('.main').html('');
-                drawAllPlayers('.main', filter_by, false);
-            });
-
-        </script>
-    </body>
+        <script src="../static/js/comparison.js"></script>
+	</body>
 </html>
+

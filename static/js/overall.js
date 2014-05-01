@@ -240,12 +240,12 @@ function drawAllPlayers( selector, filter_by, isFirst )
             // legend
             svg.selectAll(".legend-inner")
             .data([[ 
-                {"x": 7, "y": 275},
-                {"x": 23, "y": 275},
-                {"x": 30, "y": 290},
-                {"x": 23, "y": 305},
-                {"x": 7, "y": 305},
-                {"x": 0, "y": 290}
+                {"x": 6, "y": 275},
+                {"x": 24, "y": 275},
+                {"x": 30, "y": 288},
+                {"x": 24, "y": 302},
+                {"x": 6, "y": 302},
+                {"x": 0, "y": 288}
             ]]).enter()
                 .append("polygon")
                 .attr("class", "legend-inner")
@@ -255,12 +255,12 @@ function drawAllPlayers( selector, filter_by, isFirst )
 
             svg.selectAll(".legend-outer")
             .data([[ 
-                {"x": 7, "y": 335},
-                {"x": 23, "y": 335},
-                {"x": 30, "y": 350},
-                {"x": 23, "y": 365},
-                {"x": 7, "y": 365},
-                {"x": 0, "y": 350}
+                {"x": 6, "y": 335},
+                {"x": 24, "y": 335},
+                {"x": 30, "y": 348},
+                {"x": 24, "y": 362},
+                {"x": 6, "y": 362},
+                {"x": 0, "y": 348}
             ]]).enter()
                 .append("polygon")
                 .attr("class", "legend-outer")
@@ -273,13 +273,13 @@ function drawAllPlayers( selector, filter_by, isFirst )
             svg.append("text")
                 .attr("class", "legend-label")
                 .attr("x", "35")
-                .attr("y", "294")
+                .attr("y", "292")
                 .text("Average");
 
             svg.append("text")
                 .attr("class", "legend-label")
                 .attr("x", "35")
-                .attr("y", "354")
+                .attr("y", "352")
                 .text("Player"); 
         }
 
