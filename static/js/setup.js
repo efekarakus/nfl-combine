@@ -33,19 +33,19 @@ function main()
 
 	// Add Autoscroll to Wave Button Elements //
 	{
-		$( "#main-header-footer" ).click( function () {
+		$( "#main-header-wave" ).click( function () {
 			$( "html, body" ).animate(
 				{ scrollTop: $( ".example-container" ).offset().top }, 800
 			);
 		});
 
-		$( ".legend-footer" ).click( function () {
+		$( "#legend-wave" ).click( function () {
 			$( "html, body" ).animate(
 				{ scrollTop: $( "#compare-btn" ).offset().top }, 800
 			);
 		});
 
-		$( ".main-content-footer" ).click( function () {
+		$( "#main-content-wave" ).click( function () {
 			$( "html, body" ).animate(
 				{ scrollTop: $( "#compare-btn" ).offset().top }, 800
 			);
@@ -83,6 +83,7 @@ function main()
 	}
 
 	// Set Up the Comparison View Side Bar //
+	/*
 	{
 		$( "#comparison-sidebar" ).width(
 			($(document).width() - $("#main-content").width()) / 2.0 - 10.0
@@ -96,6 +97,7 @@ function main()
 
 		$( "#comparison-sidebar" ).fixTo( "#main-content" );
 	}
+	*/
 }
 
 
