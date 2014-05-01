@@ -50,6 +50,12 @@ function main()
 				{ scrollTop: $( "#compare-btn" ).offset().top }, 800
 			);
 		});
+
+		$( "#compare-wave" ).click( function () {
+			$( "html, body" ).animate(
+				{ scrollTop: $( "#main-header" ).offset().top }, 800
+			);
+		});
 	}
 
 	// Add Rendering Functionality to Compare Button //

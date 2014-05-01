@@ -154,7 +154,7 @@ a:active { color: #ffffff; }
     transform: translate(0px,10px);
 }
 
-#main-content-wave:hover {
+#main-content-wave:hover, #compare-wave:hover {
     cursor: pointer;
 
     transition-duration: 1s;
@@ -414,4 +414,8 @@ a:active { color: #ffffff; }
   font-size: 12px;
 }
 
+.compare-footer{
+    clear: both;
+    margin: 0 auto;
+}
 
