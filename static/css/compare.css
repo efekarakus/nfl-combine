@@ -1,0 +1,49 @@
+/*  Compare Content stylings */
+
+.compare-content {
+    margin: 0 auto;
+    width: 800px;
+    clear: both;
+}
+
+.compare-content .title{
+  margin: 0 auto;
+  text-align: center;
+  color: #fff;
+  font-style: 'Dosis', 'sans-serif';
+  font-family: 12px;
+}
+
+.compare-3cone, .compare-40yd, .compare-benchpress, .compare-broadjump, .compare-vertleap, .compare-shuttle {
+  width: 320;
+  float: left;
+  display: inline;
+  position: relative;
+  margin: 7px;
+}
+
+.compare-content .compare-bar rect {
+  fill: #e83f42;
+  shape-rendering: crispEdges;
+}
+
+.compare-content .compare-bar text {
+  fill: #fff;
+}
+
+.compare-content .axis path, .compare-content .axis line {
+  fill: none;
+  stroke: #fff;
+  shape-rendering: crispEdges;
+}
+
+.compare-content .axis text {
+  fill: #fff;
+  font-family: 'Dosis', 'sans-serif';
+  font-size: 12px;
+}
+
+.compare-footer{
+    clear: both;
+    margin: 0 auto;
+}
