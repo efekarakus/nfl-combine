@@ -1,0 +1,61 @@
+/* Legend Stylings */
+
+.legend-container {
+    width: 850px;
+
+    display: block;
+    margin: auto;
+}
+
+.legend-container .legend-title {
+    margin: 0 auto;
+    margin-top: 100px;
+    color: #fff;
+    font-family:OratorStd;
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.legend-container .legend {
+    width: 700px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+.legend-container .legend .inner {
+    fill: #202e42;
+    opacity: 0.7;
+}
+
+.legend-container .legend .outer {
+    fill: none;
+    stroke: #e83f42;
+    stroke-width: 1.5px;
+}
+
+.legend-container .legend .point {
+    fill: #e83f42;
+}
+
+.legend-container .legend text.label {
+    font-size: 18px;
+    fill: #e83f42;
+}
+
+.legend-container .legend .legend-inner {
+    fill: #202e42;
+}
+
+.legend-container .legend .legend-outer {
+    fill: #e83f42;
+}
+
+.legend-container .legend .legend-label {
+    font-size: 12px;
+    fill: #fff;
+}
+
+.legend-footer {
+    margin-bottom: 100px;
+}

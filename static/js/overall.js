@@ -13,9 +13,155 @@ var overall = {
     selections: []
 }
 
+function drawLegend(mainDiv)
+{
+    var mainDiv = d3.select(mainDiv);
+
+    var exampleDiv = mainDiv
+        .append('div')
+        .attr('class', 'legend');
+
+    var svg = exampleDiv.append('svg')
+        .attr("width", 700)
+        .attr("height", 600);
+
+    svg.selectAll(".inner")
+        .data([[ 
+            {"x": 350, "y": 150},
+            {"x": 500, "y": 150},
+            {"x": 600, "y": 300},
+            {"x": 500, "y": 450},
+            {"x": 350, "y": 450},
+            {"x": 250, "y": 300}
+        ]]).enter()
+            .append("polygon")
+            .attr("class", "inner")
+            .attr("points", function(d) {
+                return d.map(function(d) { return [d.x, d.y].join(","); }).join(" ");
+            });
+
+    
+    svg.selectAll(".outer")
+        .data([[ 
+            {"x": 320, "y": 120},
+            {"x": 510, "y": 140},
+            {"x": 550, "y": 300},
+            {"x": 480, "y": 420},
+            {"x": 340, "y": 470},
+            {"x": 270, "y": 300}
+        ]]).enter()
+            .append("polygon")
+            .attr("class", "outer")
+            .attr("points", function(d) {
+                return d.map(function(d) { return [d.x, d.y].join(","); }).join(" ");
+            });
+
+    svg.selectAll(".point")
+        .data([
+            {"x": 320, "y": 120},
+            {"x": 510, "y": 140},
+            {"x": 550, "y": 300},
+            {"x": 480, "y": 420},
+            {"x": 340, "y": 470},
+            {"x": 270, "y": 300}
+        ]).enter()
+            .append("circle")
+            .attr("class", "point")
+            .attr("cx", function(c) {return c.x;})
+            .attr("cy", function(c) {return c.y;})
+            .attr("r", "4");
+
+    {
+        // add polygon labels
+        svg.append("text")
+            .attr("class", "label")
+            .attr("x", 280)
+            .attr("y", 110)
+            .text("3-Cone")
+
+        svg.append("text")
+            .attr("class", "label")
+            .attr("x", 515)
+            .attr("y", 130)
+            .text("40 Yard")
+
+        svg.append("text")
+            .attr("class", "label")
+            .attr("x", 560)
+            .attr("y", 305)
+            .text("Bench Press")
+
+        svg.append("text")
+            .attr("class", "label")
+            .attr("x", 485)
+            .attr("y", 440)
+            .text("Broad Jump")
+
+        svg.append("text")
+            .attr("class", "label")
+            .attr("x", 330)
+            .attr("y", 490)
+            .text("Vertical Leap")
+
+        svg.append("text")
+            .attr("class", "label")
+            .attr("x", 210)
+            .attr("y", 305)
+            .text("Shuttle")
+    }
+
+    {
+        // legend
+        svg.selectAll(".legend-inner")
+        .data([[ 
+            {"x": 6, "y": 275},
+            {"x": 24, "y": 275},
+            {"x": 30, "y": 288},
+            {"x": 24, "y": 302},
+            {"x": 6, "y": 302},
+            {"x": 0, "y": 288}
+        ]]).enter()
+            .append("polygon")
+            .attr("class", "legend-inner")
+            .attr("points", function(d) {
+                return d.map(function(d) { return [d.x, d.y].join(","); }).join(" ");
+            });
+
+        svg.selectAll(".legend-outer")
+        .data([[ 
+            {"x": 6, "y": 335},
+            {"x": 24, "y": 335},
+            {"x": 30, "y": 348},
+            {"x": 24, "y": 362},
+            {"x": 6, "y": 362},
+            {"x": 0, "y": 348}
+        ]]).enter()
+            .append("polygon")
+            .attr("class", "legend-outer")
+            .attr("points", function(d) {
+                return d.map(function(d) { return [d.x, d.y].join(","); }).join(" ");
+            });
+    }
+
+    {
+        svg.append("text")
+            .attr("class", "legend-label")
+            .attr("x", "35")
+            .attr("y", "292")
+            .text("Average");
+
+        svg.append("text")
+            .attr("class", "legend-label")
+            .attr("x", "35")
+            .attr("y", "352")
+            .text("Player"); 
+    }
+
+}
 
 
-function drawAllPlayers( selector, filter_by, isFirst )
+
+function drawAllPlayers( selector, filter_by)
 {
     // reset selections
     overall.selectedCount = 0;
@@ -141,149 +287,7 @@ function drawAllPlayers( selector, filter_by, isFirst )
         return coords;
     }
 
-    function _drawExample(mainDiv, meta)
-    {
-        var exampleDiv = mainDiv
-            .append('div')
-            .attr('class', 'legend');
-
-        var svg = exampleDiv.append('svg')
-            .attr("width", 700)
-            .attr("height", 600);
-
-        svg.selectAll(".inner")
-            .data([[ 
-                {"x": 350, "y": 150},
-                {"x": 500, "y": 150},
-                {"x": 600, "y": 300},
-                {"x": 500, "y": 450},
-                {"x": 350, "y": 450},
-                {"x": 250, "y": 300}
-            ]]).enter()
-                .append("polygon")
-                .attr("class", "inner")
-                .attr("points", function(d) {
-                    return d.map(function(d) { return [d.x, d.y].join(","); }).join(" ");
-                });
-
-        
-        svg.selectAll(".outer")
-            .data([[ 
-                {"x": 320, "y": 120},
-                {"x": 510, "y": 140},
-                {"x": 550, "y": 300},
-                {"x": 480, "y": 420},
-                {"x": 340, "y": 470},
-                {"x": 270, "y": 300}
-            ]]).enter()
-                .append("polygon")
-                .attr("class", "outer")
-                .attr("points", function(d) {
-                    return d.map(function(d) { return [d.x, d.y].join(","); }).join(" ");
-                });
-
-        svg.selectAll(".point")
-            .data([
-                {"x": 320, "y": 120},
-                {"x": 510, "y": 140},
-                {"x": 550, "y": 300},
-                {"x": 480, "y": 420},
-                {"x": 340, "y": 470},
-                {"x": 270, "y": 300}
-            ]).enter()
-                .append("circle")
-                .attr("class", "point")
-                .attr("cx", function(c) {return c.x;})
-                .attr("cy", function(c) {return c.y;})
-                .attr("r", "4");
-
-        {
-            // add polygon labels
-            svg.append("text")
-                .attr("class", "label")
-                .attr("x", 280)
-                .attr("y", 110)
-                .text("3-Cone")
-
-            svg.append("text")
-                .attr("class", "label")
-                .attr("x", 515)
-                .attr("y", 130)
-                .text("40 Yard")
-
-            svg.append("text")
-                .attr("class", "label")
-                .attr("x", 560)
-                .attr("y", 305)
-                .text("Bench Press")
-
-            svg.append("text")
-                .attr("class", "label")
-                .attr("x", 485)
-                .attr("y", 440)
-                .text("Broad Jump")
-
-            svg.append("text")
-                .attr("class", "label")
-                .attr("x", 330)
-                .attr("y", 490)
-                .text("Vertical Leap")
-
-            svg.append("text")
-                .attr("class", "label")
-                .attr("x", 210)
-                .attr("y", 305)
-                .text("Shuttle")
-        }
-
-        {
-            // legend
-            svg.selectAll(".legend-inner")
-            .data([[ 
-                {"x": 6, "y": 275},
-                {"x": 24, "y": 275},
-                {"x": 30, "y": 288},
-                {"x": 24, "y": 302},
-                {"x": 6, "y": 302},
-                {"x": 0, "y": 288}
-            ]]).enter()
-                .append("polygon")
-                .attr("class", "legend-inner")
-                .attr("points", function(d) {
-                    return d.map(function(d) { return [d.x, d.y].join(","); }).join(" ");
-                });
-
-            svg.selectAll(".legend-outer")
-            .data([[ 
-                {"x": 6, "y": 335},
-                {"x": 24, "y": 335},
-                {"x": 30, "y": 348},
-                {"x": 24, "y": 362},
-                {"x": 6, "y": 362},
-                {"x": 0, "y": 348}
-            ]]).enter()
-                .append("polygon")
-                .attr("class", "legend-outer")
-                .attr("points", function(d) {
-                    return d.map(function(d) { return [d.x, d.y].join(","); }).join(" ");
-                });
-        }
-
-        {
-            svg.append("text")
-                .attr("class", "legend-label")
-                .attr("x", "35")
-                .attr("y", "292")
-                .text("Average");
-
-            svg.append("text")
-                .attr("class", "legend-label")
-                .attr("x", "35")
-                .attr("y", "352")
-                .text("Player"); 
-        }
-
-    }
+    
 
     function _drawPlayers(mainDiv, players, meta)
     {
@@ -478,8 +482,6 @@ function drawAllPlayers( selector, filter_by, isFirst )
                 _drawPositions(mainDiv, players, meta);
 
             } else {
-
-                if (isFirst) _drawExample(d3.select('.example-container'), meta);
 
                 _drawPlayers(mainDiv, players, meta);
             }

@@ -35,7 +35,7 @@ function main()
 	{
 		$( "#main-header-wave" ).click( function () {
 			$( "html, body" ).animate(
-				{ scrollTop: $( ".example-container" ).offset().top }, 800
+				{ scrollTop: $( ".legend-container" ).offset().top }, 800
 			);
 		});
 
@@ -65,6 +65,11 @@ function main()
 				{ scrollTop: $( ".compare-content" ).offset().top }, 800
 			);
 		});
+	}
+
+	// Draw legend //
+	{
+		drawLegend('.legend-container');
 	}
 
 	// Draw the player polygons //
