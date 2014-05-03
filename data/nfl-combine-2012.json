@@ -1,0 +1,5880 @@
+{
+  "name": "NFL Combine 2012",
+  "count": 326,
+  "frequency": "monthly",
+  "version": 2,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat May 03 2014 04:47:16 GMT+0000 (UTC)",
+  "nextrun": "Sun Jun 01 2014 00:00:00 GMT+0000 (UTC)",
+  "players": [
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Emmanuel&l=Acho&i=9963",
+          "text": "Emmanuel Acho"
+        },
+        "college": "Texas",
+        "pos": "OLB",
+        "height": "74",
+        "weight": "238",
+        "wonderlic": "",
+        "40yd": "4.64",
+        "benchpress": "24",
+        "vertleap": "35.5",
+        "broadjump": "118",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Joe&l=Adams&i=9789",
+          "text": "Joe Adams"
+        },
+        "college": "Arkansas",
+        "pos": "WR",
+        "height": "71",
+        "weight": "179",
+        "wonderlic": "",
+        "40yd": "4.51",
+        "benchpress": "",
+        "vertleap": "36.0",
+        "broadjump": "123",
+        "shuttle": "",
+        "3cone": "7.09"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Mike&l=Adams&i=9839",
+          "text": "Mike Adams"
+        },
+        "college": "Ohio State",
+        "pos": "OT",
+        "height": "79",
+        "weight": "323",
+        "wonderlic": "",
+        "40yd": "5.28",
+        "benchpress": "19",
+        "vertleap": "28.5",
+        "broadjump": "100",
+        "shuttle": "4.95",
+        "3cone": "7.94"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Chas&l=Alecxih&i=9919",
+          "text": "Chas Alecxih"
+        },
+        "college": "Pittsburgh",
+        "pos": "DT",
+        "height": "76",
+        "weight": "296",
+        "wonderlic": "",
+        "40yd": "5.31",
+        "benchpress": "19",
+        "vertleap": "25.5",
+        "broadjump": "99",
+        "shuttle": "4.62",
+        "3cone": "7.74"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Frank&l=Alexander&i=9900",
+          "text": "Frank Alexander"
+        },
+        "college": "Oklahoma",
+        "pos": "DE",
+        "height": "76",
+        "weight": "270",
+        "wonderlic": "",
+        "40yd": "*4.82",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Antonio&l=Allen&i=10089",
+          "text": "Antonio Allen"
+        },
+        "college": "South Carolina",
+        "pos": "SS",
+        "height": "74",
+        "weight": "210",
+        "wonderlic": "",
+        "40yd": "4.58",
+        "benchpress": "17",
+        "vertleap": "34.0",
+        "broadjump": "118",
+        "shuttle": "4.25",
+        "3cone": "7.02"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Dwayne&l=Allen&i=9824",
+          "text": "Dwayne Allen"
+        },
+        "college": "Clemson",
+        "pos": "TE",
+        "height": "75",
+        "weight": "255",
+        "wonderlic": "",
+        "40yd": "4.85",
+        "benchpress": "27",
+        "vertleap": "32.0",
+        "broadjump": "110",
+        "shuttle": "4.37",
+        "3cone": "7.12"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jeff&l=Allen&i=9847",
+          "text": "Jeff Allen"
+        },
+        "college": "Illinois",
+        "pos": "OT",
+        "height": "76",
+        "weight": "307",
+        "wonderlic": "",
+        "40yd": "5.17",
+        "benchpress": "26",
+        "vertleap": "27.5",
+        "broadjump": "102",
+        "shuttle": "4.90",
+        "3cone": "8.01"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Justin&l=Anderson&i=9861",
+          "text": "Justin Anderson"
+        },
+        "college": "Georgia",
+        "pos": "OT",
+        "height": "76",
+        "weight": "335",
+        "wonderlic": "",
+        "40yd": "5.24",
+        "benchpress": "32",
+        "vertleap": "27.0",
+        "broadjump": "101",
+        "shuttle": "4.99",
+        "3cone": "8.04"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Bryan&l=Anger&i=1012",
+          "text": "Bryan Anger"
+        },
+        "college": "California",
+        "pos": "P",
+        "height": "76",
+        "weight": "208",
+        "wonderlic": "",
+        "40yd": "*4.86",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Edwin&l=Baker&i=9769",
+          "text": "Edwin Baker"
+        },
+        "college": "Michigan State",
+        "pos": "RB",
+        "height": "68",
+        "weight": "204",
+        "wonderlic": "",
+        "40yd": "4.44",
+        "benchpress": "20",
+        "vertleap": "35.0",
+        "broadjump": "111",
+        "shuttle": "4.31",
+        "3cone": "7.27"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Mark&l=Asper&i=9880",
+          "text": "Mark Asper"
+        },
+        "college": "Oregon",
+        "pos": "OG",
+        "height": "78",
+        "weight": "319",
+        "wonderlic": "",
+        "40yd": "*5.33",
+        "benchpress": "23",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Ryan&l=Baker&i=9974",
+          "text": "Ryan Baker"
+        },
+        "college": "LSU",
+        "pos": "OLB",
+        "height": "71",
+        "weight": "232",
+        "wonderlic": "",
+        "40yd": "4.80",
+        "benchpress": "30",
+        "vertleap": "34.0",
+        "broadjump": "113",
+        "shuttle": "4.35",
+        "3cone": "7.21"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Mike&l=Ball&i=9776",
+          "text": "Mike Ball"
+        },
+        "college": "Nevada",
+        "pos": "RB",
+        "height": "69",
+        "weight": "206",
+        "wonderlic": "",
+        "40yd": "4.54",
+        "benchpress": "21",
+        "vertleap": "36.0",
+        "broadjump": "112",
+        "shuttle": "4.23",
+        "3cone": "7.10"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Vick&l=Ballard&i=9764",
+          "text": "Vick Ballard"
+        },
+        "college": "Mississippi State",
+        "pos": "RB",
+        "height": "70",
+        "weight": "219",
+        "wonderlic": "",
+        "40yd": "4.59",
+        "benchpress": "23",
+        "vertleap": "33.0",
+        "broadjump": "115",
+        "shuttle": "4.19",
+        "3cone": "7.03"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Kelvin&l=Beachum&i=9877",
+          "text": "Kelvin Beachum"
+        },
+        "college": "Southern Methodist",
+        "pos": "OG",
+        "height": "75",
+        "weight": "303",
+        "wonderlic": "",
+        "40yd": "5.38",
+        "benchpress": "19",
+        "vertleap": "28.5",
+        "broadjump": "101",
+        "shuttle": "4.80",
+        "3cone": "7.79"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Mark&l=Barron&i=8707",
+          "text": "Mark Barron"
+        },
+        "college": "Alabama",
+        "pos": "SS",
+        "height": "73",
+        "weight": "213",
+        "wonderlic": "",
+        "40yd": "*4.56",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Tim&l=Benford&i=9804",
+          "text": "Tim Benford"
+        },
+        "college": "Tennessee Tech",
+        "pos": "WR",
+        "height": "71",
+        "weight": "205",
+        "wonderlic": "",
+        "40yd": "4.51",
+        "benchpress": "15",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Dwight&l=Bentley&i=10061",
+          "text": "Dwight Bentley"
+        },
+        "college": "Louisiana-Lafayette",
+        "pos": "CB",
+        "height": "70",
+        "weight": "182",
+        "wonderlic": "",
+        "40yd": "4.42",
+        "benchpress": "13",
+        "vertleap": "31.5",
+        "broadjump": "114",
+        "shuttle": "4.50",
+        "3cone": "6.99"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Travis&l=Benjamin&i=9816",
+          "text": "Travis Benjamin"
+        },
+        "college": "Miami",
+        "pos": "WR",
+        "height": "70",
+        "weight": "172",
+        "wonderlic": "",
+        "40yd": "4.31",
+        "benchpress": "14",
+        "vertleap": "38.0",
+        "broadjump": "119",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jake&l=Bequette&i=9903",
+          "text": "Jake Bequette"
+        },
+        "college": "Arkansas",
+        "pos": "DE",
+        "height": "77",
+        "weight": "274",
+        "wonderlic": "",
+        "40yd": "4.75",
+        "benchpress": "",
+        "vertleap": "34.0",
+        "broadjump": "113",
+        "shuttle": "4.07",
+        "3cone": "6.90"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Tony&l=Bergstrom&i=9845",
+          "text": "Tony Bergstrom"
+        },
+        "college": "Utah",
+        "pos": "OT",
+        "height": "77",
+        "weight": "313",
+        "wonderlic": "",
+        "40yd": "5.19",
+        "benchpress": "32",
+        "vertleap": "29.5",
+        "broadjump": "101",
+        "shuttle": "4.84",
+        "3cone": "7.95"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Justin&l=Bethel&i=10068",
+          "text": "Justin Bethel"
+        },
+        "college": "Presbyterian",
+        "pos": "FS",
+        "height": "73",
+        "weight": "200",
+        "wonderlic": "",
+        "40yd": "4.52",
+        "benchpress": "19",
+        "vertleap": "39.5",
+        "broadjump": "131",
+        "shuttle": "4.30",
+        "3cone": "6.79"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Philip&l=Blake&i=9887",
+          "text": "Philip Blake"
+        },
+        "college": "Baylor",
+        "pos": "C",
+        "height": "75",
+        "weight": "311",
+        "wonderlic": "",
+        "40yd": "5.17",
+        "benchpress": "22",
+        "vertleap": "29.5",
+        "broadjump": "105",
+        "shuttle": "4.65",
+        "3cone": "7.86"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Robert&l=Blanton&i=10074",
+          "text": "Robert Blanton"
+        },
+        "college": "Notre Dame",
+        "pos": "CB",
+        "height": "73",
+        "weight": "208",
+        "wonderlic": "",
+        "40yd": "4.66",
+        "benchpress": "12",
+        "vertleap": "34.0",
+        "broadjump": "116",
+        "shuttle": "3.97",
+        "3cone": "6.71"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Justin&l=Blackmon&i=8699",
+          "text": "Justin Blackmon"
+        },
+        "college": "Oklahoma State",
+        "pos": "WR",
+        "height": "73",
+        "weight": "207",
+        "wonderlic": "",
+        "40yd": "*4.48",
+        "benchpress": "14",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jamie&l=Blatnick&i=9905",
+          "text": "Jamie Blatnick"
+        },
+        "college": "Oklahoma State",
+        "pos": "DE",
+        "height": "75",
+        "weight": "263",
+        "wonderlic": "",
+        "40yd": "4.81",
+        "benchpress": "28",
+        "vertleap": "32.5",
+        "broadjump": "112",
+        "shuttle": "4.20",
+        "3cone": "7.22"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Brandon&l=Bolden&i=9767",
+          "text": "Brandon Bolden"
+        },
+        "college": "Mississippi",
+        "pos": "RB",
+        "height": "71",
+        "weight": "222",
+        "wonderlic": "",
+        "40yd": "4.55",
+        "benchpress": "21",
+        "vertleap": "38.0",
+        "broadjump": "119",
+        "shuttle": "4.44",
+        "3cone": "6.96"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jarrett&l=Boykin&i=9809",
+          "text": "Jarrett Boykin"
+        },
+        "college": "Virginia Tech",
+        "pos": "WR",
+        "height": "74",
+        "weight": "217",
+        "wonderlic": "",
+        "40yd": "4.62",
+        "benchpress": "11",
+        "vertleap": "36.0",
+        "broadjump": "123",
+        "shuttle": "4.28",
+        "3cone": "7.12"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Omar&l=Bolden&i=10073",
+          "text": "Omar Bolden"
+        },
+        "college": "Arizona State",
+        "pos": "CB",
+        "height": "70",
+        "weight": "202",
+        "wonderlic": "",
+        "40yd": "*4.54",
+        "benchpress": "24",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Nigel&l=Bradham&i=9972",
+          "text": "Nigel Bradham"
+        },
+        "college": "Florida State",
+        "pos": "OLB",
+        "height": "74",
+        "weight": "241",
+        "wonderlic": "",
+        "40yd": "4.56",
+        "benchpress": "24",
+        "vertleap": "37.0",
+        "broadjump": "121",
+        "shuttle": "4.37",
+        "3cone": "7.18"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Andre&l=Branch&i=9896",
+          "text": "Andre Branch"
+        },
+        "college": "Clemson",
+        "pos": "DE",
+        "height": "76",
+        "weight": "259",
+        "wonderlic": "",
+        "40yd": "4.67",
+        "benchpress": "19",
+        "vertleap": "32.5",
+        "broadjump": "120",
+        "shuttle": "4.25",
+        "3cone": "7.19"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Brandon&l=Boykin&i=10049",
+          "text": "Brandon Boykin"
+        },
+        "college": "Georgia",
+        "pos": "CB",
+        "height": "70",
+        "weight": "182",
+        "wonderlic": "",
+        "40yd": "*4.44",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Michael&l=Brewster&i=9886",
+          "text": "Michael Brewster"
+        },
+        "college": "Ohio State",
+        "pos": "C",
+        "height": "76",
+        "weight": "312",
+        "wonderlic": "",
+        "40yd": "5.22",
+        "benchpress": "29",
+        "vertleap": "25.0",
+        "broadjump": "96",
+        "shuttle": "4.60",
+        "3cone": "7.73"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Michael&l=Brockers&i=9938",
+          "text": "Michael Brockers"
+        },
+        "college": "LSU",
+        "pos": "DT",
+        "height": "77",
+        "weight": "322",
+        "wonderlic": "",
+        "40yd": "5.31",
+        "benchpress": "",
+        "vertleap": "26.5",
+        "broadjump": "105",
+        "shuttle": "4.81",
+        "3cone": "7.46"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=LaVon&l=Brazill&i=9808",
+          "text": "LaVon Brazill"
+        },
+        "college": "Ohio",
+        "pos": "WR",
+        "height": "71",
+        "weight": "192",
+        "wonderlic": "",
+        "40yd": "4.43",
+        "benchpress": "11",
+        "vertleap": "32.5",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Charles&l=Brown&i=10051",
+          "text": "Charles Brown"
+        },
+        "college": "North Carolina",
+        "pos": "CB",
+        "height": "69",
+        "weight": "202",
+        "wonderlic": "",
+        "40yd": "4.53",
+        "benchpress": "18",
+        "vertleap": "35.5",
+        "broadjump": "114",
+        "shuttle": "4.06",
+        "3cone": "6.94"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Ron&l=Brooks&i=10075",
+          "text": "Ron Brooks"
+        },
+        "college": "LSU",
+        "pos": "CB",
+        "height": "70",
+        "weight": "190",
+        "wonderlic": "",
+        "40yd": "4.37",
+        "benchpress": "12",
+        "vertleap": "38.0",
+        "broadjump": "120",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=James&l=Brown&i=9846",
+          "text": "James Brown"
+        },
+        "college": "Troy",
+        "pos": "OG",
+        "height": "76",
+        "weight": "306",
+        "wonderlic": "",
+        "40yd": "5.19",
+        "benchpress": "24",
+        "vertleap": "25.5",
+        "broadjump": "102",
+        "shuttle": "4.78",
+        "3cone": "7.70"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Brandon&l=Brooks&i=1006",
+          "text": "Brandon Brooks"
+        },
+        "college": "Miami (OH)",
+        "pos": "OG",
+        "height": "77",
+        "weight": "346",
+        "wonderlic": "",
+        "40yd": "*4.99",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Zach&l=Brown&i=9983",
+          "text": "Zach Brown"
+        },
+        "college": "North Carolina",
+        "pos": "OLB",
+        "height": "73",
+        "weight": "244",
+        "wonderlic": "",
+        "40yd": "4.44",
+        "benchpress": "",
+        "vertleap": "33.5",
+        "broadjump": "116",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Tank&l=Carder&i=9979",
+          "text": "Tank Carder"
+        },
+        "college": "TCU",
+        "pos": "ILB",
+        "height": "74",
+        "weight": "236",
+        "wonderlic": "",
+        "40yd": "4.58",
+        "benchpress": "19",
+        "vertleap": "34.5",
+        "broadjump": "121",
+        "shuttle": "4.18",
+        "3cone": "6.89"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Morris&l=Claiborne&i=8705",
+          "text": "Morris Claiborne"
+        },
+        "college": "LSU",
+        "pos": "CB",
+        "height": "71",
+        "weight": "188",
+        "wonderlic": "4",
+        "40yd": "4.50",
+        "benchpress": "",
+        "vertleap": "34.5",
+        "broadjump": "118",
+        "shuttle": "4.12",
+        "3cone": "7.01"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Vontaze&l=Burfict&i=9954",
+          "text": "Vontaze Burfict"
+        },
+        "college": "Arizona State",
+        "pos": "ILB",
+        "height": "73",
+        "weight": "248",
+        "wonderlic": "",
+        "40yd": "5.00",
+        "benchpress": "",
+        "vertleap": "30.0",
+        "broadjump": "104",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Ryan&l=Broyles&i=9799",
+          "text": "Ryan Broyles"
+        },
+        "college": "Oklahoma",
+        "pos": "WR",
+        "height": "70",
+        "weight": "192",
+        "wonderlic": "",
+        "40yd": "*4.57",
+        "benchpress": "21",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Miles&l=Burris&i=9970",
+          "text": "Miles Burris"
+        },
+        "college": "San Diego State",
+        "pos": "OLB",
+        "height": "74",
+        "weight": "246",
+        "wonderlic": "",
+        "40yd": "*4.73",
+        "benchpress": "31",
+        "vertleap": "37.5",
+        "broadjump": "121",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Sean&l=Cattouse&i=10101",
+          "text": "Sean Cattouse"
+        },
+        "college": "California",
+        "pos": "SS",
+        "height": "74",
+        "weight": "211",
+        "wonderlic": "",
+        "40yd": "4.74",
+        "benchpress": "",
+        "vertleap": "34.0",
+        "broadjump": "114",
+        "shuttle": "4.15",
+        "3cone": "6.99"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Danny&l=Coale&i=9811",
+          "text": "Danny Coale"
+        },
+        "college": "Virginia Tech",
+        "pos": "WR",
+        "height": "73",
+        "weight": "201",
+        "wonderlic": "",
+        "40yd": "4.42",
+        "benchpress": "12",
+        "vertleap": "35.0",
+        "broadjump": "115",
+        "shuttle": "4.15",
+        "3cone": "6.69"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Greg&l=Childs&i=9812",
+          "text": "Greg Childs"
+        },
+        "college": "Arkansas",
+        "pos": "WR",
+        "height": "75",
+        "weight": "219",
+        "wonderlic": "",
+        "40yd": "4.52",
+        "benchpress": "19",
+        "vertleap": "36.5",
+        "broadjump": "125",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Audie&l=Cole&i=9945",
+          "text": "Audie Cole"
+        },
+        "college": "North Carolina State",
+        "pos": "ILB",
+        "height": "76",
+        "weight": "246",
+        "wonderlic": "",
+        "40yd": "4.76",
+        "benchpress": "15",
+        "vertleap": "35.0",
+        "broadjump": "114",
+        "shuttle": "4.29",
+        "3cone": "6.96"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Orson&l=Charles&i=9826",
+          "text": "Orson Charles"
+        },
+        "college": "Georgia",
+        "pos": "TE",
+        "height": "75",
+        "weight": "251",
+        "wonderlic": "",
+        "40yd": "*4.83",
+        "benchpress": "35",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Josh&l=Chapman&i=9933",
+          "text": "Josh Chapman"
+        },
+        "college": "Alabama",
+        "pos": "DT",
+        "height": "73",
+        "weight": "316",
+        "wonderlic": "",
+        "40yd": "*5.02",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Tom&l=Compton&i=9851",
+          "text": "Tom Compton"
+        },
+        "college": "South Dakota",
+        "pos": "OT",
+        "height": "77",
+        "weight": "314",
+        "wonderlic": "",
+        "40yd": "5.01",
+        "benchpress": "20",
+        "vertleap": "30.0",
+        "broadjump": "108",
+        "shuttle": "4.60",
+        "3cone": "7.59"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=B.J.&l=Coleman&i=9738",
+          "text": "B.J. Coleman"
+        },
+        "college": "Chattanooga",
+        "pos": "QB",
+        "height": "75",
+        "weight": "233",
+        "wonderlic": "",
+        "40yd": "*4.95",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "109",
+        "shuttle": "4.38",
+        "3cone": "7.07"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Kirk&l=Cousins&i=9734",
+          "text": "Kirk Cousins"
+        },
+        "college": "Michigan State",
+        "pos": "QB",
+        "height": "75",
+        "weight": "214",
+        "wonderlic": "33",
+        "40yd": "4.84",
+        "benchpress": "",
+        "vertleap": "28.5",
+        "broadjump": "109",
+        "shuttle": "4.50",
+        "3cone": "7.05"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Quinton&l=Coples&i=8701",
+          "text": "Quinton Coples"
+        },
+        "college": "North Carolina",
+        "pos": "DE",
+        "height": "78",
+        "weight": "284",
+        "wonderlic": "",
+        "40yd": "4.69",
+        "benchpress": "25",
+        "vertleap": "31.5",
+        "broadjump": "109",
+        "shuttle": "4.78",
+        "3cone": "7.57"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Aaron&l=Corp&i=9743",
+          "text": "Aaron Corp"
+        },
+        "college": "Richmond",
+        "pos": "QB",
+        "height": "76",
+        "weight": "215",
+        "wonderlic": "",
+        "40yd": "4.61",
+        "benchpress": "",
+        "vertleap": "31.5",
+        "broadjump": "106",
+        "shuttle": "4.30",
+        "3cone": "7.03"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Fletcher&l=Cox&i=9927",
+          "text": "Fletcher Cox"
+        },
+        "college": "Mississippi State",
+        "pos": "DT",
+        "height": "76",
+        "weight": "298",
+        "wonderlic": "",
+        "40yd": "4.77",
+        "benchpress": "30",
+        "vertleap": "26.0",
+        "broadjump": "103",
+        "shuttle": "4.53",
+        "3cone": "7.07"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Josh&l=Cooper&i=9822",
+          "text": "Josh Cooper"
+        },
+        "college": "Oklahoma State",
+        "pos": "WR",
+        "height": "71",
+        "weight": "190",
+        "wonderlic": "",
+        "40yd": "*4.65",
+        "benchpress": "11",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jack&l=Crawford&i=9901",
+          "text": "Jack Crawford"
+        },
+        "college": "Penn State",
+        "pos": "DE",
+        "height": "77",
+        "weight": "274",
+        "wonderlic": "",
+        "40yd": "4.74",
+        "benchpress": "",
+        "vertleap": "33.0",
+        "broadjump": "116",
+        "shuttle": "4.25",
+        "3cone": "7.15"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Tyrone&l=Crawford&i=9913",
+          "text": "Tyrone Crawford"
+        },
+        "college": "Boise State",
+        "pos": "DE",
+        "height": "76",
+        "weight": "275",
+        "wonderlic": "",
+        "40yd": "4.82",
+        "benchpress": "28",
+        "vertleap": "33.0",
+        "broadjump": "113",
+        "shuttle": "4.44",
+        "3cone": "7.09"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Paul&l=Cornick&i=9859",
+          "text": "Paul Cornick"
+        },
+        "college": "North Dakota State",
+        "pos": "OT",
+        "height": "78",
+        "weight": "310",
+        "wonderlic": "",
+        "40yd": "5.30",
+        "benchpress": "25",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Lennon&l=Creer&i=9770",
+          "text": "Lennon Creer"
+        },
+        "college": "Louisiana Tech",
+        "pos": "RB",
+        "height": "71",
+        "weight": "219",
+        "wonderlic": "",
+        "40yd": "4.67",
+        "benchpress": "21",
+        "vertleap": "33.5",
+        "broadjump": "110",
+        "shuttle": "4.40",
+        "3cone": "7.26"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jared&l=Crick&i=9906",
+          "text": "Jared Crick"
+        },
+        "college": "Nebraska",
+        "pos": "DE",
+        "height": "76",
+        "weight": "279",
+        "wonderlic": "",
+        "40yd": "4.91",
+        "benchpress": "",
+        "vertleap": "31.0",
+        "broadjump": "104",
+        "shuttle": "4.40",
+        "3cone": "7.47"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Juron&l=Criner&i=9785",
+          "text": "Juron Criner"
+        },
+        "college": "Arizona",
+        "pos": "WR",
+        "height": "75",
+        "weight": "224",
+        "wonderlic": "",
+        "40yd": "4.66",
+        "benchpress": "17",
+        "vertleap": "38.0",
+        "broadjump": "117",
+        "shuttle": "4.30",
+        "3cone": "7.15"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=John&l=Cullen&i=9855",
+          "text": "John Cullen"
+        },
+        "college": "Utah",
+        "pos": "OT",
+        "height": "77",
+        "weight": "297",
+        "wonderlic": "",
+        "40yd": "5.28",
+        "benchpress": "23",
+        "vertleap": "27.0",
+        "broadjump": "102",
+        "shuttle": "4.59",
+        "3cone": "7.58"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=B.J.&l=Cunningham&i=9807",
+          "text": "B.J. Cunningham"
+        },
+        "college": "Michigan State",
+        "pos": "WR",
+        "height": "73",
+        "weight": "211",
+        "wonderlic": "",
+        "40yd": "4.52",
+        "benchpress": "12",
+        "vertleap": "31.5",
+        "broadjump": "116",
+        "shuttle": "",
+        "3cone": "7.10"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Vinny&l=Curry&i=9914",
+          "text": "Vinny Curry"
+        },
+        "college": "Marshall",
+        "pos": "DE",
+        "height": "75",
+        "weight": "266",
+        "wonderlic": "",
+        "40yd": "4.87",
+        "benchpress": "",
+        "vertleap": "32.0",
+        "broadjump": "110",
+        "shuttle": "4.40",
+        "3cone": "6.90"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Lavonte&l=David&i=9968",
+          "text": "Lavonte David"
+        },
+        "college": "Nebraska",
+        "pos": "OLB",
+        "height": "73",
+        "weight": "233",
+        "wonderlic": "",
+        "40yd": "4.57",
+        "benchpress": "19",
+        "vertleap": "36.5",
+        "broadjump": "119",
+        "shuttle": "4.22",
+        "3cone": "7.28"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Andrew&l=Datko&i=9852",
+          "text": "Andrew Datko"
+        },
+        "college": "Florida State",
+        "pos": "OT",
+        "height": "78",
+        "weight": "315",
+        "wonderlic": "",
+        "40yd": "5.19",
+        "benchpress": "",
+        "vertleap": "29.5",
+        "broadjump": "100",
+        "shuttle": "4.54",
+        "3cone": "7.71"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Demario&l=Davis&i=9962",
+          "text": "Demario Davis"
+        },
+        "college": "Arkansas State",
+        "pos": "OLB",
+        "height": "74",
+        "weight": "235",
+        "wonderlic": "",
+        "40yd": "4.49",
+        "benchpress": "32",
+        "vertleap": "38.5",
+        "broadjump": "124",
+        "shuttle": "4.28",
+        "3cone": "7.19"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Austin&l=Davis&i=9745",
+          "text": "Austin Davis"
+        },
+        "college": "Southern Mississippi",
+        "pos": "QB",
+        "height": "74",
+        "weight": "219",
+        "wonderlic": "",
+        "40yd": "4.69",
+        "benchpress": "",
+        "vertleap": "31.0",
+        "broadjump": "109",
+        "shuttle": "4.11",
+        "3cone": "6.73"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=David&l=DeCastro&i=9863",
+          "text": "David DeCastro"
+        },
+        "college": "Stanford",
+        "pos": "OG",
+        "height": "77",
+        "weight": "316",
+        "wonderlic": "",
+        "40yd": "5.32",
+        "benchpress": "34",
+        "vertleap": "29.5",
+        "broadjump": "98",
+        "shuttle": "4.56",
+        "3cone": "7.30"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Taylor&l=Dever&i=9860",
+          "text": "Taylor Dever"
+        },
+        "college": "Notre Dame",
+        "pos": "OT",
+        "height": "77",
+        "weight": "298",
+        "wonderlic": "",
+        "40yd": "5.40",
+        "benchpress": "18",
+        "vertleap": "28.0",
+        "broadjump": "100",
+        "shuttle": "4.90",
+        "3cone": "7.49"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Drake&l=Dunsmore&i=1002",
+          "text": "Drake Dunsmore"
+        },
+        "college": "Northwestern",
+        "pos": "FB",
+        "height": "74",
+        "weight": "241",
+        "wonderlic": "",
+        "40yd": "4.63",
+        "benchpress": "21",
+        "vertleap": "35.5",
+        "broadjump": "117",
+        "shuttle": "4.03",
+        "3cone": "6.73"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Mike&l=Daniels&i=9939",
+          "text": "Mike Daniels"
+        },
+        "college": "Iowa",
+        "pos": "DT",
+        "height": "73",
+        "weight": "291",
+        "wonderlic": "",
+        "40yd": "*4.84",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Michael&l=Egnew&i=9828",
+          "text": "Michael Egnew"
+        },
+        "college": "Missouri",
+        "pos": "TE",
+        "height": "77",
+        "weight": "252",
+        "wonderlic": "",
+        "40yd": "4.52",
+        "benchpress": "21",
+        "vertleap": "36.0",
+        "broadjump": "131",
+        "shuttle": "4.32",
+        "3cone": "7.03"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Alfonzo&l=Dennard&i=8706",
+          "text": "Alfonzo Dennard"
+        },
+        "college": "Nebraska",
+        "pos": "CB",
+        "height": "70",
+        "weight": "204",
+        "wonderlic": "",
+        "40yd": "4.48",
+        "benchpress": "",
+        "vertleap": "37.0",
+        "broadjump": "121",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Bradie&l=Ewing&i=1003",
+          "text": "Bradie Ewing"
+        },
+        "college": "Wisconsin",
+        "pos": "FB",
+        "height": "73",
+        "weight": "239",
+        "wonderlic": "",
+        "40yd": "4.73",
+        "benchpress": "14",
+        "vertleap": "36.5",
+        "broadjump": "120",
+        "shuttle": "4.16",
+        "3cone": "7.14"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Hebron&l=Fangupo&i=9928",
+          "text": "Hebron Fangupo"
+        },
+        "college": "BYU",
+        "pos": "DT",
+        "height": "73",
+        "weight": "323",
+        "wonderlic": "",
+        "40yd": "5.12",
+        "benchpress": "36",
+        "vertleap": "31.5",
+        "broadjump": "99",
+        "shuttle": "4.62",
+        "3cone": "7.94"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Antonio&l=Fenelus&i=10046",
+          "text": "Antonio Fenelus"
+        },
+        "college": "Wisconsin",
+        "pos": "CB",
+        "height": "68",
+        "weight": "190",
+        "wonderlic": "",
+        "40yd": "4.57",
+        "benchpress": "20",
+        "vertleap": "32.0",
+        "broadjump": "109",
+        "shuttle": "4.20",
+        "3cone": "6.80"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Darius&l=Fleming&i=9961",
+          "text": "Darius Fleming"
+        },
+        "college": "Notre Dame",
+        "pos": "OLB",
+        "height": "74",
+        "weight": "245",
+        "wonderlic": "",
+        "40yd": "4.71",
+        "benchpress": "27",
+        "vertleap": "33.5",
+        "broadjump": "114",
+        "shuttle": "4.28",
+        "3cone": "7.03"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Nick&l=Foles&i=9736",
+          "text": "Nick Foles"
+        },
+        "college": "Arizona",
+        "pos": "QB",
+        "height": "77",
+        "weight": "243",
+        "wonderlic": "29",
+        "40yd": "5.03",
+        "benchpress": "",
+        "vertleap": "30.5",
+        "broadjump": "112",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Rhett&l=Ellison&i=9831",
+          "text": "Rhett Ellison"
+        },
+        "college": "Southern California",
+        "pos": "TE",
+        "height": "77",
+        "weight": "251",
+        "wonderlic": "",
+        "40yd": "4.78",
+        "benchpress": "",
+        "vertleap": "31.5",
+        "broadjump": "109",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jamell&l=Fleming&i=10062",
+          "text": "Jamell Fleming"
+        },
+        "college": "Oklahoma",
+        "pos": "CB",
+        "height": "71",
+        "weight": "206",
+        "wonderlic": "",
+        "40yd": "4.43",
+        "benchpress": "23",
+        "vertleap": "34.0",
+        "broadjump": "125",
+        "shuttle": "3.97",
+        "3cone": "6.71"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Patrick&l=Edwards&i=9820",
+          "text": "Patrick Edwards"
+        },
+        "college": "Houston",
+        "pos": "WR",
+        "height": "69",
+        "weight": "172",
+        "wonderlic": "",
+        "40yd": "*4.58",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Marcus&l=Forston&i=9936",
+          "text": "Marcus Forston"
+        },
+        "college": "Miami",
+        "pos": "DT",
+        "height": "73",
+        "weight": "301",
+        "wonderlic": "",
+        "40yd": "5.05",
+        "benchpress": "35",
+        "vertleap": "28.0",
+        "broadjump": "105",
+        "shuttle": "4.79",
+        "3cone": "7.64"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Justin&l=Francis&i=9907",
+          "text": "Justin Francis"
+        },
+        "college": "Rutgers",
+        "pos": "DE",
+        "height": "74",
+        "weight": "268",
+        "wonderlic": "",
+        "40yd": "4.90",
+        "benchpress": "23",
+        "vertleap": "32.0",
+        "broadjump": "109",
+        "shuttle": "4.35",
+        "3cone": "7.05"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Coby&l=Fleener&i=9825",
+          "text": "Coby Fleener"
+        },
+        "college": "Stanford",
+        "pos": "TE",
+        "height": "78",
+        "weight": "247",
+        "wonderlic": "",
+        "40yd": "*4.52",
+        "benchpress": "27",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Michael&l=Floyd&i=8700",
+          "text": "Michael Floyd"
+        },
+        "college": "Notre Dame",
+        "pos": "WR",
+        "height": "75",
+        "weight": "220",
+        "wonderlic": "",
+        "40yd": "4.40",
+        "benchpress": "16",
+        "vertleap": "36.5",
+        "broadjump": "122",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Terrence&l=Frederick&i=10079",
+          "text": "Terrence Frederick"
+        },
+        "college": "Texas A&M",
+        "pos": "CB",
+        "height": "70",
+        "weight": "187",
+        "wonderlic": "",
+        "40yd": "4.44",
+        "benchpress": "16",
+        "vertleap": "35.0",
+        "broadjump": "121",
+        "shuttle": "4.03",
+        "3cone": "6.59"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Chris&l=Galippo&i=9947",
+          "text": "Chris Galippo"
+        },
+        "college": "Southern California",
+        "pos": "ILB",
+        "height": "74",
+        "weight": "241",
+        "wonderlic": "",
+        "40yd": "4.73",
+        "benchpress": "19",
+        "vertleap": "29.5",
+        "broadjump": "107",
+        "shuttle": "4.10",
+        "3cone": "6.90"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Garth&l=Gerhart&i=9890",
+          "text": "Garth Gerhart"
+        },
+        "college": "Arizona State",
+        "pos": "C",
+        "height": "73",
+        "weight": "305",
+        "wonderlic": "",
+        "40yd": "5.38",
+        "benchpress": "25",
+        "vertleap": "30.5",
+        "broadjump": "96",
+        "shuttle": "4.65",
+        "3cone": "7.63"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Terrance&l=Ganaway&i=9765",
+          "text": "Terrance Ganaway"
+        },
+        "college": "Baylor",
+        "pos": "RB",
+        "height": "73",
+        "weight": "239",
+        "wonderlic": "",
+        "40yd": "4.61",
+        "benchpress": "",
+        "vertleap": "37.5",
+        "broadjump": "119",
+        "shuttle": "4.25",
+        "3cone": "7.15"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Stephon&l=Gilmore&i=10078",
+          "text": "Stephon Gilmore"
+        },
+        "college": "South Carolina",
+        "pos": "CB",
+        "height": "73",
+        "weight": "190",
+        "wonderlic": "",
+        "40yd": "4.38",
+        "benchpress": "15",
+        "vertleap": "36.0",
+        "broadjump": "123",
+        "shuttle": "3.94",
+        "3cone": "6.61"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Adam&l=Gettis&i=9882",
+          "text": "Adam Gettis"
+        },
+        "college": "Iowa",
+        "pos": "OG",
+        "height": "74",
+        "weight": "293",
+        "wonderlic": "",
+        "40yd": "4.90",
+        "benchpress": "",
+        "vertleap": "31.5",
+        "broadjump": "112",
+        "shuttle": "4.65",
+        "3cone": "7.99"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Chris&l=Givens&i=9790",
+          "text": "Chris Givens"
+        },
+        "college": "Wake Forest",
+        "pos": "WR",
+        "height": "71",
+        "weight": "198",
+        "wonderlic": "",
+        "40yd": "4.35",
+        "benchpress": "19",
+        "vertleap": "33.5",
+        "broadjump": "118",
+        "shuttle": "4.23",
+        "3cone": "6.97"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Chase&l=Ford&i=1009",
+          "text": "Chase Ford"
+        },
+        "college": "Miami",
+        "pos": "TE",
+        "height": "79",
+        "weight": "255",
+        "wonderlic": "",
+        "40yd": "*4.78",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Cordy&l=Glenn&i=9864",
+          "text": "Cordy Glenn"
+        },
+        "college": "Georgia",
+        "pos": "OT",
+        "height": "78",
+        "weight": "345",
+        "wonderlic": "",
+        "40yd": "5.08",
+        "benchpress": "31",
+        "vertleap": "23.5",
+        "broadjump": "93",
+        "shuttle": "5.00",
+        "3cone": "8.13"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jeff&l=Fuller&i=9797",
+          "text": "Jeff Fuller"
+        },
+        "college": "Texas A&M",
+        "pos": "WR",
+        "height": "76",
+        "weight": "223",
+        "wonderlic": "",
+        "40yd": "*4.58",
+        "benchpress": "17",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=T.J.&l=Graham&i=9805",
+          "text": "T.J. Graham"
+        },
+        "college": "North Carolina State",
+        "pos": "WR",
+        "height": "71",
+        "weight": "188",
+        "wonderlic": "",
+        "40yd": "4.34",
+        "benchpress": "8",
+        "vertleap": "33.5",
+        "broadjump": "120",
+        "shuttle": "4.18",
+        "3cone": "6.77"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Robert&l=Griffin&i=8695",
+          "text": "Robert Griffin"
+        },
+        "college": "Baylor",
+        "pos": "QB",
+        "height": "74",
+        "weight": "223",
+        "wonderlic": "24",
+        "40yd": "4.33",
+        "benchpress": "",
+        "vertleap": "39.0",
+        "broadjump": "120",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Tim&l=Fugger&i=1007",
+          "text": "Tim Fugger"
+        },
+        "college": "Vanderbilt",
+        "pos": "DE",
+        "height": "75",
+        "weight": "248",
+        "wonderlic": "",
+        "40yd": "*4.64",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Ladarius&l=Green&i=9827",
+          "text": "Ladarius Green"
+        },
+        "college": "Louisiana-Lafayette",
+        "pos": "TE",
+        "height": "78",
+        "weight": "238",
+        "wonderlic": "",
+        "40yd": "4.45",
+        "benchpress": "16",
+        "vertleap": "34.5",
+        "broadjump": "124",
+        "shuttle": "4.47",
+        "3cone": "7.12"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Cyrus&l=Gray&i=9758",
+          "text": "Cyrus Gray"
+        },
+        "college": "Texas A&M",
+        "pos": "RB",
+        "height": "70",
+        "weight": "206",
+        "wonderlic": "",
+        "40yd": "4.40",
+        "benchpress": "21",
+        "vertleap": "32.5",
+        "broadjump": "114",
+        "shuttle": "",
+        "3cone": "7.17"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Najee&l=Goode&i=9952",
+          "text": "Najee Goode"
+        },
+        "college": "West Virginia",
+        "pos": "ILB",
+        "height": "73",
+        "weight": "244",
+        "wonderlic": "",
+        "40yd": "4.55",
+        "benchpress": "",
+        "vertleap": "35.5",
+        "broadjump": "117",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Trevor&l=Guyton&i=9912",
+          "text": "Trevor Guyton"
+        },
+        "college": "California",
+        "pos": "DE",
+        "height": "75",
+        "weight": "285",
+        "wonderlic": "",
+        "40yd": "5.01",
+        "benchpress": "",
+        "vertleap": "31.0",
+        "broadjump": "105",
+        "shuttle": "4.53",
+        "3cone": "7.45"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Dominique&l=Hamilton&i=9925",
+          "text": "Dominique Hamilton"
+        },
+        "college": "Missouri",
+        "pos": "DT",
+        "height": "77",
+        "weight": "313",
+        "wonderlic": "",
+        "40yd": "5.45",
+        "benchpress": "31",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "4.78",
+        "3cone": "7.82"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=James&l=Hanna&i=9833",
+          "text": "James Hanna"
+        },
+        "college": "Oklahoma",
+        "pos": "TE",
+        "height": "76",
+        "weight": "252",
+        "wonderlic": "",
+        "40yd": "4.43",
+        "benchpress": "24",
+        "vertleap": "36.0",
+        "broadjump": "122",
+        "shuttle": "4.11",
+        "3cone": "6.76"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Cory&l=Harkey&i=9830",
+          "text": "Cory Harkey"
+        },
+        "college": "UCLA",
+        "pos": "TE",
+        "height": "76",
+        "weight": "260",
+        "wonderlic": "",
+        "40yd": "5.06",
+        "benchpress": "13",
+        "vertleap": "26.5",
+        "broadjump": "109",
+        "shuttle": "4.69",
+        "3cone": "7.40"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jonas&l=Gray&i=9775",
+          "text": "Jonas Gray"
+        },
+        "college": "Notre Dame",
+        "pos": "RB",
+        "height": "70",
+        "weight": "223",
+        "wonderlic": "",
+        "40yd": "*4.58",
+        "benchpress": "20",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Cliff&l=Harris&i=10054",
+          "text": "Cliff Harris"
+        },
+        "college": "Oregon",
+        "pos": "CB",
+        "height": "71",
+        "weight": "175",
+        "wonderlic": "",
+        "40yd": "4.61",
+        "benchpress": "14",
+        "vertleap": "36.0",
+        "broadjump": "118",
+        "shuttle": "4.19",
+        "3cone": "6.79"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Darius&l=Hanks&i=9823",
+          "text": "Darius Hanks"
+        },
+        "college": "Alabama",
+        "pos": "WR",
+        "height": "73",
+        "weight": "184",
+        "wonderlic": "",
+        "40yd": "4.52",
+        "benchpress": "11",
+        "vertleap": "34.0",
+        "broadjump": "117",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Chandler&l=Harnish&i=9740",
+          "text": "Chandler Harnish"
+        },
+        "college": "Northern Illinois",
+        "pos": "QB",
+        "height": "74",
+        "weight": "219",
+        "wonderlic": "",
+        "40yd": "4.68",
+        "benchpress": "",
+        "vertleap": "32.5",
+        "broadjump": "112",
+        "shuttle": "4.15",
+        "3cone": "6.78"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jacory&l=Harris&i=9748",
+          "text": "Jacory Harris"
+        },
+        "college": "Miami",
+        "pos": "QB",
+        "height": "75",
+        "weight": "203",
+        "wonderlic": "",
+        "40yd": "4.65",
+        "benchpress": "",
+        "vertleap": "37.0",
+        "broadjump": "113",
+        "shuttle": "4.40",
+        "3cone": "7.10"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jewel&l=Hampton&i=9772",
+          "text": "Jewel Hampton"
+        },
+        "college": "Southern Illinois",
+        "pos": "RB",
+        "height": "69",
+        "weight": "218",
+        "wonderlic": "",
+        "40yd": "*4.56",
+        "benchpress": "26",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Casey&l=Hayward&i=10050",
+          "text": "Casey Hayward"
+        },
+        "college": "Vanderbilt",
+        "pos": "CB",
+        "height": "71",
+        "weight": "192",
+        "wonderlic": "",
+        "40yd": "4.47",
+        "benchpress": "19",
+        "vertleap": "34.0",
+        "broadjump": "119",
+        "shuttle": "3.90",
+        "3cone": "6.76"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Winston&l=Guy&i=10103",
+          "text": "Winston Guy"
+        },
+        "college": "Kentucky",
+        "pos": "SS",
+        "height": "73",
+        "weight": "218",
+        "wonderlic": "",
+        "40yd": "4.62",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Junior&l=Hemingway&i=9815",
+          "text": "Junior Hemingway"
+        },
+        "college": "Michigan",
+        "pos": "WR",
+        "height": "73",
+        "weight": "225",
+        "wonderlic": "",
+        "40yd": "4.48",
+        "benchpress": "21",
+        "vertleap": "35.5",
+        "broadjump": "124",
+        "shuttle": "3.98",
+        "3cone": "6.59"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Mike&l=Harris&i=10071",
+          "text": "Mike Harris"
+        },
+        "college": "Florida State",
+        "pos": "CB",
+        "height": "70",
+        "weight": "188",
+        "wonderlic": "",
+        "40yd": "4.52",
+        "benchpress": "",
+        "vertleap": "36.0",
+        "broadjump": "117",
+        "shuttle": "4.07",
+        "3cone": "6.81"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Dan&l=Herron&i=9762",
+          "text": "Dan Herron"
+        },
+        "college": "Ohio State",
+        "pos": "RB",
+        "height": "70",
+        "weight": "213",
+        "wonderlic": "",
+        "40yd": "4.57",
+        "benchpress": "22",
+        "vertleap": "35.0",
+        "broadjump": "117",
+        "shuttle": "4.04",
+        "3cone": "6.97"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Akiem&l=Hicks&i=9915",
+          "text": "Akiem Hicks"
+        },
+        "college": "Regina",
+        "pos": "DT",
+        "height": "77",
+        "weight": "318",
+        "wonderlic": "",
+        "40yd": "5.21",
+        "benchpress": "26",
+        "vertleap": "31.5",
+        "broadjump": "108",
+        "shuttle": "4.86",
+        "3cone": "7.75"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Stephen&l=Hill&i=9783",
+          "text": "Stephen Hill"
+        },
+        "college": "Georgia Tech",
+        "pos": "WR",
+        "height": "76",
+        "weight": "215",
+        "wonderlic": "",
+        "40yd": "4.28",
+        "benchpress": "14",
+        "vertleap": "39.5",
+        "broadjump": "133",
+        "shuttle": "4.48",
+        "3cone": "6.88"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Tyler&l=Hansen&i=9749",
+          "text": "Tyler Hansen"
+        },
+        "college": "Colorado",
+        "pos": "QB",
+        "height": "73",
+        "weight": "218",
+        "wonderlic": "",
+        "40yd": "*4.85",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Lamar&l=Holmes&i=9853",
+          "text": "Lamar Holmes"
+        },
+        "college": "Southern Mississippi",
+        "pos": "OT",
+        "height": "77",
+        "weight": "323",
+        "wonderlic": "",
+        "40yd": "5.29",
+        "benchpress": "22",
+        "vertleap": "27.0",
+        "broadjump": "104",
+        "shuttle": "4.80",
+        "3cone": "7.74"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Josh&l=Harris&i=1005",
+          "text": "Josh Harris"
+        },
+        "college": "Auburn",
+        "pos": "C",
+        "height": "73",
+        "weight": "252",
+        "wonderlic": "",
+        "40yd": "4.82",
+        "benchpress": "15",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jaye&l=Howard&i=9930",
+          "text": "Jaye Howard"
+        },
+        "college": "Florida",
+        "pos": "DT",
+        "height": "75",
+        "weight": "301",
+        "wonderlic": "",
+        "40yd": "4.78",
+        "benchpress": "24",
+        "vertleap": "27.5",
+        "broadjump": "106",
+        "shuttle": "4.47",
+        "3cone": "7.32"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Delano&l=Howell&i=10093",
+          "text": "Delano Howell"
+        },
+        "college": "Stanford",
+        "pos": "SS",
+        "height": "71",
+        "weight": "210",
+        "wonderlic": "",
+        "40yd": "4.61",
+        "benchpress": "21",
+        "vertleap": "33.0",
+        "broadjump": "120",
+        "shuttle": "4.15",
+        "3cone": "6.97"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=DaJohn&l=Harris&i=9921",
+          "text": "DaJohn Harris"
+        },
+        "college": "Southern California",
+        "pos": "DT",
+        "height": "75",
+        "weight": "306",
+        "wonderlic": "",
+        "40yd": "*5.16",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Emil&l=Igwenagu&i=1004",
+          "text": "Emil Igwenagu"
+        },
+        "college": "Massachusetts",
+        "pos": "FB",
+        "height": "73",
+        "weight": "249",
+        "wonderlic": "",
+        "40yd": "4.70",
+        "benchpress": "19",
+        "vertleap": "34.5",
+        "broadjump": "121",
+        "shuttle": "4.40",
+        "3cone": "7.32"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Duke&l=Ihenacho&i=10094",
+          "text": "Duke Ihenacho"
+        },
+        "college": "San Jose State",
+        "pos": "SS",
+        "height": "73",
+        "weight": "213",
+        "wonderlic": "",
+        "40yd": "4.67",
+        "benchpress": "20",
+        "vertleap": "35.0",
+        "broadjump": "122",
+        "shuttle": "4.22",
+        "3cone": "6.78"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=George&l=Iloka&i=10083",
+          "text": "George Iloka"
+        },
+        "college": "Boise State",
+        "pos": "FS",
+        "height": "76",
+        "weight": "225",
+        "wonderlic": "",
+        "40yd": "4.60",
+        "benchpress": "20",
+        "vertleap": "34.5",
+        "broadjump": "124",
+        "shuttle": "4.03",
+        "3cone": "7.03"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Ronnie&l=Hillman&i=9759",
+          "text": "Ronnie Hillman"
+        },
+        "college": "San Diego State",
+        "pos": "RB",
+        "height": "69",
+        "weight": "200",
+        "wonderlic": "",
+        "40yd": "4.42",
+        "benchpress": "17",
+        "vertleap": "37.0",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Melvin&l=Ingram&i=8703",
+          "text": "Melvin Ingram"
+        },
+        "college": "South Carolina",
+        "pos": "OLB",
+        "height": "74",
+        "weight": "264",
+        "wonderlic": "",
+        "40yd": "4.69",
+        "benchpress": "28",
+        "vertleap": "34.5",
+        "broadjump": "109",
+        "shuttle": "4.18",
+        "3cone": "6.83"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Bruce&l=Irvin&i=9958",
+          "text": "Bruce Irvin"
+        },
+        "college": "West Virginia",
+        "pos": "OLB",
+        "height": "75",
+        "weight": "245",
+        "wonderlic": "",
+        "40yd": "4.41",
+        "benchpress": "23",
+        "vertleap": "33.5",
+        "broadjump": "123",
+        "shuttle": "4.03",
+        "3cone": "6.70"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Dont",
+          "text": "Dont'a Hightower"
+        },
+        "college": "Alabama",
+        "pos": "ILB",
+        "height": "74",
+        "weight": "265",
+        "wonderlic": "",
+        "40yd": "4.62",
+        "benchpress": "",
+        "vertleap": "32.0",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Asa&l=Jackson&i=10048",
+          "text": "Asa Jackson"
+        },
+        "college": "Cal Poly",
+        "pos": "CB",
+        "height": "70",
+        "weight": "191",
+        "wonderlic": "",
+        "40yd": "4.48",
+        "benchpress": "19",
+        "vertleap": "34.5",
+        "broadjump": "118",
+        "shuttle": "4.03",
+        "3cone": "6.97"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Janzen&l=Jackson&i=10084",
+          "text": "Janzen Jackson"
+        },
+        "college": "McNeese State",
+        "pos": "FS",
+        "height": "73",
+        "weight": "188",
+        "wonderlic": "",
+        "40yd": "4.60",
+        "benchpress": "9",
+        "vertleap": "36.5",
+        "broadjump": "125",
+        "shuttle": "4.15",
+        "3cone": "6.90"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jerrell&l=Jackson&i=9819",
+          "text": "Jerrell Jackson"
+        },
+        "college": "Missouri",
+        "pos": "WR",
+        "height": "73",
+        "weight": "196",
+        "wonderlic": "",
+        "40yd": "4.50",
+        "benchpress": "22",
+        "vertleap": "41.0",
+        "broadjump": "127",
+        "shuttle": "4.11",
+        "3cone": "6.82"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jayron&l=Hosley&i=10064",
+          "text": "Jayron Hosley"
+        },
+        "college": "Virginia Tech",
+        "pos": "CB",
+        "height": "70",
+        "weight": "178",
+        "wonderlic": "",
+        "40yd": "4.38",
+        "benchpress": "11",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Malik&l=Jackson&i=9909",
+          "text": "Malik Jackson"
+        },
+        "college": "Tennessee",
+        "pos": "DE",
+        "height": "77",
+        "weight": "284",
+        "wonderlic": "",
+        "40yd": "4.85",
+        "benchpress": "25",
+        "vertleap": "28.0",
+        "broadjump": "105",
+        "shuttle": "4.41",
+        "3cone": "7.38"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=LaMichael&l=James&i=9757",
+          "text": "LaMichael James"
+        },
+        "college": "Oregon",
+        "pos": "RB",
+        "height": "68",
+        "weight": "194",
+        "wonderlic": "",
+        "40yd": "4.35",
+        "benchpress": "15",
+        "vertleap": "35.0",
+        "broadjump": "123",
+        "shuttle": "4.12",
+        "3cone": "6.88"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=John&l=Hughes&i=9932",
+          "text": "John Hughes"
+        },
+        "college": "Cincinnati",
+        "pos": "DT",
+        "height": "75",
+        "weight": "309",
+        "wonderlic": "",
+        "40yd": "*5.32",
+        "benchpress": "28",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=T.Y.&l=Hilton&i=9791",
+          "text": "T.Y. Hilton"
+        },
+        "college": "Florida International",
+        "pos": "WR",
+        "height": "70",
+        "weight": "183",
+        "wonderlic": "",
+        "40yd": "*4.37",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jordan&l=Jefferson&i=9747",
+          "text": "Jordan Jefferson"
+        },
+        "college": "LSU",
+        "pos": "QB",
+        "height": "76",
+        "weight": "223",
+        "wonderlic": "",
+        "40yd": "4.58",
+        "benchpress": "14",
+        "vertleap": "36.5",
+        "broadjump": "116",
+        "shuttle": "4.06",
+        "3cone": "6.81"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jamaar&l=Jarrett&i=9904",
+          "text": "Jamaar Jarrett"
+        },
+        "college": "Arizona State",
+        "pos": "DE",
+        "height": "77",
+        "weight": "265",
+        "wonderlic": "",
+        "40yd": "4.96",
+        "benchpress": "21",
+        "vertleap": "30.0",
+        "broadjump": "114",
+        "shuttle": "4.34",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=James-Michael&l=Johnson&i=9949",
+          "text": "James-Michael Johnson"
+        },
+        "college": "Nevada",
+        "pos": "ILB",
+        "height": "73",
+        "weight": "241",
+        "wonderlic": "",
+        "40yd": "4.60",
+        "benchpress": "23",
+        "vertleap": "37.0",
+        "broadjump": "124",
+        "shuttle": "4.37",
+        "3cone": "7.34"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Janoris&l=Jenkins&i=10063",
+          "text": "Janoris Jenkins"
+        },
+        "college": "North Alabama",
+        "pos": "CB",
+        "height": "70",
+        "weight": "193",
+        "wonderlic": "",
+        "40yd": "4.41",
+        "benchpress": "",
+        "vertleap": "33.5",
+        "broadjump": "121",
+        "shuttle": "4.13",
+        "3cone": "6.95"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Leonard&l=Johnson&i=10069",
+          "text": "Leonard Johnson"
+        },
+        "college": "Iowa State",
+        "pos": "CB",
+        "height": "70",
+        "weight": "196",
+        "wonderlic": "",
+        "40yd": "4.62",
+        "benchpress": "15",
+        "vertleap": "32.0",
+        "broadjump": "120",
+        "shuttle": "4.15",
+        "3cone": "6.96"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Cam&l=Johnson&i=9898",
+          "text": "Cam Johnson"
+        },
+        "college": "Virginia",
+        "pos": "DE",
+        "height": "76",
+        "weight": "268",
+        "wonderlic": "",
+        "40yd": "4.75",
+        "benchpress": "",
+        "vertleap": "35.0",
+        "broadjump": "105",
+        "shuttle": "4.38",
+        "3cone": "7.20"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Rishaw&l=Johnson&i=9871",
+          "text": "Rishaw Johnson"
+        },
+        "college": "California (PA)",
+        "pos": "OG",
+        "height": "75",
+        "weight": "313",
+        "wonderlic": "",
+        "40yd": "5.12",
+        "benchpress": "22",
+        "vertleap": "31.5",
+        "broadjump": "108",
+        "shuttle": "4.53",
+        "3cone": "7.87"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Steven&l=Johnson&i=9977",
+          "text": "Steven Johnson"
+        },
+        "college": "Kansas",
+        "pos": "OLB",
+        "height": "73",
+        "weight": "239",
+        "wonderlic": "",
+        "40yd": "4.71",
+        "benchpress": "16",
+        "vertleap": "36.0",
+        "broadjump": "113",
+        "shuttle": "4.38",
+        "3cone": "7.32"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=A.J.&l=Jenkins&i=9802",
+          "text": "A.J. Jenkins"
+        },
+        "college": "Illinois",
+        "pos": "WR",
+        "height": "73",
+        "weight": "190",
+        "wonderlic": "",
+        "40yd": "4.37",
+        "benchpress": "12",
+        "vertleap": "38.5",
+        "broadjump": "124",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Trumaine&l=Johnson&i=10081",
+          "text": "Trumaine Johnson"
+        },
+        "college": "Montana",
+        "pos": "CB",
+        "height": "74",
+        "weight": "204",
+        "wonderlic": "",
+        "40yd": "4.50",
+        "benchpress": "19",
+        "vertleap": "35.5",
+        "broadjump": "122",
+        "shuttle": "4.15",
+        "3cone": "7.20"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Ben&l=Jones&i=9885",
+          "text": "Ben Jones"
+        },
+        "college": "Georgia",
+        "pos": "C",
+        "height": "75",
+        "weight": "303",
+        "wonderlic": "",
+        "40yd": "5.35",
+        "benchpress": "29",
+        "vertleap": "30.5",
+        "broadjump": "105",
+        "shuttle": "4.74",
+        "3cone": "7.95"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Chandler&l=Jones&i=9891",
+          "text": "Chandler Jones"
+        },
+        "college": "Syracuse",
+        "pos": "DE",
+        "height": "77",
+        "weight": "266",
+        "wonderlic": "",
+        "40yd": "4.77",
+        "benchpress": "22",
+        "vertleap": "35.0",
+        "broadjump": "120",
+        "shuttle": "4.38",
+        "3cone": "7.07"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jeremy&l=Jones&i=10065",
+          "text": "Jeremy Jones"
+        },
+        "college": "Wayne State (MI)",
+        "pos": "CB",
+        "height": "70",
+        "weight": "197",
+        "wonderlic": "",
+        "40yd": "4.56",
+        "benchpress": "20",
+        "vertleap": "31.5",
+        "broadjump": "116",
+        "shuttle": "4.18",
+        "3cone": "7.14"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Marcel&l=Jones&i=9854",
+          "text": "Marcel Jones"
+        },
+        "college": "Nebraska",
+        "pos": "OT",
+        "height": "78",
+        "weight": "320",
+        "wonderlic": "",
+        "40yd": "5.57",
+        "benchpress": "13",
+        "vertleap": "27.5",
+        "broadjump": "95",
+        "shuttle": "5.12",
+        "3cone": "8.03"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Marvin&l=Jones&i=1099",
+          "text": "Marvin Jones"
+        },
+        "college": "California",
+        "pos": "WR",
+        "height": "74",
+        "weight": "199",
+        "wonderlic": "",
+        "40yd": "4.46",
+        "benchpress": "22",
+        "vertleap": "33.0",
+        "broadjump": "112",
+        "shuttle": "4.11",
+        "3cone": "6.81"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Coryell&l=Judie&i=10055",
+          "text": "Coryell Judie"
+        },
+        "college": "Texas A&M",
+        "pos": "CB",
+        "height": "73",
+        "weight": "194",
+        "wonderlic": "",
+        "40yd": "4.45",
+        "benchpress": "",
+        "vertleap": "37.0",
+        "broadjump": "126",
+        "shuttle": "4.25",
+        "3cone": "7.33"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Alshon&l=Jeffery&i=9781",
+          "text": "Alshon Jeffery"
+        },
+        "college": "South Carolina",
+        "pos": "WR",
+        "height": "75",
+        "weight": "216",
+        "wonderlic": "",
+        "40yd": "*4.48",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jermaine&l=Kearse&i=9813",
+          "text": "Jermaine Kearse"
+        },
+        "college": "Washington",
+        "pos": "WR",
+        "height": "73",
+        "weight": "209",
+        "wonderlic": "",
+        "40yd": "4.50",
+        "benchpress": "14",
+        "vertleap": "34.0",
+        "broadjump": "119",
+        "shuttle": "4.12",
+        "3cone": "7.03"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Dwight&l=Jones&i=9786",
+          "text": "Dwight Jones"
+        },
+        "college": "North Carolina",
+        "pos": "WR",
+        "height": "75",
+        "weight": "230",
+        "wonderlic": "",
+        "40yd": "4.51",
+        "benchpress": "14",
+        "vertleap": "33.0",
+        "broadjump": "109",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Matt&l=Kalil&i=9836",
+          "text": "Matt Kalil"
+        },
+        "college": "Southern California",
+        "pos": "OT",
+        "height": "79",
+        "weight": "306",
+        "wonderlic": "",
+        "40yd": "4.96",
+        "benchpress": "30",
+        "vertleap": "27.0",
+        "broadjump": "",
+        "shuttle": "4.65",
+        "3cone": "7.33"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Ryan&l=Lindley&i=9737",
+          "text": "Ryan Lindley"
+        },
+        "college": "San Diego State",
+        "pos": "QB",
+        "height": "76",
+        "weight": "229",
+        "wonderlic": "35",
+        "40yd": "4.86",
+        "benchpress": "",
+        "vertleap": "29.5",
+        "broadjump": "108",
+        "shuttle": "4.45",
+        "3cone": "7.52"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Senio&l=Kelemete&i=9869",
+          "text": "Senio Kelemete"
+        },
+        "college": "Washington",
+        "pos": "OG",
+        "height": "76",
+        "weight": "307",
+        "wonderlic": "",
+        "40yd": "5.39",
+        "benchpress": "21",
+        "vertleap": "25.0",
+        "broadjump": "101",
+        "shuttle": "4.58",
+        "3cone": "7.77"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Josh&l=Kaddu&i=9965",
+          "text": "Josh Kaddu"
+        },
+        "college": "Oregon",
+        "pos": "OLB",
+        "height": "75",
+        "weight": "239",
+        "wonderlic": "",
+        "40yd": "*4.67",
+        "benchpress": "20",
+        "vertleap": "34.0",
+        "broadjump": "119",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Andrew&l=Luck&i=8694",
+          "text": "Andrew Luck"
+        },
+        "college": "Stanford",
+        "pos": "QB",
+        "height": "76",
+        "weight": "234",
+        "wonderlic": "37",
+        "40yd": "4.59",
+        "benchpress": "",
+        "vertleap": "36.0",
+        "broadjump": "124",
+        "shuttle": "4.28",
+        "3cone": "6.80"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Luke&l=Kuechly&i=8704",
+          "text": "Luke Kuechly"
+        },
+        "college": "Boston College",
+        "pos": "ILB",
+        "height": "75",
+        "weight": "242",
+        "wonderlic": "",
+        "40yd": "4.58",
+        "benchpress": "27",
+        "vertleap": "38.0",
+        "broadjump": "123",
+        "shuttle": "4.12",
+        "3cone": "6.92"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Mychal&l=Kendricks&i=9951",
+          "text": "Mychal Kendricks"
+        },
+        "college": "California",
+        "pos": "ILB",
+        "height": "71",
+        "weight": "239",
+        "wonderlic": "",
+        "40yd": "4.44",
+        "benchpress": "24",
+        "vertleap": "39.5",
+        "broadjump": "127",
+        "shuttle": "4.19",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Markus&l=Kuhn&i=9937",
+          "text": "Markus Kuhn"
+        },
+        "college": "North Carolina State",
+        "pos": "DT",
+        "height": "77",
+        "weight": "299",
+        "wonderlic": "",
+        "40yd": "4.87",
+        "benchpress": "28",
+        "vertleap": "34.5",
+        "broadjump": "112",
+        "shuttle": "4.41",
+        "3cone": "7.43"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Ronald&l=Leary&i=9881",
+          "text": "Ronald Leary"
+        },
+        "college": "Memphis",
+        "pos": "OG",
+        "height": "75",
+        "weight": "315",
+        "wonderlic": "",
+        "40yd": "5.23",
+        "benchpress": "30",
+        "vertleap": "29.0",
+        "broadjump": "104",
+        "shuttle": "4.91",
+        "3cone": "7.87"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Josh&l=LeRibeus&i=9874",
+          "text": "Josh LeRibeus"
+        },
+        "college": "Southern Methodist",
+        "pos": "OG",
+        "height": "75",
+        "weight": "312",
+        "wonderlic": "",
+        "40yd": "5.31",
+        "benchpress": "29",
+        "vertleap": "26.0",
+        "broadjump": "96",
+        "shuttle": "4.65",
+        "3cone": "7.64"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Ronnell&l=Lewis&i=9973",
+          "text": "Ronnell Lewis"
+        },
+        "college": "Oklahoma",
+        "pos": "OLB",
+        "height": "74",
+        "weight": "253",
+        "wonderlic": "",
+        "40yd": "4.65",
+        "benchpress": "36",
+        "vertleap": "31.0",
+        "broadjump": "112",
+        "shuttle": "4.40",
+        "3cone": "7.09"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Case&l=Keenum&i=9742",
+          "text": "Case Keenum"
+        },
+        "college": "Houston",
+        "pos": "QB",
+        "height": "73",
+        "weight": "208",
+        "wonderlic": "",
+        "40yd": "4.72",
+        "benchpress": "",
+        "vertleap": "32.5",
+        "broadjump": "103",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Brandon&l=Lindsey&i=9956",
+          "text": "Brandon Lindsey"
+        },
+        "college": "Pittsburgh",
+        "pos": "OLB",
+        "height": "74",
+        "weight": "254",
+        "wonderlic": "",
+        "40yd": "4.85",
+        "benchpress": "23",
+        "vertleap": "33.0",
+        "broadjump": "117",
+        "shuttle": "4.28",
+        "3cone": "7.36"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Dre&l=Kirkpatrick&i=10060",
+          "text": "Dre Kirkpatrick"
+        },
+        "college": "Alabama",
+        "pos": "CB",
+        "height": "74",
+        "weight": "186",
+        "wonderlic": "",
+        "40yd": "4.50",
+        "benchpress": "",
+        "vertleap": "35.0",
+        "broadjump": "120",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Peter&l=Konz&i=9884",
+          "text": "Peter Konz"
+        },
+        "college": "Wisconsin",
+        "pos": "C",
+        "height": "77",
+        "weight": "314",
+        "wonderlic": "",
+        "40yd": "*5.16",
+        "benchpress": "18",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Terrell&l=Manning&i=9980",
+          "text": "Terrell Manning"
+        },
+        "college": "North Carolina State",
+        "pos": "OLB",
+        "height": "74",
+        "weight": "237",
+        "wonderlic": "",
+        "40yd": "4.71",
+        "benchpress": "22",
+        "vertleap": "32.5",
+        "broadjump": "114",
+        "shuttle": "4.43",
+        "3cone": "7.18"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Travis&l=Lewis&i=9981",
+          "text": "Travis Lewis"
+        },
+        "college": "Oklahoma",
+        "pos": "OLB",
+        "height": "73",
+        "weight": "246",
+        "wonderlic": "",
+        "40yd": "4.83",
+        "benchpress": "22",
+        "vertleap": "36.0",
+        "broadjump": "122",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Brandon&l=Marshall&i=9957",
+          "text": "Brandon Marshall"
+        },
+        "college": "Nevada",
+        "pos": "OLB",
+        "height": "73",
+        "weight": "242",
+        "wonderlic": "",
+        "40yd": "4.72",
+        "benchpress": "28",
+        "vertleap": "30.5",
+        "broadjump": "108",
+        "shuttle": "4.09",
+        "3cone": "7.05"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Doug&l=Martin&i=9753",
+          "text": "Doug Martin"
+        },
+        "college": "Boise State",
+        "pos": "RB",
+        "height": "69",
+        "weight": "223",
+        "wonderlic": "",
+        "40yd": "4.46",
+        "benchpress": "28",
+        "vertleap": "36.0",
+        "broadjump": "120",
+        "shuttle": "4.16",
+        "3cone": "6.79"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Keshawn&l=Martin&i=9810",
+          "text": "Keshawn Martin"
+        },
+        "college": "Michigan State",
+        "pos": "WR",
+        "height": "73",
+        "weight": "188",
+        "wonderlic": "",
+        "40yd": "4.42",
+        "benchpress": "13",
+        "vertleap": "39.5",
+        "broadjump": "122",
+        "shuttle": "4.13",
+        "3cone": "6.85"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Shawn&l=Loiseau&i=9953",
+          "text": "Shawn Loiseau"
+        },
+        "college": "Merrimack",
+        "pos": "ILB",
+        "height": "73",
+        "weight": "244",
+        "wonderlic": "",
+        "40yd": "4.74",
+        "benchpress": "19",
+        "vertleap": "32.5",
+        "broadjump": "109",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Mike&l=Martin&i=9940",
+          "text": "Mike Martin"
+        },
+        "college": "Michigan",
+        "pos": "DT",
+        "height": "73",
+        "weight": "306",
+        "wonderlic": "",
+        "40yd": "4.80",
+        "benchpress": "36",
+        "vertleap": "33.5",
+        "broadjump": "113",
+        "shuttle": "4.25",
+        "3cone": "7.19"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jonathan&l=Massaquoi&i=9964",
+          "text": "Jonathan Massaquoi"
+        },
+        "college": "Troy",
+        "pos": "OLB",
+        "height": "74",
+        "weight": "264",
+        "wonderlic": "",
+        "40yd": "4.81",
+        "benchpress": "20",
+        "vertleap": "33.5",
+        "broadjump": "120",
+        "shuttle": "4.53",
+        "3cone": "7.38"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=D",
+          "text": "D'Anton Lynn"
+        },
+        "college": "Penn State",
+        "pos": "CB",
+        "height": "73",
+        "weight": "206",
+        "wonderlic": "",
+        "40yd": "4.71",
+        "benchpress": "17",
+        "vertleap": "31.5",
+        "broadjump": "111",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Bobby&l=Massie&i=9841",
+          "text": "Bobby Massie"
+        },
+        "college": "Mississippi",
+        "pos": "OT",
+        "height": "78",
+        "weight": "316",
+        "wonderlic": "",
+        "40yd": "5.18",
+        "benchpress": "22",
+        "vertleap": "27.5",
+        "broadjump": "103",
+        "shuttle": "4.95",
+        "3cone": "7.70"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jeremy&l=Lane&i=1008",
+          "text": "Jeremy Lane"
+        },
+        "college": "Northwestern State (LA)",
+        "pos": "CB",
+        "height": "73",
+        "weight": "190",
+        "wonderlic": "",
+        "40yd": "*4.52",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Rishard&l=Matthews&i=9798",
+          "text": "Rishard Matthews"
+        },
+        "college": "Nevada",
+        "pos": "WR",
+        "height": "73",
+        "weight": "217",
+        "wonderlic": "",
+        "40yd": "4.54",
+        "benchpress": "20",
+        "vertleap": "36.0",
+        "broadjump": "",
+        "shuttle": "4.19",
+        "3cone": "6.88"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Antoine&l=McClain&i=9875",
+          "text": "Antoine McClain"
+        },
+        "college": "Clemson",
+        "pos": "OG",
+        "height": "78",
+        "weight": "329",
+        "wonderlic": "",
+        "40yd": "5.48",
+        "benchpress": "19",
+        "vertleap": "27.0",
+        "broadjump": "91",
+        "shuttle": "4.82",
+        "3cone": "8.13"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Joe&l=Looney&i=9876",
+          "text": "Joe Looney"
+        },
+        "college": "Wake Forest",
+        "pos": "OG",
+        "height": "75",
+        "weight": "309",
+        "wonderlic": "",
+        "40yd": "*5.02",
+        "benchpress": "26",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Shea&l=McClellin&i=9976",
+          "text": "Shea McClellin"
+        },
+        "college": "Boise State",
+        "pos": "OLB",
+        "height": "75",
+        "weight": "260",
+        "wonderlic": "",
+        "40yd": "4.62",
+        "benchpress": "19",
+        "vertleap": "31.5",
+        "broadjump": "118",
+        "shuttle": "4.33",
+        "3cone": "7.07"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Kelcie&l=McCray&i=10099",
+          "text": "Kelcie McCray"
+        },
+        "college": "Arkansas State",
+        "pos": "SS",
+        "height": "74",
+        "weight": "202",
+        "wonderlic": "",
+        "40yd": "4.48",
+        "benchpress": "12",
+        "vertleap": "30.5",
+        "broadjump": "122",
+        "shuttle": "4.29",
+        "3cone": "7.00"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Kellen&l=Moore&i=9741",
+          "text": "Kellen Moore"
+        },
+        "college": "Boise State",
+        "pos": "QB",
+        "height": "73",
+        "weight": "197",
+        "wonderlic": "26",
+        "40yd": "4.82",
+        "benchpress": "",
+        "vertleap": "27.0",
+        "broadjump": "99",
+        "shuttle": "4.56",
+        "3cone": "7.41"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jerron&l=McMillian&i=10097",
+          "text": "Jerron McMillian"
+        },
+        "college": "Maine",
+        "pos": "SS",
+        "height": "71",
+        "weight": "203",
+        "wonderlic": "",
+        "40yd": "4.47",
+        "benchpress": "17",
+        "vertleap": "36.5",
+        "broadjump": "120",
+        "shuttle": "4.22",
+        "3cone": "6.69"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Caleb&l=McSurdy&i=9946",
+          "text": "Caleb McSurdy"
+        },
+        "college": "Montana",
+        "pos": "ILB",
+        "height": "73",
+        "weight": "245",
+        "wonderlic": "",
+        "40yd": "4.82",
+        "benchpress": "26",
+        "vertleap": "30.0",
+        "broadjump": "110",
+        "shuttle": "4.28",
+        "3cone": "7.26"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Kentrell&l=Lockett&i=9908",
+          "text": "Kentrell Lockett"
+        },
+        "college": "Mississippi",
+        "pos": "DE",
+        "height": "77",
+        "weight": "243",
+        "wonderlic": "",
+        "40yd": "*4.99",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Vaughn&l=Meatoga&i=9944",
+          "text": "Vaughn Meatoga"
+        },
+        "college": "Hawaii",
+        "pos": "DT",
+        "height": "73",
+        "weight": "294",
+        "wonderlic": "",
+        "40yd": "4.93",
+        "benchpress": "27",
+        "vertleap": "30.0",
+        "broadjump": "108",
+        "shuttle": "4.21",
+        "3cone": "7.10"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Marvin&l=McNutt&i=9796",
+          "text": "Marvin McNutt"
+        },
+        "college": "Iowa",
+        "pos": "WR",
+        "height": "75",
+        "weight": "216",
+        "wonderlic": "",
+        "40yd": "4.48",
+        "benchpress": "",
+        "vertleap": "37.0",
+        "broadjump": "122",
+        "shuttle": "4.07",
+        "3cone": "7.15"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Davin&l=Meggett&i=9766",
+          "text": "Davin Meggett"
+        },
+        "college": "Maryland",
+        "pos": "RB",
+        "height": "68",
+        "weight": "211",
+        "wonderlic": "",
+        "40yd": "4.50",
+        "benchpress": "23",
+        "vertleap": "35.0",
+        "broadjump": "118",
+        "shuttle": "4.32",
+        "3cone": "7.14"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Matt&l=McCants&i=9843",
+          "text": "Matt McCants"
+        },
+        "college": "UAB",
+        "pos": "OT",
+        "height": "78",
+        "weight": "308",
+        "wonderlic": "",
+        "40yd": "5.40",
+        "benchpress": "17",
+        "vertleap": "25.5",
+        "broadjump": "97",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Markelle&l=Martin&i=10085",
+          "text": "Markelle Martin"
+        },
+        "college": "Oklahoma State",
+        "pos": "FS",
+        "height": "73",
+        "weight": "207",
+        "wonderlic": "",
+        "40yd": "*4.47",
+        "benchpress": "19",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Whitney&l=Mercilus&i=9895",
+          "text": "Whitney Mercilus"
+        },
+        "college": "Illinois",
+        "pos": "DE",
+        "height": "76",
+        "weight": "261",
+        "wonderlic": "",
+        "40yd": "4.68",
+        "benchpress": "27",
+        "vertleap": "32.0",
+        "broadjump": "118",
+        "shuttle": "4.53",
+        "3cone": "7.17"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Ryan&l=Miller&i=9873",
+          "text": "Ryan Miller"
+        },
+        "college": "Colorado",
+        "pos": "OG",
+        "height": "79",
+        "weight": "321",
+        "wonderlic": "",
+        "40yd": "5.16",
+        "benchpress": "32",
+        "vertleap": "28.0",
+        "broadjump": "100",
+        "shuttle": "4.78",
+        "3cone": "7.72"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Marquis&l=Maze&i=9803",
+          "text": "Marquis Maze"
+        },
+        "college": "Alabama",
+        "pos": "WR",
+        "height": "68",
+        "weight": "186",
+        "wonderlic": "",
+        "40yd": "4.51",
+        "benchpress": "",
+        "vertleap": "33.5",
+        "broadjump": "112",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Charles&l=Mitchell&i=10091",
+          "text": "Charles Mitchell"
+        },
+        "college": "Mississippi State",
+        "pos": "SS",
+        "height": "71",
+        "weight": "202",
+        "wonderlic": "",
+        "40yd": "4.56",
+        "benchpress": "19",
+        "vertleap": "37.0",
+        "broadjump": "127",
+        "shuttle": "4.22",
+        "3cone": "6.93"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jonathan&l=Martin&i=9838",
+          "text": "Jonathan Martin"
+        },
+        "college": "Stanford",
+        "pos": "OT",
+        "height": "77",
+        "weight": "312",
+        "wonderlic": "",
+        "40yd": "*5.35",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Kashif&l=Moore&i=9821",
+          "text": "Kashif Moore"
+        },
+        "college": "Connecticut",
+        "pos": "WR",
+        "height": "69",
+        "weight": "180",
+        "wonderlic": "",
+        "40yd": "4.36",
+        "benchpress": "19",
+        "vertleap": "43.5",
+        "broadjump": "126",
+        "shuttle": "4.05",
+        "3cone": "6.82"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Alfred&l=Morris&i=9774",
+          "text": "Alfred Morris"
+        },
+        "college": "Florida Atlantic",
+        "pos": "RB",
+        "height": "70",
+        "weight": "219",
+        "wonderlic": "",
+        "40yd": "4.63",
+        "benchpress": "16",
+        "vertleap": "35.5",
+        "broadjump": "117",
+        "shuttle": "4.19",
+        "3cone": "7.01"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Brandon&l=Mosley&i=9844",
+          "text": "Brandon Mosley"
+        },
+        "college": "Auburn",
+        "pos": "OT",
+        "height": "78",
+        "weight": "314",
+        "wonderlic": "",
+        "40yd": "5.14",
+        "benchpress": "30",
+        "vertleap": "27.0",
+        "broadjump": "103",
+        "shuttle": "4.78",
+        "3cone": "7.43"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Rennie&l=Moore&i=9941",
+          "text": "Rennie Moore"
+        },
+        "college": "Clemson",
+        "pos": "DT",
+        "height": "75",
+        "weight": "268",
+        "wonderlic": "",
+        "40yd": "5.00",
+        "benchpress": "21",
+        "vertleap": "30.5",
+        "broadjump": "109",
+        "shuttle": "4.53",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=DeQuan&l=Menzie&i=10059",
+          "text": "DeQuan Menzie"
+        },
+        "college": "Alabama",
+        "pos": "CB",
+        "height": "71",
+        "weight": "202",
+        "wonderlic": "",
+        "40yd": "4.65",
+        "benchpress": "",
+        "vertleap": "33.0",
+        "broadjump": "116",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Brock&l=Osweiler&i=9733",
+          "text": "Brock Osweiler"
+        },
+        "college": "Arizona State",
+        "pos": "QB",
+        "height": "79",
+        "weight": "242",
+        "wonderlic": "25",
+        "40yd": "*4.83",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Josh&l=Norman&i=10066",
+          "text": "Josh Norman"
+        },
+        "college": "Coastal Carolina",
+        "pos": "CB",
+        "height": "73",
+        "weight": "197",
+        "wonderlic": "",
+        "40yd": "4.61",
+        "benchpress": "14",
+        "vertleap": "33.0",
+        "broadjump": "124",
+        "shuttle": "4.23",
+        "3cone": "7.09"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Derek&l=Moye&i=9814",
+          "text": "Derek Moye"
+        },
+        "college": "Penn State",
+        "pos": "WR",
+        "height": "76",
+        "weight": "209",
+        "wonderlic": "",
+        "40yd": "4.46",
+        "benchpress": "10",
+        "vertleap": "33.5",
+        "broadjump": "115",
+        "shuttle": "4.23",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Kelechi&l=Osemele&i=9866",
+          "text": "Kelechi Osemele"
+        },
+        "college": "Iowa State",
+        "pos": "OT",
+        "height": "78",
+        "weight": "333",
+        "wonderlic": "",
+        "40yd": "5.22",
+        "benchpress": "32",
+        "vertleap": "26.5",
+        "broadjump": "104",
+        "shuttle": "4.87",
+        "3cone": "7.91"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Tyler&l=Nielsen&i=9982",
+          "text": "Tyler Nielsen"
+        },
+        "college": "Iowa",
+        "pos": "OLB",
+        "height": "75",
+        "weight": "238",
+        "wonderlic": "",
+        "40yd": "4.63",
+        "benchpress": "21",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "4.31",
+        "3cone": "7.27"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Lucas&l=Nix&i=9870",
+          "text": "Lucas Nix"
+        },
+        "college": "Pittsburgh",
+        "pos": "OG",
+        "height": "77",
+        "weight": "317",
+        "wonderlic": "",
+        "40yd": "5.36",
+        "benchpress": "",
+        "vertleap": "29.5",
+        "broadjump": "102",
+        "shuttle": "4.90",
+        "3cone": "7.81"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Chris&l=Owusu&i=9817",
+          "text": "Chris Owusu"
+        },
+        "college": "Stanford",
+        "pos": "WR",
+        "height": "73",
+        "weight": "196",
+        "wonderlic": "",
+        "40yd": "4.31",
+        "benchpress": "19",
+        "vertleap": "40.5",
+        "broadjump": "129",
+        "shuttle": "4.11",
+        "3cone": "6.85"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Eric&l=Page&i=9794",
+          "text": "Eric Page"
+        },
+        "college": "Toledo",
+        "pos": "WR",
+        "height": "69",
+        "weight": "186",
+        "wonderlic": "",
+        "40yd": "4.50",
+        "benchpress": "15",
+        "vertleap": "30.0",
+        "broadjump": "112",
+        "shuttle": "3.98",
+        "3cone": "6.95"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Chase&l=Minnifield&i=10052",
+          "text": "Chase Minnifield"
+        },
+        "college": "Virginia",
+        "pos": "CB",
+        "height": "70",
+        "weight": "183",
+        "wonderlic": "",
+        "40yd": "*4.65",
+        "benchpress": "7",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=David&l=Paulson&i=9834",
+          "text": "David Paulson"
+        },
+        "college": "Oregon",
+        "pos": "TE",
+        "height": "75",
+        "weight": "246",
+        "wonderlic": "",
+        "40yd": "4.79",
+        "benchpress": "21",
+        "vertleap": "32.0",
+        "broadjump": "110",
+        "shuttle": "4.40",
+        "3cone": "7.18"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Lamar&l=Miller&i=8698",
+          "text": "Lamar Miller"
+        },
+        "college": "Miami",
+        "pos": "RB",
+        "height": "71",
+        "weight": "212",
+        "wonderlic": "",
+        "40yd": "4.34",
+        "benchpress": "",
+        "vertleap": "33.0",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=David&l=Molk&i=9889",
+          "text": "David Molk"
+        },
+        "college": "Michigan",
+        "pos": "C",
+        "height": "73",
+        "weight": "298",
+        "wonderlic": "",
+        "40yd": "*5.18",
+        "benchpress": "41",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Nick&l=Perry&i=9893",
+          "text": "Nick Perry"
+        },
+        "college": "Southern California",
+        "pos": "DE",
+        "height": "75",
+        "weight": "271",
+        "wonderlic": "",
+        "40yd": "4.55",
+        "benchpress": "35",
+        "vertleap": "38.5",
+        "broadjump": "124",
+        "shuttle": "4.66",
+        "3cone": "7.25"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Isaiah&l=Pead&i=9755",
+          "text": "Isaiah Pead"
+        },
+        "college": "Cincinnati",
+        "pos": "RB",
+        "height": "70",
+        "weight": "197",
+        "wonderlic": "",
+        "40yd": "4.39",
+        "benchpress": "",
+        "vertleap": "33.0",
+        "broadjump": "116",
+        "shuttle": "4.32",
+        "3cone": "6.95"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Bernard&l=Pierce&i=9756",
+          "text": "Bernard Pierce"
+        },
+        "college": "Temple",
+        "pos": "RB",
+        "height": "73",
+        "weight": "218",
+        "wonderlic": "",
+        "40yd": "4.45",
+        "benchpress": "17",
+        "vertleap": "36.5",
+        "broadjump": "123",
+        "shuttle": "4.28",
+        "3cone": "7.07"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Eddie&l=Pleasant&i=10095",
+          "text": "Eddie Pleasant"
+        },
+        "college": "Oregon",
+        "pos": "SS",
+        "height": "70",
+        "weight": "211",
+        "wonderlic": "",
+        "40yd": "4.53",
+        "benchpress": "22",
+        "vertleap": "33.5",
+        "broadjump": "116",
+        "shuttle": "4.28",
+        "3cone": "7.12"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Dontari&l=Poe&i=9926",
+          "text": "Dontari Poe"
+        },
+        "college": "Memphis",
+        "pos": "DT",
+        "height": "76",
+        "weight": "346",
+        "wonderlic": "",
+        "40yd": "4.89",
+        "benchpress": "44",
+        "vertleap": "29.5",
+        "broadjump": "105",
+        "shuttle": "4.56",
+        "3cone": "7.90"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Josh&l=Oglesby&i=9857",
+          "text": "Josh Oglesby"
+        },
+        "college": "Wisconsin",
+        "pos": "OT",
+        "height": "79",
+        "weight": "338",
+        "wonderlic": "",
+        "40yd": "5.75",
+        "benchpress": "22",
+        "vertleap": "28.5",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=DeAngelo&l=Peterson&i=9829",
+          "text": "DeAngelo Peterson"
+        },
+        "college": "LSU",
+        "pos": "TE",
+        "height": "75",
+        "weight": "243",
+        "wonderlic": "",
+        "40yd": "4.69",
+        "benchpress": "18",
+        "vertleap": "36.0",
+        "broadjump": "121",
+        "shuttle": "",
+        "3cone": "7.19"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Tauren&l=Poole&i=9761",
+          "text": "Tauren Poole"
+        },
+        "college": "Tennessee",
+        "pos": "RB",
+        "height": "70",
+        "weight": "205",
+        "wonderlic": "",
+        "40yd": "4.48",
+        "benchpress": "24",
+        "vertleap": "34.0",
+        "broadjump": "118",
+        "shuttle": "4.19",
+        "3cone": "7.36"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=DeVier&l=Posey&i=9792",
+          "text": "DeVier Posey"
+        },
+        "college": "Ohio State",
+        "pos": "WR",
+        "height": "74",
+        "weight": "211",
+        "wonderlic": "",
+        "40yd": "4.39",
+        "benchpress": "14",
+        "vertleap": "36.5",
+        "broadjump": "123",
+        "shuttle": "4.15",
+        "3cone": "7.03"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Nate&l=Potter&i=9848",
+          "text": "Nate Potter"
+        },
+        "college": "Boise State",
+        "pos": "OT",
+        "height": "78",
+        "weight": "303",
+        "wonderlic": "",
+        "40yd": "5.26",
+        "benchpress": "22",
+        "vertleap": "28.5",
+        "broadjump": "100",
+        "shuttle": "4.67",
+        "3cone": "7.49"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Chris&l=Polk&i=9754",
+          "text": "Chris Polk"
+        },
+        "college": "Washington",
+        "pos": "RB",
+        "height": "71",
+        "weight": "215",
+        "wonderlic": "",
+        "40yd": "4.52",
+        "benchpress": "",
+        "vertleap": "31.5",
+        "broadjump": "111",
+        "shuttle": "4.21",
+        "3cone": "7.13"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Chaz&l=Powell&i=10053",
+          "text": "Chaz Powell"
+        },
+        "college": "Penn State",
+        "pos": "CB",
+        "height": "73",
+        "weight": "203",
+        "wonderlic": "",
+        "40yd": "4.42",
+        "benchpress": "17",
+        "vertleap": "33.0",
+        "broadjump": "121",
+        "shuttle": "4.16",
+        "3cone": "6.84"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Micah&l=Pellerin&i=10070",
+          "text": "Micah Pellerin"
+        },
+        "college": "Hampton",
+        "pos": "CB",
+        "height": "73",
+        "weight": "194",
+        "wonderlic": "",
+        "40yd": "4.52",
+        "benchpress": "14",
+        "vertleap": "33.0",
+        "broadjump": "116",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Tydreke&l=Powell&i=9943",
+          "text": "Tydreke Powell"
+        },
+        "college": "North Carolina",
+        "pos": "DT",
+        "height": "74",
+        "weight": "311",
+        "wonderlic": "",
+        "40yd": "5.28",
+        "benchpress": "29",
+        "vertleap": "28.5",
+        "broadjump": "99",
+        "shuttle": "4.62",
+        "3cone": "7.31"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=DeAndre&l=Presley&i=10058",
+          "text": "DeAndre Presley"
+        },
+        "college": "Appalachian State (NC)",
+        "pos": "CB",
+        "height": "70",
+        "weight": "185",
+        "wonderlic": "",
+        "40yd": "4.53",
+        "benchpress": "8",
+        "vertleap": "32.0",
+        "broadjump": "114",
+        "shuttle": "4.28",
+        "3cone": "7.19"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Cyhl&l=Quarles&i=10092",
+          "text": "Cyhl Quarles"
+        },
+        "college": "Wake Forest",
+        "pos": "SS",
+        "height": "74",
+        "weight": "213",
+        "wonderlic": "",
+        "40yd": "4.54",
+        "benchpress": "19",
+        "vertleap": "32.5",
+        "broadjump": "119",
+        "shuttle": "4.32",
+        "3cone": "7.21"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Donte&l=Paige-Moss&i=9892",
+          "text": "Donte Paige-Moss"
+        },
+        "college": "North Carolina",
+        "pos": "DE",
+        "height": "75",
+        "weight": "268",
+        "wonderlic": "",
+        "40yd": "*4.67",
+        "benchpress": "26",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Brian&l=Quick&i=9787",
+          "text": "Brian Quick"
+        },
+        "college": "Appalachian State (NC)",
+        "pos": "WR",
+        "height": "76",
+        "weight": "220",
+        "wonderlic": "",
+        "40yd": "4.50",
+        "benchpress": "15",
+        "vertleap": "34.0",
+        "broadjump": "119",
+        "shuttle": "4.23",
+        "3cone": "7.10"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Chris&l=Rainey&i=9760",
+          "text": "Chris Rainey"
+        },
+        "college": "Florida",
+        "pos": "RB",
+        "height": "68",
+        "weight": "180",
+        "wonderlic": "",
+        "40yd": "4.36",
+        "benchpress": "16",
+        "vertleap": "36.5",
+        "broadjump": "120",
+        "shuttle": "3.93",
+        "3cone": "6.50"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Kheeston&l=Randall&i=9935",
+          "text": "Kheeston Randall"
+        },
+        "college": "Texas",
+        "pos": "DT",
+        "height": "77",
+        "weight": "293",
+        "wonderlic": "",
+        "40yd": "5.00",
+        "benchpress": "28",
+        "vertleap": "34.0",
+        "broadjump": "111",
+        "shuttle": "4.84",
+        "3cone": "7.49"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Rueben&l=Randle&i=9782",
+          "text": "Rueben Randle"
+        },
+        "college": "LSU",
+        "pos": "WR",
+        "height": "75",
+        "weight": "210",
+        "wonderlic": "",
+        "40yd": "4.55",
+        "benchpress": "15",
+        "vertleap": "31.0",
+        "broadjump": "121",
+        "shuttle": "4.36",
+        "3cone": "6.99"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Riley&l=Reiff&i=9837",
+          "text": "Riley Reiff"
+        },
+        "college": "Iowa",
+        "pos": "OT",
+        "height": "78",
+        "weight": "313",
+        "wonderlic": "",
+        "40yd": "5.16",
+        "benchpress": "23",
+        "vertleap": "26.5",
+        "broadjump": "98",
+        "shuttle": "4.75",
+        "3cone": "7.87"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Kendall&l=Reyes&i=9934",
+          "text": "Kendall Reyes"
+        },
+        "college": "Connecticut",
+        "pos": "DT",
+        "height": "76",
+        "weight": "299",
+        "wonderlic": "",
+        "40yd": "4.82",
+        "benchpress": "36",
+        "vertleap": "34.5",
+        "broadjump": "113",
+        "shuttle": "4.53",
+        "3cone": "7.43"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Antwuan&l=Reed&i=10047",
+          "text": "Antwuan Reed"
+        },
+        "college": "Pittsburgh",
+        "pos": "CB",
+        "height": "70",
+        "weight": "188",
+        "wonderlic": "",
+        "40yd": "4.58",
+        "benchpress": "14",
+        "vertleap": "36.5",
+        "broadjump": "124",
+        "shuttle": "4.20",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Sean&l=Richardson&i=10102",
+          "text": "Sean Richardson"
+        },
+        "college": "Vanderbilt",
+        "pos": "SS",
+        "height": "75",
+        "weight": "216",
+        "wonderlic": "",
+        "40yd": "4.43",
+        "benchpress": "22",
+        "vertleap": "38.5",
+        "broadjump": "128",
+        "shuttle": "4.44",
+        "3cone": "7.01"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Josh&l=Robinson&i=10067",
+          "text": "Josh Robinson"
+        },
+        "college": "Central Florida",
+        "pos": "CB",
+        "height": "70",
+        "weight": "199",
+        "wonderlic": "",
+        "40yd": "4.29",
+        "benchpress": "17",
+        "vertleap": "38.5",
+        "broadjump": "133",
+        "shuttle": "3.97",
+        "3cone": "6.55"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Shaun&l=Prater&i=10077",
+          "text": "Shaun Prater"
+        },
+        "college": "Iowa",
+        "pos": "CB",
+        "height": "70",
+        "weight": "190",
+        "wonderlic": "",
+        "40yd": "*4.52",
+        "benchpress": "14",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Evan&l=Rodriguez&i=1001",
+          "text": "Evan Rodriguez"
+        },
+        "college": "Temple",
+        "pos": "FB",
+        "height": "74",
+        "weight": "239",
+        "wonderlic": "",
+        "40yd": "4.53",
+        "benchpress": "18",
+        "vertleap": "36.0",
+        "broadjump": "119",
+        "shuttle": "4.28",
+        "3cone": "6.94"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Brett&l=Roy&i=9918",
+          "text": "Brett Roy"
+        },
+        "college": "Nevada",
+        "pos": "DT",
+        "height": "75",
+        "weight": "275",
+        "wonderlic": "",
+        "40yd": "5.00",
+        "benchpress": "32",
+        "vertleap": "30.5",
+        "broadjump": "108",
+        "shuttle": "4.62",
+        "3cone": "7.31"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Zebrie&l=Sanders&i=9840",
+          "text": "Zebrie Sanders"
+        },
+        "college": "Florida State",
+        "pos": "OT",
+        "height": "78",
+        "weight": "320",
+        "wonderlic": "",
+        "40yd": "5.33",
+        "benchpress": "28",
+        "vertleap": "27.0",
+        "broadjump": "100",
+        "shuttle": "4.99",
+        "3cone": "8.15"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Mohamed&l=Sanu&i=9780",
+          "text": "Mohamed Sanu"
+        },
+        "college": "Rutgers",
+        "pos": "WR",
+        "height": "74",
+        "weight": "211",
+        "wonderlic": "",
+        "40yd": "4.62",
+        "benchpress": "19",
+        "vertleap": "36.0",
+        "broadjump": "126",
+        "shuttle": "4.22",
+        "3cone": "6.88"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Trenton&l=Robinson&i=10087",
+          "text": "Trenton Robinson"
+        },
+        "college": "Michigan State",
+        "pos": "FS",
+        "height": "70",
+        "weight": "195",
+        "wonderlic": "",
+        "40yd": "4.46",
+        "benchpress": "15",
+        "vertleap": "35.0",
+        "broadjump": "125",
+        "shuttle": "4.15",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Quentin&l=Saulsberry&i=9888",
+          "text": "Quentin Saulsberry"
+        },
+        "college": "Mississippi State",
+        "pos": "C",
+        "height": "74",
+        "weight": "304",
+        "wonderlic": "",
+        "40yd": "5.28",
+        "benchpress": "26",
+        "vertleap": "22.0",
+        "broadjump": "90",
+        "shuttle": "4.99",
+        "3cone": "8.19"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=James&l=Rodgers&i=9818",
+          "text": "James Rodgers"
+        },
+        "college": "Oregon State",
+        "pos": "WR",
+        "height": "67",
+        "weight": "184",
+        "wonderlic": "",
+        "40yd": "4.61",
+        "benchpress": "19",
+        "vertleap": "37.0",
+        "broadjump": "115",
+        "shuttle": "4.23",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Gerell&l=Robinson&i=9801",
+          "text": "Gerell Robinson"
+        },
+        "college": "Arizona State",
+        "pos": "WR",
+        "height": "75",
+        "weight": "227",
+        "wonderlic": "",
+        "40yd": "4.54",
+        "benchpress": "",
+        "vertleap": "35.5",
+        "broadjump": "113",
+        "shuttle": "4.15",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Mitchell&l=Schwartz&i=9842",
+          "text": "Mitchell Schwartz"
+        },
+        "college": "California",
+        "pos": "OT",
+        "height": "77",
+        "weight": "318",
+        "wonderlic": "",
+        "40yd": "5.38",
+        "benchpress": "23",
+        "vertleap": "26.5",
+        "broadjump": "89",
+        "shuttle": "4.87",
+        "3cone": "7.86"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Travian&l=Robertson&i=9942",
+          "text": "Travian Robertson"
+        },
+        "college": "South Carolina",
+        "pos": "DT",
+        "height": "76",
+        "weight": "302",
+        "wonderlic": "",
+        "40yd": "5.12",
+        "benchpress": "30",
+        "vertleap": "26.0",
+        "broadjump": "102",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Coty&l=Sensabaugh&i=10056",
+          "text": "Coty Sensabaugh"
+        },
+        "college": "Clemson",
+        "pos": "CB",
+        "height": "71",
+        "weight": "189",
+        "wonderlic": "",
+        "40yd": "4.33",
+        "benchpress": "15",
+        "vertleap": "37.0",
+        "broadjump": "122",
+        "shuttle": "4.06",
+        "3cone": "6.60"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Derrick&l=Shelby&i=9899",
+          "text": "Derrick Shelby"
+        },
+        "college": "Utah",
+        "pos": "DE",
+        "height": "75",
+        "weight": "266",
+        "wonderlic": "",
+        "40yd": "4.87",
+        "benchpress": "26",
+        "vertleap": "35.5",
+        "broadjump": "116",
+        "shuttle": "4.50",
+        "3cone": "7.09"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Keenan&l=Robinson&i=9966",
+          "text": "Keenan Robinson"
+        },
+        "college": "Texas",
+        "pos": "ILB",
+        "height": "75",
+        "weight": "242",
+        "wonderlic": "",
+        "40yd": "4.72",
+        "benchpress": "27",
+        "vertleap": "35.5",
+        "broadjump": "120",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Nick&l=Provo&i=9832",
+          "text": "Nick Provo"
+        },
+        "college": "Syracuse",
+        "pos": "TE",
+        "height": "75",
+        "weight": "237",
+        "wonderlic": "",
+        "40yd": "*4.78",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Amini&l=Silatolu&i=9868",
+          "text": "Amini Silatolu"
+        },
+        "college": "Midwestern State",
+        "pos": "OG",
+        "height": "76",
+        "weight": "311",
+        "wonderlic": "",
+        "40yd": "5.33",
+        "benchpress": "28",
+        "vertleap": "31.5",
+        "broadjump": "107",
+        "shuttle": "4.87",
+        "3cone": "7.95"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Harrison&l=Smith&i=10096",
+          "text": "Harrison Smith"
+        },
+        "college": "Notre Dame",
+        "pos": "SS",
+        "height": "74",
+        "weight": "213",
+        "wonderlic": "",
+        "40yd": "4.54",
+        "benchpress": "19",
+        "vertleap": "34.0",
+        "broadjump": "122",
+        "shuttle": "4.12",
+        "3cone": "6.63"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Matt&l=Reynolds&i=9849",
+          "text": "Matt Reynolds"
+        },
+        "college": "BYU",
+        "pos": "OT",
+        "height": "77",
+        "weight": "302",
+        "wonderlic": "",
+        "40yd": "5.27",
+        "benchpress": "25",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jacquies&l=Smith&i=9902",
+          "text": "Jacquies Smith"
+        },
+        "college": "Missouri",
+        "pos": "DE",
+        "height": "75",
+        "weight": "253",
+        "wonderlic": "",
+        "40yd": "4.75",
+        "benchpress": "21",
+        "vertleap": "31.5",
+        "broadjump": "110",
+        "shuttle": "4.31",
+        "3cone": "7.25"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Scott&l=Solomon&i=9911",
+          "text": "Scott Solomon"
+        },
+        "college": "Rice",
+        "pos": "DE",
+        "height": "75",
+        "weight": "262",
+        "wonderlic": "",
+        "40yd": "4.88",
+        "benchpress": "34",
+        "vertleap": "35.0",
+        "broadjump": "124",
+        "shuttle": "4.25",
+        "3cone": "7.17"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Sean&l=Spence&i=9975",
+          "text": "Sean Spence"
+        },
+        "college": "Miami",
+        "pos": "OLB",
+        "height": "71",
+        "weight": "231",
+        "wonderlic": "",
+        "40yd": "4.66",
+        "benchpress": "12",
+        "vertleap": "33.5",
+        "broadjump": "119",
+        "shuttle": "4.28",
+        "3cone": "7.46"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Ryan&l=Steed&i=10076",
+          "text": "Ryan Steed"
+        },
+        "college": "Furman",
+        "pos": "CB",
+        "height": "71",
+        "weight": "195",
+        "wonderlic": "",
+        "40yd": "4.64",
+        "benchpress": "12",
+        "vertleap": "34.0",
+        "broadjump": "121",
+        "shuttle": "4.22",
+        "3cone": "6.94"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Donald&l=Stephenson&i=9856",
+          "text": "Donald Stephenson"
+        },
+        "college": "Oklahoma",
+        "pos": "OT",
+        "height": "78",
+        "weight": "312",
+        "wonderlic": "",
+        "40yd": "4.94",
+        "benchpress": "19",
+        "vertleap": "35.5",
+        "broadjump": "114",
+        "shuttle": "4.78",
+        "3cone": "7.52"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Ryan&l=Tannehill&i=8696",
+          "text": "Ryan Tannehill"
+        },
+        "college": "Texas A&M",
+        "pos": "QB",
+        "height": "76",
+        "weight": "221",
+        "wonderlic": "34",
+        "40yd": "*4.65",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Beau&l=Reliford&i=9835",
+          "text": "Beau Reliford"
+        },
+        "college": "Florida State",
+        "pos": "TE",
+        "height": "77",
+        "weight": "256",
+        "wonderlic": "",
+        "40yd": "*4.84",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Nathan&l=Stupar&i=9971",
+          "text": "Nathan Stupar"
+        },
+        "college": "Penn State",
+        "pos": "OLB",
+        "height": "74",
+        "weight": "241",
+        "wonderlic": "",
+        "40yd": "4.65",
+        "benchpress": "21",
+        "vertleap": "31.0",
+        "broadjump": "116",
+        "shuttle": "4.28",
+        "3cone": "6.84"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=J.R.&l=Sweezy&i=9929",
+          "text": "J.R. Sweezy"
+        },
+        "college": "North Carolina State",
+        "pos": "DT",
+        "height": "77",
+        "weight": "298",
+        "wonderlic": "",
+        "40yd": "4.97",
+        "benchpress": "21",
+        "vertleap": "36.0",
+        "broadjump": "113",
+        "shuttle": "4.41",
+        "3cone": "7.40"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Daryl&l=Richardson&i=1026",
+          "text": "Daryl Richardson"
+        },
+        "college": "Abilene Christian",
+        "pos": "RB",
+        "height": "70",
+        "weight": "192",
+        "wonderlic": "",
+        "40yd": "*4.47",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Trent&l=Richardson&i=8697",
+          "text": "Trent Richardson"
+        },
+        "college": "Alabama",
+        "pos": "RB",
+        "height": "69",
+        "weight": "228",
+        "wonderlic": "",
+        "40yd": "*4.49",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Tommy&l=Streeter&i=9788",
+          "text": "Tommy Streeter"
+        },
+        "college": "Miami",
+        "pos": "WR",
+        "height": "77",
+        "weight": "219",
+        "wonderlic": "",
+        "40yd": "4.37",
+        "benchpress": "17",
+        "vertleap": "33.0",
+        "broadjump": "125",
+        "shuttle": "",
+        "3cone": "7.08"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Darron&l=Thomas&i=9744",
+          "text": "Darron Thomas"
+        },
+        "college": "Oregon",
+        "pos": "QB",
+        "height": "75",
+        "weight": "220",
+        "wonderlic": "",
+        "40yd": "4.77",
+        "benchpress": "14",
+        "vertleap": "36.0",
+        "broadjump": "121",
+        "shuttle": "4.28",
+        "3cone": "7.17"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Johnny&l=Thomas&i=10098",
+          "text": "Johnny Thomas"
+        },
+        "college": "Oklahoma State",
+        "pos": "SS",
+        "height": "70",
+        "weight": "206",
+        "wonderlic": "",
+        "40yd": "4.57",
+        "benchpress": "20",
+        "vertleap": "35.5",
+        "broadjump": "123",
+        "shuttle": "4.25",
+        "3cone": "7.01"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Brandon&l=Taylor&i=10090",
+          "text": "Brandon Taylor"
+        },
+        "college": "LSU",
+        "pos": "SS",
+        "height": "71",
+        "weight": "209",
+        "wonderlic": "",
+        "40yd": "4.52",
+        "benchpress": "",
+        "vertleap": "33.5",
+        "broadjump": "118",
+        "shuttle": "4.37",
+        "3cone": "7.32"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Brandon&l=Thompson&i=9917",
+          "text": "Brandon Thompson"
+        },
+        "college": "Clemson",
+        "pos": "DT",
+        "height": "74",
+        "weight": "314",
+        "wonderlic": "",
+        "40yd": "5.20",
+        "benchpress": "35",
+        "vertleap": "31.0",
+        "broadjump": "100",
+        "shuttle": "4.71",
+        "3cone": "7.97"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Christian&l=Thompson&i=10082",
+          "text": "Christian Thompson"
+        },
+        "college": "South Carolina State",
+        "pos": "FS",
+        "height": "73",
+        "weight": "211",
+        "wonderlic": "",
+        "40yd": "4.42",
+        "benchpress": "18",
+        "vertleap": "31.5",
+        "broadjump": "122",
+        "shuttle": "4.13",
+        "3cone": "7.33"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Andrew&l=Tiller&i=9883",
+          "text": "Andrew Tiller"
+        },
+        "college": "Syracuse",
+        "pos": "OG",
+        "height": "76",
+        "weight": "324",
+        "wonderlic": "",
+        "40yd": "5.44",
+        "benchpress": "16",
+        "vertleap": "23.0",
+        "broadjump": "85",
+        "shuttle": "4.80",
+        "3cone": "7.92"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Russell&l=Wilson&i=8708",
+          "text": "Russell Wilson"
+        },
+        "college": "Wisconsin",
+        "pos": "QB",
+        "height": "71",
+        "weight": "204",
+        "wonderlic": "28",
+        "40yd": "4.53",
+        "benchpress": "",
+        "vertleap": "34.0",
+        "broadjump": "118",
+        "shuttle": "4.09",
+        "3cone": "6.97"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Darrell&l=Scott&i=9773",
+          "text": "Darrell Scott"
+        },
+        "college": "South Florida",
+        "pos": "RB",
+        "height": "73",
+        "weight": "231",
+        "wonderlic": "",
+        "40yd": "4.68",
+        "benchpress": "",
+        "vertleap": "31.5",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Christian&l=Tupou&i=9920",
+          "text": "Christian Tupou"
+        },
+        "college": "Southern California",
+        "pos": "DT",
+        "height": "74",
+        "weight": "289",
+        "wonderlic": "",
+        "40yd": "5.38",
+        "benchpress": "30",
+        "vertleap": "24.0",
+        "broadjump": "92",
+        "shuttle": "4.87",
+        "3cone": "8.07"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Robert&l=Turbin&i=9763",
+          "text": "Robert Turbin"
+        },
+        "college": "Utah State",
+        "pos": "RB",
+        "height": "70",
+        "weight": "222",
+        "wonderlic": "",
+        "40yd": "4.42",
+        "benchpress": "28",
+        "vertleap": "36.0",
+        "broadjump": "122",
+        "shuttle": "4.31",
+        "3cone": "7.16"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Alameda&l=Ta",
+          "text": "Alameda Ta'amu"
+        },
+        "college": "Washington",
+        "pos": "DT",
+        "height": "75",
+        "weight": "348",
+        "wonderlic": "",
+        "40yd": "5.30",
+        "benchpress": "35",
+        "vertleap": "26.0",
+        "broadjump": "103",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Devon&l=Still&i=8702",
+          "text": "Devon Still"
+        },
+        "college": "Penn State",
+        "pos": "DT",
+        "height": "77",
+        "weight": "303",
+        "wonderlic": "",
+        "40yd": "5.01",
+        "benchpress": "26",
+        "vertleap": "29.5",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Johnnie&l=Troutman&i=9879",
+          "text": "Johnnie Troutman"
+        },
+        "college": "Penn State",
+        "pos": "OG",
+        "height": "76",
+        "weight": "325",
+        "wonderlic": "",
+        "40yd": "5.52",
+        "benchpress": "31",
+        "vertleap": "27.5",
+        "broadjump": "",
+        "shuttle": "5.00",
+        "3cone": "7.96"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Olivier&l=Vernon&i=9894",
+          "text": "Olivier Vernon"
+        },
+        "college": "Miami",
+        "pos": "DE",
+        "height": "74",
+        "weight": "261",
+        "wonderlic": "",
+        "40yd": "4.73",
+        "benchpress": "31",
+        "vertleap": "34.5",
+        "broadjump": "122",
+        "shuttle": "4.50",
+        "3cone": "7.39"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Trevin&l=Wade&i=10080",
+          "text": "Trevin Wade"
+        },
+        "college": "Arizona",
+        "pos": "CB",
+        "height": "70",
+        "weight": "192",
+        "wonderlic": "",
+        "40yd": "4.52",
+        "benchpress": "18",
+        "vertleap": "34.5",
+        "broadjump": "116",
+        "shuttle": "4.00",
+        "3cone": "6.87"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Brandon&l=Weeden&i=9735",
+          "text": "Brandon Weeden"
+        },
+        "college": "Oklahoma State",
+        "pos": "QB",
+        "height": "76",
+        "weight": "221",
+        "wonderlic": "27",
+        "40yd": "*4.89",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Phillip&l=Thomas&i=10086",
+          "text": "Phillip Thomas"
+        },
+        "college": "Syracuse",
+        "pos": "FS",
+        "height": "71",
+        "weight": "198",
+        "wonderlic": "",
+        "40yd": "4.68",
+        "benchpress": "14",
+        "vertleap": "33.0",
+        "broadjump": "122",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Dustin&l=Waldron&i=9858",
+          "text": "Dustin Waldron"
+        },
+        "college": "Portland State (OR)",
+        "pos": "OT",
+        "height": "77",
+        "weight": "305",
+        "wonderlic": "",
+        "40yd": "5.23",
+        "benchpress": "29",
+        "vertleap": "26.0",
+        "broadjump": "103",
+        "shuttle": "4.75",
+        "3cone": "7.93"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Brandon&l=Washington&i=9865",
+          "text": "Brandon Washington"
+        },
+        "college": "Miami",
+        "pos": "OG",
+        "height": "75",
+        "weight": "320",
+        "wonderlic": "",
+        "40yd": "5.14",
+        "benchpress": "28",
+        "vertleap": "25.0",
+        "broadjump": "101",
+        "shuttle": "4.87",
+        "3cone": "8.22"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Michael&l=Smith&i=1010",
+          "text": "Michael Smith"
+        },
+        "college": "Utah State",
+        "pos": "RB",
+        "height": "69",
+        "weight": "207",
+        "wonderlic": "",
+        "40yd": "*4.36",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Danny&l=Trevathan&i=9960",
+          "text": "Danny Trevathan"
+        },
+        "college": "Kentucky",
+        "pos": "OLB",
+        "height": "73",
+        "weight": "237",
+        "wonderlic": "",
+        "40yd": "*4.75",
+        "benchpress": "18",
+        "vertleap": "31.5",
+        "broadjump": "111",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Corey&l=White&i=10088",
+          "text": "Corey White"
+        },
+        "college": "Samford",
+        "pos": "SS",
+        "height": "73",
+        "weight": "206",
+        "wonderlic": "",
+        "40yd": "4.53",
+        "benchpress": "15",
+        "vertleap": "37.5",
+        "broadjump": "126",
+        "shuttle": "4.22",
+        "3cone": "6.72"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jordan&l=White&i=9800",
+          "text": "Jordan White"
+        },
+        "college": "Western Michigan",
+        "pos": "WR",
+        "height": "73",
+        "weight": "208",
+        "wonderlic": "",
+        "40yd": "4.63",
+        "benchpress": "14",
+        "vertleap": "35.0",
+        "broadjump": "119",
+        "shuttle": "4.13",
+        "3cone": "6.84"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Tahir&l=Whitehead&i=9978",
+          "text": "Tahir Whitehead"
+        },
+        "college": "Temple",
+        "pos": "OLB",
+        "height": "73",
+        "weight": "233",
+        "wonderlic": "",
+        "40yd": "4.62",
+        "benchpress": "21",
+        "vertleap": "37.0",
+        "broadjump": "124",
+        "shuttle": "4.37",
+        "3cone": "7.14"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Rokevious&l=Watkins&i=9878",
+          "text": "Rokevious Watkins"
+        },
+        "college": "South Carolina",
+        "pos": "OG",
+        "height": "76",
+        "weight": "338",
+        "wonderlic": "",
+        "40yd": "5.29",
+        "benchpress": "",
+        "vertleap": "27.0",
+        "broadjump": "102",
+        "shuttle": "4.90",
+        "3cone": "7.87"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Nick&l=Toon&i=9784",
+          "text": "Nick Toon"
+        },
+        "college": "Wisconsin",
+        "pos": "WR",
+        "height": "74",
+        "weight": "215",
+        "wonderlic": "",
+        "40yd": "4.49",
+        "benchpress": "18",
+        "vertleap": "37.5",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Kyle&l=Wilber&i=9967",
+          "text": "Kyle Wilber"
+        },
+        "college": "Wake Forest",
+        "pos": "OLB",
+        "height": "76",
+        "weight": "249",
+        "wonderlic": "",
+        "40yd": "4.73",
+        "benchpress": "25",
+        "vertleap": "33.5",
+        "broadjump": "117",
+        "shuttle": "4.31",
+        "3cone": "7.11"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Marc&l=Tyler&i=9768",
+          "text": "Marc Tyler"
+        },
+        "college": "Southern California",
+        "pos": "RB",
+        "height": "71",
+        "weight": "219",
+        "wonderlic": "",
+        "40yd": "4.70",
+        "benchpress": "19",
+        "vertleap": "30.5",
+        "broadjump": "110",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Billy&l=Winn&i=9897",
+          "text": "Billy Winn"
+        },
+        "college": "Boise State",
+        "pos": "DE",
+        "height": "76",
+        "weight": "294",
+        "wonderlic": "",
+        "40yd": "4.86",
+        "benchpress": "24",
+        "vertleap": "27.0",
+        "broadjump": "107",
+        "shuttle": "4.44",
+        "3cone": "7.37"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Derek&l=Wolfe&i=9923",
+          "text": "Derek Wolfe"
+        },
+        "college": "Cincinnati",
+        "pos": "DT",
+        "height": "77",
+        "weight": "295",
+        "wonderlic": "",
+        "40yd": "4.93",
+        "benchpress": "33",
+        "vertleap": "33.5",
+        "broadjump": "108",
+        "shuttle": "4.44",
+        "3cone": "7.26"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=David&l=Wilson&i=9751",
+          "text": "David Wilson"
+        },
+        "college": "Virginia Tech",
+        "pos": "RB",
+        "height": "70",
+        "weight": "206",
+        "wonderlic": "",
+        "40yd": "4.38",
+        "benchpress": "",
+        "vertleap": "41.0",
+        "broadjump": "132",
+        "shuttle": "4.12",
+        "3cone": "7.09"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jarius&l=Wright&i=9795",
+          "text": "Jarius Wright"
+        },
+        "college": "Arkansas",
+        "pos": "WR",
+        "height": "70",
+        "weight": "182",
+        "wonderlic": "",
+        "40yd": "4.39",
+        "benchpress": "11",
+        "vertleap": "38.0",
+        "broadjump": "120",
+        "shuttle": "4.03",
+        "3cone": "6.93"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Patrick&l=Witt&i=9746",
+          "text": "Patrick Witt"
+        },
+        "college": "Yale",
+        "pos": "QB",
+        "height": "76",
+        "weight": "225",
+        "wonderlic": "",
+        "40yd": "*5.08",
+        "benchpress": "",
+        "vertleap": "31.5",
+        "broadjump": "101",
+        "shuttle": "4.37",
+        "3cone": "7.14"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Jerel&l=Worthy&i=9931",
+          "text": "Jerel Worthy"
+        },
+        "college": "Michigan State",
+        "pos": "DT",
+        "height": "74",
+        "weight": "308",
+        "wonderlic": "",
+        "40yd": "5.00",
+        "benchpress": "",
+        "vertleap": "28.5",
+        "broadjump": "107",
+        "shuttle": "4.56",
+        "3cone": "7.60"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Kevin&l=Zeitler&i=9867",
+          "text": "Kevin Zeitler"
+        },
+        "college": "Wisconsin",
+        "pos": "OG",
+        "height": "76",
+        "weight": "314",
+        "wonderlic": "",
+        "40yd": "5.32",
+        "benchpress": "32",
+        "vertleap": "29.0",
+        "broadjump": "101",
+        "shuttle": "4.61",
+        "3cone": "7.77"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Courtney&l=Upshaw&i=9959",
+          "text": "Courtney Upshaw"
+        },
+        "college": "Alabama",
+        "pos": "DE",
+        "height": "74",
+        "weight": "272",
+        "wonderlic": "",
+        "40yd": "*4.76",
+        "benchpress": "22",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Kendall&l=Wright&i=9779",
+          "text": "Kendall Wright"
+        },
+        "college": "Baylor",
+        "pos": "WR",
+        "height": "70",
+        "weight": "196",
+        "wonderlic": "",
+        "40yd": "4.49",
+        "benchpress": "",
+        "vertleap": "38.5",
+        "broadjump": "121",
+        "shuttle": "4.18",
+        "3cone": "6.93"
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=DeAngelo&l=Tyson&i=9922",
+          "text": "DeAngelo Tyson"
+        },
+        "college": "Georgia",
+        "pos": "DT",
+        "height": "74",
+        "weight": "315",
+        "wonderlic": "",
+        "40yd": "*5.04",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Devon&l=Wylie&i=9806",
+          "text": "Devon Wylie"
+        },
+        "college": "Fresno State",
+        "pos": "WR",
+        "height": "69",
+        "weight": "187",
+        "wonderlic": "",
+        "40yd": "4.36",
+        "benchpress": "17",
+        "vertleap": "39.0",
+        "broadjump": "123",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Foswhitt&l=Whittaker&i=9771",
+          "text": "Foswhitt Whittaker"
+        },
+        "college": "Texas",
+        "pos": "RB",
+        "height": "69",
+        "weight": "193",
+        "wonderlic": "",
+        "40yd": "*4.49",
+        "benchpress": "20",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Bobby&l=Wagner&i=9955",
+          "text": "Bobby Wagner"
+        },
+        "college": "Utah State",
+        "pos": "OLB",
+        "height": "73",
+        "weight": "241",
+        "wonderlic": "",
+        "40yd": "*4.46",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Blair&l=Walsh&i=1011",
+          "text": "Blair Walsh"
+        },
+        "college": "Georgia",
+        "pos": "K",
+        "height": "69",
+        "weight": "187",
+        "wonderlic": "",
+        "40yd": "*4.96",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Desmond&l=Wynn&i=9872",
+          "text": "Desmond Wynn"
+        },
+        "college": "Rutgers",
+        "pos": "OG",
+        "height": "78",
+        "weight": "303",
+        "wonderlic": "",
+        "40yd": "4.98",
+        "benchpress": "28",
+        "vertleap": "32.5",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Greg&l=Zuerlein&i=1030",
+          "text": "Greg Zuerlein"
+        },
+        "college": "Missouri Western",
+        "pos": "K",
+        "height": "73",
+        "weight": "187",
+        "wonderlic": "",
+        "40yd": "*4.86",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      },
+      {
+        "year": "2012",
+        "name": {
+          "href": "http://nflcombineresults.com/playerpage.php?f=Markus&l=Zusevics&i=9850",
+          "text": "Markus Zusevics"
+        },
+        "college": "Iowa",
+        "pos": "OT",
+        "height": "77",
+        "weight": "303",
+        "wonderlic": "",
+        "40yd": "*5.08",
+        "benchpress": "",
+        "vertleap": "",
+        "broadjump": "",
+        "shuttle": "",
+        "3cone": ""
+      }
+  ]
+}
