@@ -1,0 +1,5476 @@
+{
+  "players": [
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jared Abbrederis",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jared&l=Abbrederis&i=20865"
+      },
+      "college": "Wisconsin",
+      "pos": "WR",
+      "height": "73",
+      "weight": "195",
+      "wonderlic": "32",
+      "40yd": "4.50",
+      "benchpress": "4",
+      "vertleap": "30.5",
+      "broadjump": "116",
+      "shuttle": "4.08",
+      "3cone": "6.80"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Davante Adams",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Davante&l=Adams&i=20912"
+      },
+      "college": "Fresno State",
+      "pos": "WR",
+      "height": "73",
+      "weight": "212",
+      "wonderlic": "",
+      "40yd": "4.56",
+      "benchpress": "14",
+      "vertleap": "39.5",
+      "broadjump": "123",
+      "shuttle": "4.30",
+      "3cone": "6.82"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Maurice Alexander",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Maurice&l=Alexander&i=21137"
+      },
+      "college": "Utah State",
+      "pos": "SS",
+      "height": "73",
+      "weight": "220",
+      "wonderlic": "",
+      "40yd": "4.54",
+      "benchpress": "",
+      "vertleap": "38.0",
+      "broadjump": "123",
+      "shuttle": "4.51",
+      "3cone": "7.05"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Ricardo Allen",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Ricardo&l=Allen&i=20901"
+      },
+      "college": "Purdue",
+      "pos": "CB",
+      "height": "69",
+      "weight": "187",
+      "wonderlic": "",
+      "40yd": "4.61",
+      "benchpress": "13",
+      "vertleap": "35.5",
+      "broadjump": "116",
+      "shuttle": "4.15",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jace Amaro",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jace&l=Amaro&i=21074"
+      },
+      "college": "Texas Tech",
+      "pos": "TE",
+      "height": "77",
+      "weight": "265",
+      "wonderlic": "",
+      "40yd": "4.74",
+      "benchpress": "28",
+      "vertleap": "",
+      "broadjump": "116",
+      "shuttle": "4.30",
+      "3cone": "7.42"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jeremiah Attaochu",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jeremiah&l=Attaochu&i=21146"
+      },
+      "college": "Georgia Tech",
+      "pos": "OLB",
+      "height": "75",
+      "weight": "252",
+      "wonderlic": "",
+      "40yd": "",
+      "benchpress": "",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Antonio Andrews",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Antonio&l=Andrews&i=20972"
+      },
+      "college": "Western Kentucky",
+      "pos": "RB",
+      "height": "70",
+      "weight": "225",
+      "wonderlic": "",
+      "40yd": "4.82",
+      "benchpress": "20",
+      "vertleap": "29.5",
+      "broadjump": "104",
+      "shuttle": "4.49",
+      "3cone": "7.24"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Dri Archer",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Dri&l=Archer&i=20982"
+      },
+      "college": "Kent State",
+      "pos": "WR",
+      "height": "68",
+      "weight": "173",
+      "wonderlic": "",
+      "40yd": "4.26",
+      "benchpress": "20",
+      "vertleap": "38.0",
+      "broadjump": "122",
+      "shuttle": "4.06",
+      "3cone": "6.86"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "George Atkinson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=George&l=Atkinson&i=20966"
+      },
+      "college": "Notre Dame",
+      "pos": "RB",
+      "height": "73",
+      "weight": "218",
+      "wonderlic": "",
+      "40yd": "4.48",
+      "benchpress": "19",
+      "vertleap": "38.0",
+      "broadjump": "128",
+      "shuttle": "4.46",
+      "3cone": "7.07"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Dion Bailey",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Dion&l=Bailey&i=21126"
+      },
+      "college": "Southern California",
+      "pos": "FS",
+      "height": "73",
+      "weight": "201",
+      "wonderlic": "",
+      "40yd": "4.66",
+      "benchpress": "",
+      "vertleap": "34.0",
+      "broadjump": "112",
+      "shuttle": "4.15",
+      "3cone": "6.97"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Deion Belue",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Deion&l=Belue&i=20888"
+      },
+      "college": "Alabama",
+      "pos": "CB",
+      "height": "71",
+      "weight": "182",
+      "wonderlic": "",
+      "40yd": "4.48",
+      "benchpress": "11",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Anthony Barr",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Anthony&l=Barr&i=10416"
+      },
+      "college": "UCLA",
+      "pos": "OLB",
+      "height": "77",
+      "weight": "255",
+      "wonderlic": "",
+      "40yd": "4.66",
+      "benchpress": "15",
+      "vertleap": "34.5",
+      "broadjump": "117",
+      "shuttle": "4.19",
+      "3cone": "6.82"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Lamin Barrow",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Lamin&l=Barrow&i=21004"
+      },
+      "college": "Louisiana State",
+      "pos": "ILB",
+      "height": "73",
+      "weight": "237",
+      "wonderlic": "",
+      "40yd": "4.64",
+      "benchpress": "22",
+      "vertleap": "35.0",
+      "broadjump": "123",
+      "shuttle": "4.35",
+      "3cone": "7.24"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Odell Beckham",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Odell&l=Beckham&i=10411"
+      },
+      "college": "Louisiana State",
+      "pos": "WR",
+      "height": "71",
+      "weight": "198",
+      "wonderlic": "",
+      "40yd": "4.43",
+      "benchpress": "7",
+      "vertleap": "38.5",
+      "broadjump": "122",
+      "shuttle": "3.94",
+      "3cone": "6.69"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Kelvin Benjamin",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Kelvin&l=Benjamin&i=20899"
+      },
+      "college": "Florida State",
+      "pos": "WR",
+      "height": "77",
+      "weight": "240",
+      "wonderlic": "7",
+      "40yd": "4.61",
+      "benchpress": "13",
+      "vertleap": "32.5",
+      "broadjump": "117",
+      "shuttle": "4.39",
+      "3cone": "7.33"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Kapri Bibbs",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Kapri&l=Bibbs&i=21027"
+      },
+      "college": "Colorado State",
+      "pos": "RB",
+      "height": "69",
+      "weight": "212",
+      "wonderlic": "",
+      "40yd": "4.67",
+      "benchpress": "24",
+      "vertleap": "29.0",
+      "broadjump": "104",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Bene Benwikere",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Bene&l=Benwikere&i=20880"
+      },
+      "college": "San Jose State",
+      "pos": "CB",
+      "height": "71",
+      "weight": "195",
+      "wonderlic": "",
+      "40yd": "4.63",
+      "benchpress": "10",
+      "vertleap": "40.5",
+      "broadjump": "122",
+      "shuttle": "4.38",
+      "3cone": "6.94"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Nat Berhe",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Nat&l=Berhe&i=20915"
+      },
+      "college": "San Diego State",
+      "pos": "SS",
+      "height": "71",
+      "weight": "193",
+      "wonderlic": "",
+      "40yd": "4.71",
+      "benchpress": "15",
+      "vertleap": "35.5",
+      "broadjump": "116",
+      "shuttle": "4.22",
+      "3cone": "7.08"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Chris Boyd",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Chris&l=Boyd&i=20895"
+      },
+      "college": "Vanderbilt",
+      "pos": "WR",
+      "height": "76",
+      "weight": "206",
+      "wonderlic": "",
+      "40yd": "4.73",
+      "benchpress": "12",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Joel Bitonio",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Joel&l=Bitonio&i=21002"
+      },
+      "college": "Nevada",
+      "pos": "OT",
+      "height": "76",
+      "weight": "302",
+      "wonderlic": "",
+      "40yd": "4.97",
+      "benchpress": "22",
+      "vertleap": "32.0",
+      "broadjump": "113",
+      "shuttle": "4.44",
+      "3cone": "7.37"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Blake Bortles",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Blake&l=Bortles&i=10404"
+      },
+      "college": "Central Florida",
+      "pos": "QB",
+      "height": "77",
+      "weight": "232",
+      "wonderlic": "28",
+      "40yd": "4.93",
+      "benchpress": "",
+      "vertleap": "32.5",
+      "broadjump": "114",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Alfred Blue",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Alfred&l=Blue&i=20898"
+      },
+      "college": "Louisiana State",
+      "pos": "RB",
+      "height": "74",
+      "weight": "223",
+      "wonderlic": "",
+      "40yd": "4.63",
+      "benchpress": "13",
+      "vertleap": "32.0",
+      "broadjump": "121",
+      "shuttle": "4.50",
+      "3cone": "7.15"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Tajh Boyd",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Tajh&l=Boyd&i=21116"
+      },
+      "college": "Clemson",
+      "pos": "QB",
+      "height": "73",
+      "weight": "222",
+      "wonderlic": "",
+      "40yd": "4.84",
+      "benchpress": "",
+      "vertleap": "30.5",
+      "broadjump": "104",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Russell Bodine",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Russell&l=Bodine&i=21100"
+      },
+      "college": "North Carolina",
+      "pos": "OG",
+      "height": "75",
+      "weight": "310",
+      "wonderlic": "",
+      "40yd": "5.18",
+      "benchpress": "42",
+      "vertleap": "29.0",
+      "broadjump": "109",
+      "shuttle": "4.66",
+      "3cone": "8.26"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Teddy Bridgewater",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Teddy&l=Bridgewater&i=10400"
+      },
+      "college": "Louisville",
+      "pos": "QB",
+      "height": "74",
+      "weight": "214",
+      "wonderlic": "20",
+      "40yd": "",
+      "benchpress": "",
+      "vertleap": "30.0",
+      "broadjump": "112",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Conor Boffeli",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Conor&l=Boffeli&i=20985"
+      },
+      "college": "Iowa",
+      "pos": "OG",
+      "height": "76",
+      "weight": "298",
+      "wonderlic": "",
+      "40yd": "5.30",
+      "benchpress": "21",
+      "vertleap": "25.0",
+      "broadjump": "101",
+      "shuttle": "4.61",
+      "3cone": "7.44"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Chris Borland",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Chris&l=Borland&i=21064"
+      },
+      "college": "Wisconsin",
+      "pos": "ILB",
+      "height": "73",
+      "weight": "248",
+      "wonderlic": "32",
+      "40yd": "4.83",
+      "benchpress": "27",
+      "vertleap": "31.0",
+      "broadjump": "113",
+      "shuttle": "4.27",
+      "3cone": "7.18"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Tre Boston",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Tre&l=Boston&i=20951"
+      },
+      "college": "North Carolina",
+      "pos": "FS",
+      "height": "73",
+      "weight": "204",
+      "wonderlic": "",
+      "40yd": "4.59",
+      "benchpress": "18",
+      "vertleap": "35.0",
+      "broadjump": "115",
+      "shuttle": "4.31",
+      "3cone": "7.04"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Carl Bradford",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Carl&l=Bradford&i=21022"
+      },
+      "college": "Arizona State",
+      "pos": "OLB",
+      "height": "73",
+      "weight": "250",
+      "wonderlic": "",
+      "40yd": "4.76",
+      "benchpress": "23",
+      "vertleap": "37.5",
+      "broadjump": "122",
+      "shuttle": "4.30",
+      "3cone": "7.25"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Bashaud Breeland",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Bashaud&l=Breeland&i=20883"
+      },
+      "college": "Clemson",
+      "pos": "CB",
+      "height": "71",
+      "weight": "197",
+      "wonderlic": "",
+      "40yd": "4.62",
+      "benchpress": "11",
+      "vertleap": "34.5",
+      "broadjump": "123",
+      "shuttle": "4.33",
+      "3cone": "7.04"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jay Bromley",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jay&l=Bromley&i=21054"
+      },
+      "college": "Syracuse",
+      "pos": "DT",
+      "height": "75",
+      "weight": "306",
+      "wonderlic": "",
+      "40yd": "5.06",
+      "benchpress": "26",
+      "vertleap": "33.5",
+      "broadjump": "104",
+      "shuttle": "",
+      "3cone": "7.92"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Terrence Brooks",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Terrence&l=Brooks&i=20879"
+      },
+      "college": "Florida State",
+      "pos": "FS",
+      "height": "71",
+      "weight": "198",
+      "wonderlic": "",
+      "40yd": "4.42",
+      "benchpress": "10",
+      "vertleap": "38.0",
+      "broadjump": "118",
+      "shuttle": "",
+      "3cone": "7.35"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Justin Britt",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Justin&l=Britt&i=21009"
+      },
+      "college": "Missouri",
+      "pos": "OT",
+      "height": "78",
+      "weight": "325",
+      "wonderlic": "",
+      "40yd": "5.19",
+      "benchpress": "23",
+      "vertleap": "23.0",
+      "broadjump": "99",
+      "shuttle": "4.69",
+      "3cone": "8.14"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Corey Brown",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Corey&l=Brown&i=21121"
+      },
+      "college": "Ohio State",
+      "pos": "WR",
+      "height": "71",
+      "weight": "178",
+      "wonderlic": "",
+      "40yd": "4.51",
+      "benchpress": "",
+      "vertleap": "33.0",
+      "broadjump": "115",
+      "shuttle": "4.22",
+      "3cone": "7.16"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "John Brown",
+        "href": "http://nflcombineresults.com/playerpage.php?f=John&l=Brown&i=21134"
+      },
+      "college": "Pittsburg State",
+      "pos": "WR",
+      "height": "70",
+      "weight": "179",
+      "wonderlic": "",
+      "40yd": "4.34",
+      "benchpress": "",
+      "vertleap": "36.5",
+      "broadjump": "117",
+      "shuttle": "4.12",
+      "3cone": "6.91"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Travis Carrie",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Travis&l=Carrie&i=20945"
+      },
+      "college": "Ohio",
+      "pos": "CB",
+      "height": "73",
+      "weight": "206",
+      "wonderlic": "",
+      "40yd": "4.49",
+      "benchpress": "17",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Trey Burton",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Trey&l=Burton&i=21148"
+      },
+      "college": "Florida",
+      "pos": "WR",
+      "height": "74",
+      "weight": "224",
+      "wonderlic": "",
+      "40yd": "4.62",
+      "benchpress": "",
+      "vertleap": "",
+      "broadjump": "111",
+      "shuttle": "4.32",
+      "3cone": "7.14"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jonathan Brown",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jonathan&l=Brown&i=20927"
+      },
+      "college": "Illinois",
+      "pos": "OLB",
+      "height": "73",
+      "weight": "238",
+      "wonderlic": "",
+      "40yd": "5.03",
+      "benchpress": "16",
+      "vertleap": "31.0",
+      "broadjump": "108",
+      "shuttle": "4.56",
+      "3cone": "7.77"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Derek Carr",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Derek&l=Carr&i=10403"
+      },
+      "college": "Fresno State",
+      "pos": "QB",
+      "height": "74",
+      "weight": "214",
+      "wonderlic": "20",
+      "40yd": "4.69",
+      "benchpress": "",
+      "vertleap": "34.5",
+      "broadjump": "110",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Preston Brown",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Preston&l=Brown&i=21018"
+      },
+      "college": "Louisville",
+      "pos": "ILB",
+      "height": "73",
+      "weight": "251",
+      "wonderlic": "",
+      "40yd": "4.86",
+      "benchpress": "23",
+      "vertleap": "33.0",
+      "broadjump": "115",
+      "shuttle": "4.26",
+      "3cone": "6.98"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Deandre Coleman",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Deandre&l=Coleman&i=21035"
+      },
+      "college": "California",
+      "pos": "DT",
+      "height": "77",
+      "weight": "314",
+      "wonderlic": "",
+      "40yd": "5.12",
+      "benchpress": "24",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Martavis Bryant",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Martavis&l=Bryant&i=20936"
+      },
+      "college": "Clemson",
+      "pos": "WR",
+      "height": "76",
+      "weight": "211",
+      "wonderlic": "14",
+      "40yd": "4.42",
+      "benchpress": "16",
+      "vertleap": "39.0",
+      "broadjump": "123",
+      "shuttle": "4.15",
+      "3cone": "7.18"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Deone Bucannon",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Deone&l=Bucannon&i=20964"
+      },
+      "college": "Washington State",
+      "pos": "SS",
+      "height": "73",
+      "weight": "211",
+      "wonderlic": "",
+      "40yd": "4.49",
+      "benchpress": "19",
+      "vertleap": "36.5",
+      "broadjump": "124",
+      "shuttle": "4.26",
+      "3cone": "6.96"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Max Bullough",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Max&l=Bullough&i=21082"
+      },
+      "college": "Michigan State",
+      "pos": "ILB",
+      "height": "76",
+      "weight": "249",
+      "wonderlic": "",
+      "40yd": "4.78",
+      "benchpress": "30",
+      "vertleap": "31.0",
+      "broadjump": "111",
+      "shuttle": "4.30",
+      "3cone": "7.22"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Isaiah Burse",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Isaiah&l=Burse&i=20928"
+      },
+      "college": "Fresno State",
+      "pos": "WR",
+      "height": "70",
+      "weight": "188",
+      "wonderlic": "",
+      "40yd": "4.58",
+      "benchpress": "16",
+      "vertleap": "31.0",
+      "broadjump": "114",
+      "shuttle": "3.94",
+      "3cone": "6.74"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Chris Davis",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Chris&l=Davis&i=20923"
+      },
+      "college": "Auburn",
+      "pos": "CB",
+      "height": "70",
+      "weight": "202",
+      "wonderlic": "",
+      "40yd": "4.54",
+      "benchpress": "15",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Mike Davis",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Mike&l=Davis&i=20881"
+      },
+      "college": "Texas",
+      "pos": "WR",
+      "height": "73",
+      "weight": "197",
+      "wonderlic": "",
+      "40yd": "4.52",
+      "benchpress": "10",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Ryan Carrethers",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Ryan&l=Carrethers&i=21087"
+      },
+      "college": "Arkansas State",
+      "pos": "DT",
+      "height": "73",
+      "weight": "337",
+      "wonderlic": "",
+      "40yd": "5.47",
+      "benchpress": "32",
+      "vertleap": "26.0",
+      "broadjump": "87",
+      "shuttle": "",
+      "3cone": "7.89"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Michael Campanaro",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Michael&l=Campanaro&i=20983"
+      },
+      "college": "Wake Forest",
+      "pos": "WR",
+      "height": "69",
+      "weight": "192",
+      "wonderlic": "",
+      "40yd": "4.46",
+      "benchpress": "20",
+      "vertleap": "39.0",
+      "broadjump": "122",
+      "shuttle": "4.01",
+      "3cone": "6.77"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Anthony Denham",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Anthony&l=Denham&i=21120"
+      },
+      "college": "Utah",
+      "pos": "WR",
+      "height": "77",
+      "weight": "235",
+      "wonderlic": "",
+      "40yd": "4.77",
+      "benchpress": "",
+      "vertleap": "32.5",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Darqueze Dennard",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Darqueze&l=Dennard&i=20921"
+      },
+      "college": "Michigan State",
+      "pos": "CB",
+      "height": "71",
+      "weight": "199",
+      "wonderlic": "",
+      "40yd": "4.52",
+      "benchpress": "15",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "KaDeem Carey",
+        "href": "http://nflcombineresults.com/playerpage.php?f=KaDeem&l=Carey&i=20960"
+      },
+      "college": "Arizona",
+      "pos": "RB",
+      "height": "69",
+      "weight": "207",
+      "wonderlic": "",
+      "40yd": "4.70",
+      "benchpress": "19",
+      "vertleap": "32.5",
+      "broadjump": "114",
+      "shuttle": "4.38",
+      "3cone": "7.08"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Will Clarke",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Will&l=Clarke&i=21001"
+      },
+      "college": "West Virginia",
+      "pos": "DE",
+      "height": "78",
+      "weight": "271",
+      "wonderlic": "",
+      "40yd": "4.77",
+      "benchpress": "22",
+      "vertleap": "32.0",
+      "broadjump": "111",
+      "shuttle": "",
+      "3cone": "7.26"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jadeveon Clowney",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jadeveon&l=Clowney&i=10413"
+      },
+      "college": "South Carolina",
+      "pos": "DE",
+      "height": "77",
+      "weight": "266",
+      "wonderlic": "",
+      "40yd": "4.53",
+      "benchpress": "21",
+      "vertleap": "37.5",
+      "broadjump": "123",
+      "shuttle": "",
+      "3cone": "7.27"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Brandon Coleman",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Brandon&l=Coleman&i=20989"
+      },
+      "college": "Rutgers",
+      "pos": "WR",
+      "height": "78",
+      "weight": "225",
+      "wonderlic": "",
+      "40yd": "4.56",
+      "benchpress": "21",
+      "vertleap": "32.5",
+      "broadjump": "",
+      "shuttle": "4.51",
+      "3cone": "7.33"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Dee Ford",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Dee&l=Ford&i=21145"
+      },
+      "college": "Auburn",
+      "pos": "DE",
+      "height": "74",
+      "weight": "252",
+      "wonderlic": "",
+      "40yd": "",
+      "benchpress": "",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "HaSean Clinton-Dix",
+        "href": "http://nflcombineresults.com/playerpage.php?f=HaSean&l=Clinton-Dix&i=10418"
+      },
+      "college": "Alabama",
+      "pos": "FS",
+      "height": "73",
+      "weight": "208",
+      "wonderlic": "",
+      "40yd": "4.58",
+      "benchpress": "11",
+      "vertleap": "33.0",
+      "broadjump": "117",
+      "shuttle": "4.16",
+      "3cone": "7.16"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Joe Don Duncan",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Joe Don&l=Duncan&i=21094"
+      },
+      "college": "Dixie State",
+      "pos": "TE",
+      "height": "75",
+      "weight": "268",
+      "wonderlic": "",
+      "40yd": "4.79",
+      "benchpress": "35",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Dominique Easley",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Dominique&l=Easley&i=21059"
+      },
+      "college": "Florida",
+      "pos": "DT",
+      "height": "74",
+      "weight": "288",
+      "wonderlic": "",
+      "40yd": "4.93",
+      "benchpress": "26",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Isaiah Crowell",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Isaiah&l=Crowell&i=21023"
+      },
+      "college": "Alabama State",
+      "pos": "RB",
+      "height": "71",
+      "weight": "224",
+      "wonderlic": "",
+      "40yd": "4.57",
+      "benchpress": "23",
+      "vertleap": "38.0",
+      "broadjump": "116",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Ross Cockrell",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Ross&l=Cockrell&i=20877"
+      },
+      "college": "Duke",
+      "pos": "CB",
+      "height": "73",
+      "weight": "191",
+      "wonderlic": "",
+      "40yd": "4.56",
+      "benchpress": "10",
+      "vertleap": "36.5",
+      "broadjump": "122",
+      "shuttle": "4.32",
+      "3cone": "7.28"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Tim Cornett",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Tim&l=Cornett&i=21130"
+      },
+      "college": "UNLV",
+      "pos": "RB",
+      "height": "73",
+      "weight": "209",
+      "wonderlic": "",
+      "40yd": "4.48",
+      "benchpress": "",
+      "vertleap": "34.5",
+      "broadjump": "124",
+      "shuttle": "4.26",
+      "3cone": "7.01"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Brandin Cooks",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Brandin&l=Cooks&i=20935"
+      },
+      "college": "Oregon State",
+      "pos": "WR",
+      "height": "70",
+      "weight": "189",
+      "wonderlic": "",
+      "40yd": "4.33",
+      "benchpress": "16",
+      "vertleap": "36.0",
+      "broadjump": "120",
+      "shuttle": "3.81",
+      "3cone": "6.76"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Scott Crichton",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Scott&l=Crichton&i=21029"
+      },
+      "college": "Oregon State",
+      "pos": "DE",
+      "height": "75",
+      "weight": "273",
+      "wonderlic": "",
+      "40yd": "4.84",
+      "benchpress": "24",
+      "vertleap": "31.5",
+      "broadjump": "108",
+      "shuttle": "",
+      "3cone": "7.19"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Damian Copeland",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Damian&l=Copeland&i=20894"
+      },
+      "college": "Louisville",
+      "pos": "WR",
+      "height": "71",
+      "weight": "184",
+      "wonderlic": "",
+      "40yd": "4.50",
+      "benchpress": "12",
+      "vertleap": "40.0",
+      "broadjump": "120",
+      "shuttle": "3.90",
+      "3cone": "6.53"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Quincy Enunwa",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Quincy&l=Enunwa&i=20967"
+      },
+      "college": "Nebraska",
+      "pos": "WR",
+      "height": "74",
+      "weight": "225",
+      "wonderlic": "",
+      "40yd": "4.41",
+      "benchpress": "19",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "J.C. Copeland",
+        "href": "http://nflcombineresults.com/playerpage.php?f=J.C.&l=Copeland&i=21013"
+      },
+      "college": "Louisiana State",
+      "pos": "FB",
+      "height": "71",
+      "weight": "271",
+      "wonderlic": "",
+      "40yd": "4.95",
+      "benchpress": "23",
+      "vertleap": "28.5",
+      "broadjump": "111",
+      "shuttle": "4.58",
+      "3cone": "7.68"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Eric Ebron",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Eric&l=Ebron&i=10412"
+      },
+      "college": "North Carolina",
+      "pos": "TE",
+      "height": "76",
+      "weight": "250",
+      "wonderlic": "16",
+      "40yd": "4.60",
+      "benchpress": "24",
+      "vertleap": "",
+      "broadjump": "120",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Ego Ferguson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Ego&l=Ferguson&i=21034"
+      },
+      "college": "Louisiana State",
+      "pos": "DT",
+      "height": "75",
+      "weight": "315",
+      "wonderlic": "",
+      "40yd": "4.98",
+      "benchpress": "24",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "IK Enemkpali",
+        "href": "http://nflcombineresults.com/playerpage.php?f=IK&l=Enemkpali&i=21073"
+      },
+      "college": "Louisiana Tech",
+      "pos": "DE",
+      "height": "73",
+      "weight": "261",
+      "wonderlic": "",
+      "40yd": "4.78",
+      "benchpress": "28",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": "7.67"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Aaron Donald",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Aaron&l=Donald&i=21093"
+      },
+      "college": "Pittsburgh",
+      "pos": "DT",
+      "height": "73",
+      "weight": "285",
+      "wonderlic": "",
+      "40yd": "4.68",
+      "benchpress": "35",
+      "vertleap": "32.0",
+      "broadjump": "115",
+      "shuttle": "",
+      "3cone": "7.11"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Pierre Desir",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Pierre&l=Desir&i=20885"
+      },
+      "college": "Lindenwood",
+      "pos": "CB",
+      "height": "73",
+      "weight": "198",
+      "wonderlic": "",
+      "40yd": "4.59",
+      "benchpress": "11",
+      "vertleap": "35.0",
+      "broadjump": "133",
+      "shuttle": "4.30",
+      "3cone": "6.86"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Ahmad Dixon",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Ahmad&l=Dixon&i=20908"
+      },
+      "college": "Baylor",
+      "pos": "SS",
+      "height": "73",
+      "weight": "212",
+      "wonderlic": "",
+      "40yd": "4.64",
+      "benchpress": "14",
+      "vertleap": "32.0",
+      "broadjump": "111",
+      "shuttle": "4.50",
+      "3cone": "7.55"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "David Fales",
+        "href": "http://nflcombineresults.com/playerpage.php?f=David&l=Fales&i=21111"
+      },
+      "college": "San Jose State",
+      "pos": "QB",
+      "height": "74",
+      "weight": "212",
+      "wonderlic": "",
+      "40yd": "4.99",
+      "benchpress": "",
+      "vertleap": "28.0",
+      "broadjump": "102",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Brandon Dixon",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Brandon&l=Dixon&i=20940"
+      },
+      "college": "Northwest Missouri St",
+      "pos": "CB",
+      "height": "73",
+      "weight": "203",
+      "wonderlic": "",
+      "40yd": "4.41",
+      "benchpress": "17",
+      "vertleap": "32.5",
+      "broadjump": "116",
+      "shuttle": "4.27",
+      "3cone": "7.15"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Kony Ealy",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Kony&l=Ealy&i=21000"
+      },
+      "college": "Missouri",
+      "pos": "DE",
+      "height": "76",
+      "weight": "273",
+      "wonderlic": "",
+      "40yd": "4.92",
+      "benchpress": "22",
+      "vertleap": "31.0",
+      "broadjump": "113",
+      "shuttle": "",
+      "3cone": "6.83"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jonathan Dowling",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jonathan&l=Dowling&i=20871"
+      },
+      "college": "Western Kentucky",
+      "pos": "FS",
+      "height": "75",
+      "weight": "190",
+      "wonderlic": "",
+      "40yd": "4.52",
+      "benchpress": "8",
+      "vertleap": "33.5",
+      "broadjump": "116",
+      "shuttle": "4.24",
+      "3cone": "7.04"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Dakota Dozier",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Dakota&l=Dozier&i=21010"
+      },
+      "college": "Furman",
+      "pos": "OG",
+      "height": "76",
+      "weight": "313",
+      "wonderlic": "",
+      "40yd": "5.42",
+      "benchpress": "23",
+      "vertleap": "24.0",
+      "broadjump": "100",
+      "shuttle": "4.89",
+      "3cone": "8.14"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Kasim Edebali",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Kasim&l=Edebali&i=20962"
+      },
+      "college": "Boston College",
+      "pos": "OLB",
+      "height": "74",
+      "weight": "253",
+      "wonderlic": "",
+      "40yd": "4.79",
+      "benchpress": "19",
+      "vertleap": "34.5",
+      "broadjump": "114",
+      "shuttle": "",
+      "3cone": "7.20"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "E.J. Gaines",
+        "href": "http://nflcombineresults.com/playerpage.php?f=E.J.&l=Gaines&i=20922"
+      },
+      "college": "Missouri",
+      "pos": "CB",
+      "height": "70",
+      "weight": "190",
+      "wonderlic": "",
+      "40yd": "4.44",
+      "benchpress": "15",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jeremy Gallon",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jeremy&l=Gallon&i=20924"
+      },
+      "college": "Michigan",
+      "pos": "WR",
+      "height": "68",
+      "weight": "185",
+      "wonderlic": "",
+      "40yd": "4.49",
+      "benchpress": "15",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Justin Ellis",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Justin&l=Ellis&i=21043"
+      },
+      "college": "Louisiana Tech",
+      "pos": "DT",
+      "height": "74",
+      "weight": "334",
+      "wonderlic": "",
+      "40yd": "5.27",
+      "benchpress": "25",
+      "vertleap": "28.0",
+      "broadjump": "91",
+      "shuttle": "",
+      "3cone": "7.81"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Mike Evans",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Mike&l=Evans&i=20891"
+      },
+      "college": "Texas A&M",
+      "pos": "WR",
+      "height": "77",
+      "weight": "231",
+      "wonderlic": "25",
+      "40yd": "4.53",
+      "benchpress": "12",
+      "vertleap": "37.0",
+      "broadjump": "",
+      "shuttle": "4.26",
+      "3cone": "7.08"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Kadeem Edwards",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Kadeem&l=Edwards&i=21052"
+      },
+      "college": "Tennessee State",
+      "pos": "OG",
+      "height": "76",
+      "weight": "313",
+      "wonderlic": "",
+      "40yd": "5.25",
+      "benchpress": "26",
+      "vertleap": "27.0",
+      "broadjump": "99",
+      "shuttle": "4.82",
+      "3cone": "7.95"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Bruce Ellington",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Bruce&l=Ellington&i=20920"
+      },
+      "college": "South Carolina",
+      "pos": "WR",
+      "height": "69",
+      "weight": "197",
+      "wonderlic": "",
+      "40yd": "4.45",
+      "benchpress": "15",
+      "vertleap": "39.5",
+      "broadjump": "120",
+      "shuttle": "3.95",
+      "3cone": "6.69"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "David Fluellen",
+        "href": "http://nflcombineresults.com/playerpage.php?f=David&l=Fluellen&i=21135"
+      },
+      "college": "Toledo",
+      "pos": "RB",
+      "height": "71",
+      "weight": "224",
+      "wonderlic": "",
+      "40yd": "4.72",
+      "benchpress": "",
+      "vertleap": "36.5",
+      "broadjump": "120",
+      "shuttle": "",
+      "3cone": "6.90"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Xavier Grimble",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Xavier&l=Grimble&i=21149"
+      },
+      "college": "Southern California",
+      "pos": "TE",
+      "height": "76",
+      "weight": "257",
+      "wonderlic": "",
+      "40yd": "4.76",
+      "benchpress": "",
+      "vertleap": "",
+      "broadjump": "112",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Khairi Fortt",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Khairi&l=Fortt&i=21083"
+      },
+      "college": "California",
+      "pos": "OLB",
+      "height": "74",
+      "weight": "248",
+      "wonderlic": "",
+      "40yd": "4.70",
+      "benchpress": "30",
+      "vertleap": "36.0",
+      "broadjump": "120",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "C.J. Fiedorowicz",
+        "href": "http://nflcombineresults.com/playerpage.php?f=C.J.&l=Fiedorowicz&i=21049"
+      },
+      "college": "Iowa",
+      "pos": "TE",
+      "height": "78",
+      "weight": "265",
+      "wonderlic": "",
+      "40yd": "4.76",
+      "benchpress": "25",
+      "vertleap": "",
+      "broadjump": "115",
+      "shuttle": "4.26",
+      "3cone": "7.10"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jimmy Garoppolo",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jimmy&l=Garoppolo&i=21117"
+      },
+      "college": "Eastern Illinois",
+      "pos": "QB",
+      "height": "74",
+      "weight": "226",
+      "wonderlic": "24",
+      "40yd": "4.97",
+      "benchpress": "",
+      "vertleap": "30.5",
+      "broadjump": "110",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Shaquelle Evans",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Shaquelle&l=Evans&i=20900"
+      },
+      "college": "UCLA",
+      "pos": "WR",
+      "height": "73",
+      "weight": "213",
+      "wonderlic": "",
+      "40yd": "4.51",
+      "benchpress": "13",
+      "vertleap": "34.5",
+      "broadjump": "122",
+      "shuttle": "4.21",
+      "3cone": "7.07"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Tim Flanders",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Tim&l=Flanders&i=20974"
+      },
+      "college": "Sam Houston State",
+      "pos": "RB",
+      "height": "69",
+      "weight": "207",
+      "wonderlic": "",
+      "40yd": "4.75",
+      "benchpress": "20",
+      "vertleap": "32.0",
+      "broadjump": "112",
+      "shuttle": "",
+      "3cone": "7.07"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Antone Exum",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Antone&l=Exum&i=20941"
+      },
+      "college": "Virginia Tech",
+      "pos": "CB",
+      "height": "73",
+      "weight": "213",
+      "wonderlic": "",
+      "40yd": "4.59",
+      "benchpress": "17",
+      "vertleap": "35.0",
+      "broadjump": "116",
+      "shuttle": "4.13",
+      "3cone": "7.05"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Taylor Hart",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Taylor&l=Hart&i=20995"
+      },
+      "college": "Oregon",
+      "pos": "DE",
+      "height": "78",
+      "weight": "281",
+      "wonderlic": "",
+      "40yd": "4.92",
+      "benchpress": "21",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Marcus Heit",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Marcus&l=Heit&i=21112"
+      },
+      "college": "Kansas State",
+      "pos": "LS",
+      "height": "75",
+      "weight": "258",
+      "wonderlic": "",
+      "40yd": "4.91",
+      "benchpress": "",
+      "vertleap": "29.0",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Matt Feiler",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Matt&l=Feiler&i=21097"
+      },
+      "college": "Bloomsburg",
+      "pos": "OT",
+      "height": "78",
+      "weight": "330",
+      "wonderlic": "",
+      "40yd": "5.37",
+      "benchpress": "36",
+      "vertleap": "26.5",
+      "broadjump": "102",
+      "shuttle": "4.86",
+      "3cone": "8.13"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Bennie Fowler",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Bennie&l=Fowler&i=21132"
+      },
+      "college": "Michigan State",
+      "pos": "WR",
+      "height": "73",
+      "weight": "217",
+      "wonderlic": "",
+      "40yd": "4.52",
+      "benchpress": "",
+      "vertleap": "36.0",
+      "broadjump": "125",
+      "shuttle": "4.18",
+      "3cone": "7.06"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Devonta Freeman",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Devonta&l=Freeman&i=21118"
+      },
+      "college": "Florida State",
+      "pos": "RB",
+      "height": "68",
+      "weight": "206",
+      "wonderlic": "",
+      "40yd": "4.58",
+      "benchpress": "",
+      "vertleap": "31.5",
+      "broadjump": "116",
+      "shuttle": "4.26",
+      "3cone": "7.11"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Cameron Fleming",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Cameron&l=Fleming&i=21050"
+      },
+      "college": "Stanford",
+      "pos": "OT",
+      "height": "77",
+      "weight": "323",
+      "wonderlic": "",
+      "40yd": "5.28",
+      "benchpress": "26",
+      "vertleap": "23.5",
+      "broadjump": "97",
+      "shuttle": "5.00",
+      "3cone": "8.24"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Crockett Gillmore",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Crockett&l=Gillmore&i=21150"
+      },
+      "college": "Colorado State",
+      "pos": "TE",
+      "height": "78",
+      "weight": "260",
+      "wonderlic": "",
+      "40yd": "4.89",
+      "benchpress": "",
+      "vertleap": "",
+      "broadjump": "120",
+      "shuttle": "4.44",
+      "3cone": "7.42"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Tyler Gaffney",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Tyler&l=Gaffney&i=21133"
+      },
+      "college": "Stanford",
+      "pos": "RB",
+      "height": "73",
+      "weight": "220",
+      "wonderlic": "",
+      "40yd": "4.49",
+      "benchpress": "",
+      "vertleap": "36.5",
+      "broadjump": "115",
+      "shuttle": "4.18",
+      "3cone": "6.78"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jeremiah George",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jeremiah&l=George&i=21070"
+      },
+      "college": "Iowa State",
+      "pos": "ILB",
+      "height": "71",
+      "weight": "234",
+      "wonderlic": "",
+      "40yd": "4.91",
+      "benchpress": "28",
+      "vertleap": "33.0",
+      "broadjump": "115",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Austin Franklin",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Austin&l=Franklin&i=20867"
+      },
+      "college": "New Mexico State",
+      "pos": "WR",
+      "height": "71",
+      "weight": "189",
+      "wonderlic": "",
+      "40yd": "4.56",
+      "benchpress": "7",
+      "vertleap": "36.0",
+      "broadjump": "123",
+      "shuttle": "4.33",
+      "3cone": "7.07"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Kyle Fuller",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Kyle&l=Fuller&i=20893"
+      },
+      "college": "Virginia Tech",
+      "pos": "CB",
+      "height": "73",
+      "weight": "190",
+      "wonderlic": "",
+      "40yd": "4.49",
+      "benchpress": "12",
+      "vertleap": "38.5",
+      "broadjump": "127",
+      "shuttle": "4.19",
+      "3cone": "6.90"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "James Gayle",
+        "href": "http://nflcombineresults.com/playerpage.php?f=James&l=Gayle&i=21056"
+      },
+      "college": "Virginia Tech",
+      "pos": "DE",
+      "height": "76",
+      "weight": "259",
+      "wonderlic": "",
+      "40yd": "4.70",
+      "benchpress": "26",
+      "vertleap": "37.0",
+      "broadjump": "122",
+      "shuttle": "",
+      "3cone": "7.19"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Nic Jacobs",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Nic&l=Jacobs&i=20925"
+      },
+      "college": "McNeese State",
+      "pos": "TE",
+      "height": "77",
+      "weight": "269",
+      "wonderlic": "",
+      "40yd": "4.89",
+      "benchpress": "15",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Zach Fulton",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Zach&l=Fulton&i=21037"
+      },
+      "college": "Tennessee",
+      "pos": "OG",
+      "height": "77",
+      "weight": "316",
+      "wonderlic": "",
+      "40yd": "5.16",
+      "benchpress": "25",
+      "vertleap": "24.5",
+      "broadjump": "98",
+      "shuttle": "5.16",
+      "3cone": "7.87"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Justin Gilbert",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Justin&l=Gilbert&i=10417"
+      },
+      "college": "Oklahoma State",
+      "pos": "CB",
+      "height": "73",
+      "weight": "202",
+      "wonderlic": "",
+      "40yd": "4.37",
+      "benchpress": "20",
+      "vertleap": "35.5",
+      "broadjump": "125",
+      "shuttle": "",
+      "3cone": "6.92"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Phillip Gaines",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Phillip&l=Gaines&i=20886"
+      },
+      "college": "Rice",
+      "pos": "CB",
+      "height": "73",
+      "weight": "193",
+      "wonderlic": "",
+      "40yd": "4.38",
+      "benchpress": "11",
+      "vertleap": "36.5",
+      "broadjump": "122",
+      "shuttle": "4.04",
+      "3cone": "6.62"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Adrian Hubbard",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Adrian&l=Hubbard&i=21140"
+      },
+      "college": "Alabama",
+      "pos": "OLB",
+      "height": "78",
+      "weight": "257",
+      "wonderlic": "",
+      "40yd": "4.69",
+      "benchpress": "",
+      "vertleap": "38.5",
+      "broadjump": "116",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jon Halapio",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jon&l=Halapio&i=21101"
+      },
+      "college": "Florida",
+      "pos": "OG",
+      "height": "75",
+      "weight": "323",
+      "wonderlic": "",
+      "40yd": "5.34",
+      "benchpress": "",
+      "vertleap": "21.5",
+      "broadjump": "99",
+      "shuttle": "4.83",
+      "3cone": "8.26"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "RaShede Hageman",
+        "href": "http://nflcombineresults.com/playerpage.php?f=RaShede&l=Hageman&i=21089"
+      },
+      "college": "Minnesota",
+      "pos": "DT",
+      "height": "78",
+      "weight": "310",
+      "wonderlic": "13",
+      "40yd": "5.02",
+      "benchpress": "32",
+      "vertleap": "35.5",
+      "broadjump": "113",
+      "shuttle": "",
+      "3cone": "7.87"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jeremy Hill",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jeremy&l=Hill&i=20971"
+      },
+      "college": "Louisiana State",
+      "pos": "RB",
+      "height": "73",
+      "weight": "233",
+      "wonderlic": "",
+      "40yd": "4.56",
+      "benchpress": "20",
+      "vertleap": "29.0",
+      "broadjump": "112",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Demetri Goodson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Demetri&l=Goodson&i=20887"
+      },
+      "college": "Baylor",
+      "pos": "CB",
+      "height": "71",
+      "weight": "194",
+      "wonderlic": "",
+      "40yd": "4.52",
+      "benchpress": "11",
+      "vertleap": "37.0",
+      "broadjump": "123",
+      "shuttle": "4.34",
+      "3cone": "6.80"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Ryan Grant",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Ryan&l=Grant&i=20872"
+      },
+      "college": "Tulane",
+      "pos": "WR",
+      "height": "73",
+      "weight": "199",
+      "wonderlic": "",
+      "40yd": "4.64",
+      "benchpress": "8",
+      "vertleap": "35.5",
+      "broadjump": "117",
+      "shuttle": "4.11",
+      "3cone": "6.68"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Zach Mettenberger",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Zach&l=Mettenberger&i=21147"
+      },
+      "college": "Louisiana State",
+      "pos": "QB",
+      "height": "77",
+      "weight": "224",
+      "wonderlic": "",
+      "40yd": "",
+      "benchpress": "",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Ryan Groy",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Ryan&l=Groy&i=21051"
+      },
+      "college": "Wisconsin",
+      "pos": "OG",
+      "height": "77",
+      "weight": "316",
+      "wonderlic": "",
+      "40yd": "5.19",
+      "benchpress": "26",
+      "vertleap": "26.5",
+      "broadjump": "108",
+      "shuttle": "4.47",
+      "3cone": "7.49"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Seantrel Henderson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Seantrel&l=Henderson&i=21104"
+      },
+      "college": "Miami",
+      "pos": "OT",
+      "height": "79",
+      "weight": "331",
+      "wonderlic": "",
+      "40yd": "5.04",
+      "benchpress": "",
+      "vertleap": "24.0",
+      "broadjump": "93",
+      "shuttle": "4.77",
+      "3cone": "8.15"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Josh Huff",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Josh&l=Huff&i=20909"
+      },
+      "college": "Oregon",
+      "pos": "WR",
+      "height": "71",
+      "weight": "206",
+      "wonderlic": "",
+      "40yd": "4.51",
+      "benchpress": "14",
+      "vertleap": "35.5",
+      "broadjump": "115",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Andre Hal",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Andre&l=Hal&i=20916"
+      },
+      "college": "Vanderbilt",
+      "pos": "CB",
+      "height": "70",
+      "weight": "188",
+      "wonderlic": "",
+      "40yd": "4.50",
+      "benchpress": "15",
+      "vertleap": "35.5",
+      "broadjump": "117",
+      "shuttle": "4.27",
+      "3cone": "7.14"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Ryan Hewitt",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Ryan&l=Hewitt&i=21123"
+      },
+      "college": "Stanford",
+      "pos": "FB",
+      "height": "76",
+      "weight": "246",
+      "wonderlic": "",
+      "40yd": "4.87",
+      "benchpress": "",
+      "vertleap": "33.0",
+      "broadjump": "116",
+      "shuttle": "4.35",
+      "3cone": "7.04"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Victor Hampton",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Victor&l=Hampton&i=20975"
+      },
+      "college": "South Carolina",
+      "pos": "CB",
+      "height": "69",
+      "weight": "197",
+      "wonderlic": "",
+      "40yd": "4.69",
+      "benchpress": "20",
+      "vertleap": "33.5",
+      "broadjump": "116",
+      "shuttle": "4.20",
+      "3cone": "7.01"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Carlos Hyde",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Carlos&l=Hyde&i=20961"
+      },
+      "college": "Ohio State",
+      "pos": "RB",
+      "height": "73",
+      "weight": "230",
+      "wonderlic": "9",
+      "40yd": "4.62",
+      "benchpress": "19",
+      "vertleap": "34.5",
+      "broadjump": "113",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jonotthan Harrison",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jonotthan&l=Harrison&i=21062"
+      },
+      "college": "Florida",
+      "pos": "C",
+      "height": "75",
+      "weight": "304",
+      "wonderlic": "",
+      "40yd": "5.15",
+      "benchpress": "27",
+      "vertleap": "27.0",
+      "broadjump": "112",
+      "shuttle": "4.86",
+      "3cone": "7.97"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Cody Latimer",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Cody&l=Latimer&i=21025"
+      },
+      "college": "Indiana",
+      "pos": "WR",
+      "height": "74",
+      "weight": "215",
+      "wonderlic": "",
+      "40yd": "4.52",
+      "benchpress": "23",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Matt Hazel",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Matt&l=Hazel&i=20918"
+      },
+      "college": "Coastal Carolina",
+      "pos": "WR",
+      "height": "73",
+      "weight": "198",
+      "wonderlic": "",
+      "40yd": "4.50",
+      "benchpress": "15",
+      "vertleap": "36.5",
+      "broadjump": "116",
+      "shuttle": "4.20",
+      "3cone": "7.08"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Christian Jones",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Christian&l=Jones&i=21125"
+      },
+      "college": "Florida State",
+      "pos": "ILB",
+      "height": "75",
+      "weight": "240",
+      "wonderlic": "",
+      "40yd": "4.74",
+      "benchpress": "",
+      "vertleap": "33.5",
+      "broadjump": "114",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Robert Herron",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Robert&l=Herron&i=20953"
+      },
+      "college": "Wyoming",
+      "pos": "WR",
+      "height": "69",
+      "weight": "193",
+      "wonderlic": "",
+      "40yd": "4.48",
+      "benchpress": "18",
+      "vertleap": "35.5",
+      "broadjump": "124",
+      "shuttle": "4.27",
+      "3cone": "6.84"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Kerry Hyder",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Kerry&l=Hyder&i=20973"
+      },
+      "college": "Texas Tech",
+      "pos": "DT",
+      "height": "74",
+      "weight": "290",
+      "wonderlic": "",
+      "40yd": "5.10",
+      "benchpress": "20",
+      "vertleap": "29.5",
+      "broadjump": "108",
+      "shuttle": "",
+      "3cone": "7.23"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Anthony Hitchens",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Anthony&l=Hitchens&i=21016"
+      },
+      "college": "Iowa",
+      "pos": "OLB",
+      "height": "73",
+      "weight": "240",
+      "wonderlic": "",
+      "40yd": "4.74",
+      "benchpress": "23",
+      "vertleap": "31.5",
+      "broadjump": "115",
+      "shuttle": "4.45",
+      "3cone": "7.15"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Timmy Jernigan",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Timmy&l=Jernigan&i=21063"
+      },
+      "college": "Florida State",
+      "pos": "DT",
+      "height": "74",
+      "weight": "299",
+      "wonderlic": "",
+      "40yd": "5.06",
+      "benchpress": "27",
+      "vertleap": "29.5",
+      "broadjump": "101",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Cody Hoffman",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Cody&l=Hoffman&i=20896"
+      },
+      "college": "BYU",
+      "pos": "WR",
+      "height": "76",
+      "weight": "223",
+      "wonderlic": "",
+      "40yd": "4.65",
+      "benchpress": "13",
+      "vertleap": "27.5",
+      "broadjump": "108",
+      "shuttle": "4.20",
+      "3cone": "6.89"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Kendall James",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Kendall&l=James&i=20874"
+      },
+      "college": "Maine",
+      "pos": "CB",
+      "height": "70",
+      "weight": "180",
+      "wonderlic": "",
+      "40yd": "4.44",
+      "benchpress": "9",
+      "vertleap": "39.0",
+      "broadjump": "",
+      "shuttle": "4.19",
+      "3cone": "6.81"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Aaron Lynch",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Aaron&l=Lynch&i=20958"
+      },
+      "college": "South Florida",
+      "pos": "DE",
+      "height": "77",
+      "weight": "249",
+      "wonderlic": "",
+      "40yd": "4.76",
+      "benchpress": "18",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Storm Johnson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Storm&l=Johnson&i=20933"
+      },
+      "college": "Central Florida",
+      "pos": "RB",
+      "height": "73",
+      "weight": "209",
+      "wonderlic": "",
+      "40yd": "4.60",
+      "benchpress": "16",
+      "vertleap": "35.5",
+      "broadjump": "116",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Marqueston Huff",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Marqueston&l=Huff&i=20914"
+      },
+      "college": "Wyoming",
+      "pos": "FS",
+      "height": "71",
+      "weight": "196",
+      "wonderlic": "",
+      "40yd": "4.49",
+      "benchpress": "15",
+      "vertleap": "35.5",
+      "broadjump": "116",
+      "shuttle": "4.19",
+      "3cone": "7.26"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Allen Hurns",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Allen&l=Hurns&i=20906"
+      },
+      "college": "Miami",
+      "pos": "WR",
+      "height": "73",
+      "weight": "198",
+      "wonderlic": "",
+      "40yd": "4.55",
+      "benchpress": "14",
+      "vertleap": "31.0",
+      "broadjump": "120",
+      "shuttle": "4.50",
+      "3cone": "7.23"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Stanley Jean-Baptiste",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Stanley&l=Jean-Baptiste&i=20904"
+      },
+      "college": "Nebraska",
+      "pos": "CB",
+      "height": "75",
+      "weight": "218",
+      "wonderlic": "",
+      "40yd": "4.61",
+      "benchpress": "13",
+      "vertleap": "41.5",
+      "broadjump": "127",
+      "shuttle": "4.33",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "DaQuan Jones",
+        "href": "http://nflcombineresults.com/playerpage.php?f=DaQuan&l=Jones&i=21042"
+      },
+      "college": "Penn State",
+      "pos": "DT",
+      "height": "76",
+      "weight": "322",
+      "wonderlic": "",
+      "40yd": "5.35",
+      "benchpress": "25",
+      "vertleap": "27.5",
+      "broadjump": "100",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Cody Mandell",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Cody&l=Mandell&i=21108"
+      },
+      "college": "Alabama",
+      "pos": "P",
+      "height": "74",
+      "weight": "216",
+      "wonderlic": "",
+      "40yd": "4.89",
+      "benchpress": "",
+      "vertleap": "27.0",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Gabe Ikard",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Gabe&l=Ikard&i=20996"
+      },
+      "college": "Oklahoma",
+      "pos": "C",
+      "height": "76",
+      "weight": "304",
+      "wonderlic": "",
+      "40yd": "5.13",
+      "benchpress": "22",
+      "vertleap": "26.0",
+      "broadjump": "102",
+      "shuttle": "4.37",
+      "3cone": "7.30"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jackson Jeffcoat",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jackson&l=Jeffcoat&i=20954"
+      },
+      "college": "Texas",
+      "pos": "DE",
+      "height": "75",
+      "weight": "247",
+      "wonderlic": "",
+      "40yd": "4.63",
+      "benchpress": "18",
+      "vertleap": "36.0",
+      "broadjump": "123",
+      "shuttle": "",
+      "3cone": "6.97"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Bennett Jackson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Bennett&l=Jackson&i=20902"
+      },
+      "college": "Notre Dame",
+      "pos": "CB",
+      "height": "73",
+      "weight": "195",
+      "wonderlic": "",
+      "40yd": "4.51",
+      "benchpress": "13",
+      "vertleap": "38.0",
+      "broadjump": "127",
+      "shuttle": "4.00",
+      "3cone": "6.75"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Marcus Martin",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Marcus&l=Martin&i=21024"
+      },
+      "college": "Southern California",
+      "pos": "C",
+      "height": "75",
+      "weight": "320",
+      "wonderlic": "",
+      "40yd": "5.38",
+      "benchpress": "23",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Gabe Jackson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Gabe&l=Jackson&i=21081"
+      },
+      "college": "Mississippi State",
+      "pos": "OG",
+      "height": "75",
+      "weight": "336",
+      "wonderlic": "",
+      "40yd": "5.34",
+      "benchpress": "30",
+      "vertleap": "29.0",
+      "broadjump": "108",
+      "shuttle": "4.78",
+      "3cone": "8.25"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Anthony Johnson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Anthony&l=Johnson&i=20968"
+      },
+      "college": "Louisiana State",
+      "pos": "DT",
+      "height": "74",
+      "weight": "308",
+      "wonderlic": "",
+      "40yd": "5.24",
+      "benchpress": "20",
+      "vertleap": "24.5",
+      "broadjump": "101",
+      "shuttle": "",
+      "3cone": "7.93"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "JaWuan James",
+        "href": "http://nflcombineresults.com/playerpage.php?f=JaWuan&l=James&i=20999"
+      },
+      "college": "Tennessee",
+      "pos": "OT",
+      "height": "78",
+      "weight": "311",
+      "wonderlic": "",
+      "40yd": "5.34",
+      "benchpress": "22",
+      "vertleap": "29.0",
+      "broadjump": "102",
+      "shuttle": "4.56",
+      "3cone": "7.42"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Corey Linsley",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Corey&l=Linsley&i=21098"
+      },
+      "college": "Ohio State",
+      "pos": "C",
+      "height": "75",
+      "weight": "296",
+      "wonderlic": "",
+      "40yd": "5.24",
+      "benchpress": "36",
+      "vertleap": "27.0",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Christian Kirksey",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Christian&l=Kirksey&i=20930"
+      },
+      "college": "Iowa",
+      "pos": "OLB",
+      "height": "74",
+      "weight": "233",
+      "wonderlic": "",
+      "40yd": "4.72",
+      "benchpress": "16",
+      "vertleap": "32.0",
+      "broadjump": "122",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jeff Janis",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jeff&l=Janis&i=20980"
+      },
+      "college": "Saginaw Valley State",
+      "pos": "WR",
+      "height": "75",
+      "weight": "219",
+      "wonderlic": "",
+      "40yd": "4.42",
+      "benchpress": "20",
+      "vertleap": "37.5",
+      "broadjump": "123",
+      "shuttle": "3.98",
+      "3cone": "6.64"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "TJ Jones",
+        "href": "http://nflcombineresults.com/playerpage.php?f=TJ&l=Jones&i=21124"
+      },
+      "college": "Notre Dame",
+      "pos": "WR",
+      "height": "73",
+      "weight": "188",
+      "wonderlic": "",
+      "40yd": "4.48",
+      "benchpress": "",
+      "vertleap": "33.0",
+      "broadjump": "117",
+      "shuttle": "4.27",
+      "3cone": "6.82"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Kenny Ladler",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Kenny&l=Ladler&i=21033"
+      },
+      "college": "Vanderbilt",
+      "pos": "FS",
+      "height": "73",
+      "weight": "207",
+      "wonderlic": "",
+      "40yd": "4.70",
+      "benchpress": "24",
+      "vertleap": "36.5",
+      "broadjump": "126",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Reggie Jordan",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Reggie&l=Jordan&i=21036"
+      },
+      "college": "Missouri Western",
+      "pos": "FB",
+      "height": "75",
+      "weight": "240",
+      "wonderlic": "",
+      "40yd": "4.77",
+      "benchpress": "24",
+      "vertleap": "",
+      "broadjump": "115",
+      "shuttle": "4.30",
+      "3cone": "7.22"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jarvis Landry",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jarvis&l=Landry&i=20889"
+      },
+      "college": "Louisiana State",
+      "pos": "WR",
+      "height": "71",
+      "weight": "205",
+      "wonderlic": "",
+      "40yd": "4.65",
+      "benchpress": "12",
+      "vertleap": "28.5",
+      "broadjump": "110",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Howard Jones",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Howard&l=Jones&i=20994"
+      },
+      "college": "Shepherd",
+      "pos": "OLB",
+      "height": "74",
+      "weight": "235",
+      "wonderlic": "",
+      "40yd": "4.60",
+      "benchpress": "21",
+      "vertleap": "40.5",
+      "broadjump": "123",
+      "shuttle": "",
+      "3cone": "7.16"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Marcel Jensen",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Marcel&l=Jensen&i=21032"
+      },
+      "college": "Fresno State",
+      "pos": "TE",
+      "height": "78",
+      "weight": "259",
+      "wonderlic": "",
+      "40yd": "4.85",
+      "benchpress": "24",
+      "vertleap": "35.0",
+      "broadjump": "114",
+      "shuttle": "4.60",
+      "3cone": "7.38"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Marqise Lee",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Marqise&l=Lee&i=10410"
+      },
+      "college": "Southern California",
+      "pos": "WR",
+      "height": "73",
+      "weight": "192",
+      "wonderlic": "",
+      "40yd": "4.52",
+      "benchpress": "",
+      "vertleap": "38.0",
+      "broadjump": "126",
+      "shuttle": "4.01",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Colt Lyerla",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Colt&l=Lyerla&i=20926"
+      },
+      "college": "Oregon",
+      "pos": "TE",
+      "height": "76",
+      "weight": "242",
+      "wonderlic": "24",
+      "40yd": "4.61",
+      "benchpress": "15",
+      "vertleap": "",
+      "broadjump": "127",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jordan Lynch",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jordan&l=Lynch&i=21114"
+      },
+      "college": "Northern Illinois",
+      "pos": "QB",
+      "height": "73",
+      "weight": "217",
+      "wonderlic": "",
+      "40yd": "4.76",
+      "benchpress": "",
+      "vertleap": "29.5",
+      "broadjump": "109",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Kaleb Ramsey",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Kaleb&l=Ramsey&i=21099"
+      },
+      "college": "Boston College",
+      "pos": "DT",
+      "height": "75",
+      "weight": "293",
+      "wonderlic": "",
+      "40yd": "",
+      "benchpress": "36",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Dontae Johnson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Dontae&l=Johnson&i=20892"
+      },
+      "college": "North Carolina State",
+      "pos": "FS",
+      "height": "74",
+      "weight": "200",
+      "wonderlic": "",
+      "40yd": "4.45",
+      "benchpress": "12",
+      "vertleap": "38.5",
+      "broadjump": "123",
+      "shuttle": "4.24",
+      "3cone": "6.82"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Boseko Lokombo",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Boseko&l=Lokombo&i=21151"
+      },
+      "college": "Oregon",
+      "pos": "OLB",
+      "height": "74",
+      "weight": "225",
+      "wonderlic": "",
+      "40yd": "4.66",
+      "benchpress": "",
+      "vertleap": "",
+      "broadjump": "122",
+      "shuttle": "4.30",
+      "3cone": "7.15"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Wesley Johnson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Wesley&l=Johnson&i=21053"
+      },
+      "college": "Vanderbilt",
+      "pos": "OT",
+      "height": "77",
+      "weight": "297",
+      "wonderlic": "",
+      "40yd": "5.11",
+      "benchpress": "26",
+      "vertleap": "29.0",
+      "broadjump": "111",
+      "shuttle": "4.64",
+      "3cone": "7.40"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "A.C. Leonard",
+        "href": "http://nflcombineresults.com/playerpage.php?f=A.C.&l=Leonard&i=20976"
+      },
+      "college": "Tennessee State",
+      "pos": "TE",
+      "height": "74",
+      "weight": "252",
+      "wonderlic": "",
+      "40yd": "4.50",
+      "benchpress": "20",
+      "vertleap": "34.0",
+      "broadjump": "127",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Zack Kerr",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Zack&l=Kerr&i=21067"
+      },
+      "college": "Delaware",
+      "pos": "DT",
+      "height": "73",
+      "weight": "326",
+      "wonderlic": "",
+      "40yd": "5.08",
+      "benchpress": "28",
+      "vertleap": "28.5",
+      "broadjump": "99",
+      "shuttle": "",
+      "3cone": "7.93"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Johnny Manziel",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Johnny&l=Manziel&i=10401"
+      },
+      "college": "Texas A&M",
+      "pos": "QB",
+      "height": "73",
+      "weight": "207",
+      "wonderlic": "32",
+      "40yd": "4.68",
+      "benchpress": "",
+      "vertleap": "31.5",
+      "broadjump": "112",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Brandon Linder",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Brandon&l=Linder&i=21079"
+      },
+      "college": "Miami",
+      "pos": "OG",
+      "height": "78",
+      "weight": "311",
+      "wonderlic": "",
+      "40yd": "5.35",
+      "benchpress": "30",
+      "vertleap": "26.5",
+      "broadjump": "99",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jeff Mathews",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jeff&l=Mathews&i=21106"
+      },
+      "college": "Cornell",
+      "pos": "QB",
+      "height": "76",
+      "weight": "223",
+      "wonderlic": "",
+      "40yd": "5.26",
+      "benchpress": "",
+      "vertleap": "25.5",
+      "broadjump": "104",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Henry Josey",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Henry&l=Josey&i=20978"
+      },
+      "college": "Missouri",
+      "pos": "RB",
+      "height": "68",
+      "weight": "194",
+      "wonderlic": "",
+      "40yd": "4.43",
+      "benchpress": "20",
+      "vertleap": "34.5",
+      "broadjump": "116",
+      "shuttle": "4.13",
+      "3cone": "7.07"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Lamarcus Joyner",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Lamarcus&l=Joyner&i=20911"
+      },
+      "college": "Florida State",
+      "pos": "CB",
+      "height": "68",
+      "weight": "184",
+      "wonderlic": "",
+      "40yd": "4.55",
+      "benchpress": "14",
+      "vertleap": "37.5",
+      "broadjump": "123",
+      "shuttle": "4.40",
+      "3cone": "7.26"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Demarcus Lawrence",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Demarcus&l=Lawrence&i=20977"
+      },
+      "college": "Boise State",
+      "pos": "DE",
+      "height": "75",
+      "weight": "251",
+      "wonderlic": "",
+      "40yd": "4.80",
+      "benchpress": "20",
+      "vertleap": "34.5",
+      "broadjump": "112",
+      "shuttle": "",
+      "3cone": "7.46"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "A.J. McCarron",
+        "href": "http://nflcombineresults.com/playerpage.php?f=A.J.&l=McCarron&i=10405"
+      },
+      "college": "Alabama",
+      "pos": "QB",
+      "height": "75",
+      "weight": "220",
+      "wonderlic": "",
+      "40yd": "4.94",
+      "benchpress": "",
+      "vertleap": "28.0",
+      "broadjump": "99",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Devon Kennard",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Devon&l=Kennard&i=21014"
+      },
+      "college": "Southern California",
+      "pos": "OLB",
+      "height": "75",
+      "weight": "249",
+      "wonderlic": "",
+      "40yd": "4.70",
+      "benchpress": "23",
+      "vertleap": "30.0",
+      "broadjump": "112",
+      "shuttle": "4.32",
+      "3cone": "7.25"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Cyrus Kouandjio",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Cyrus&l=Kouandjio&i=20986"
+      },
+      "college": "Alabama",
+      "pos": "OT",
+      "height": "79",
+      "weight": "322",
+      "wonderlic": "",
+      "40yd": "5.59",
+      "benchpress": "21",
+      "vertleap": "27.5",
+      "broadjump": "96",
+      "shuttle": "4.84",
+      "3cone": "7.71"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Tre Mason",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Tre&l=Mason&i=10407"
+      },
+      "college": "Auburn",
+      "pos": "RB",
+      "height": "68",
+      "weight": "207",
+      "wonderlic": "",
+      "40yd": "4.50",
+      "benchpress": "",
+      "vertleap": "38.5",
+      "broadjump": "125",
+      "shuttle": "4.15",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Tyler Larsen",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Tyler&l=Larsen&i=21095"
+      },
+      "college": "Utah State",
+      "pos": "C",
+      "height": "76",
+      "weight": "313",
+      "wonderlic": "",
+      "40yd": "5.17",
+      "benchpress": "36",
+      "vertleap": "23.5",
+      "broadjump": "101",
+      "shuttle": "4.70",
+      "3cone": "8.22"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Stephen Morris",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Stephen&l=Morris&i=21115"
+      },
+      "college": "Miami",
+      "pos": "QB",
+      "height": "74",
+      "weight": "213",
+      "wonderlic": "",
+      "40yd": "4.63",
+      "benchpress": "",
+      "vertleap": "30.0",
+      "broadjump": "111",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Nevin Lawson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Nevin&l=Lawson&i=20931"
+      },
+      "college": "Utah State",
+      "pos": "CB",
+      "height": "69",
+      "weight": "190",
+      "wonderlic": "",
+      "40yd": "4.48",
+      "benchpress": "16",
+      "vertleap": "33.0",
+      "broadjump": "120",
+      "shuttle": "4.40",
+      "3cone": "7.12"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Keith Reaser",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Keith&l=Reaser&i=21008"
+      },
+      "college": "Florida Atlantic",
+      "pos": "CB",
+      "height": "70",
+      "weight": "189",
+      "wonderlic": "",
+      "40yd": "4.43",
+      "benchpress": "22",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Charles Leno",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Charles&l=Leno&i=20987"
+      },
+      "college": "Boise State",
+      "pos": "OT",
+      "height": "76",
+      "weight": "303",
+      "wonderlic": "",
+      "40yd": "5.21",
+      "benchpress": "21",
+      "vertleap": "29.0",
+      "broadjump": "108",
+      "shuttle": "4.40",
+      "3cone": "7.57"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Trevor Reilly",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Trevor&l=Reilly&i=21058"
+      },
+      "college": "Utah",
+      "pos": "OLB",
+      "height": "77",
+      "weight": "245",
+      "wonderlic": "",
+      "40yd": "4.67",
+      "benchpress": "26",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Taylor Lewan",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Taylor&l=Lewan&i=21077"
+      },
+      "college": "Michigan",
+      "pos": "OT",
+      "height": "79",
+      "weight": "309",
+      "wonderlic": "",
+      "40yd": "4.87",
+      "benchpress": "29",
+      "vertleap": "30.5",
+      "broadjump": "116",
+      "shuttle": "4.49",
+      "3cone": "7.39"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Isaiah Lewis",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Isaiah&l=Lewis&i=20919"
+      },
+      "college": "Michigan State",
+      "pos": "SS",
+      "height": "70",
+      "weight": "211",
+      "wonderlic": "",
+      "40yd": "4.60",
+      "benchpress": "15",
+      "vertleap": "36.5",
+      "broadjump": "122",
+      "shuttle": "4.47",
+      "3cone": "7.05"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Vinnie Sunseri",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Vinnie&l=Sunseri&i=20957"
+      },
+      "college": "Alabama",
+      "pos": "SS",
+      "height": "71",
+      "weight": "210",
+      "wonderlic": "",
+      "40yd": "",
+      "benchpress": "18",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Daniel McCullers",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Daniel&l=McCullers&i=21060"
+      },
+      "college": "Tennessee",
+      "pos": "DT",
+      "height": "79",
+      "weight": "352",
+      "wonderlic": "",
+      "40yd": "5.18",
+      "benchpress": "27",
+      "vertleap": "20.5",
+      "broadjump": "104",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Pat O'Donnell",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Pat&l=O"
+      },
+      "college": "Miami",
+      "pos": "P",
+      "height": "76",
+      "weight": "220",
+      "wonderlic": "",
+      "40yd": "4.64",
+      "benchpress": "23",
+      "vertleap": "30.5",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Eathyn Manumaleuna",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Eathyn&l=Manumaleuna&i=21075"
+      },
+      "college": "BYU",
+      "pos": "DT",
+      "height": "74",
+      "weight": "296",
+      "wonderlic": "",
+      "40yd": "5.16",
+      "benchpress": "29",
+      "vertleap": "28.0",
+      "broadjump": "100",
+      "shuttle": "",
+      "3cone": "7.78"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Cassius Marsh",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Cassius&l=Marsh&i=20907"
+      },
+      "college": "UCLA",
+      "pos": "DE",
+      "height": "76",
+      "weight": "252",
+      "wonderlic": "",
+      "40yd": "4.89",
+      "benchpress": "14",
+      "vertleap": "32.0",
+      "broadjump": "108",
+      "shuttle": "",
+      "3cone": "7.08"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Craig Loston",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Craig&l=Loston&i=20890"
+      },
+      "college": "Louisiana State",
+      "pos": "SS",
+      "height": "71",
+      "weight": "217",
+      "wonderlic": "",
+      "40yd": "4.65",
+      "benchpress": "12",
+      "vertleap": "32.5",
+      "broadjump": "117",
+      "shuttle": "4.35",
+      "3cone": "7.15"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Matt Patchan",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Matt&l=Patchan&i=21003"
+      },
+      "college": "Boston College",
+      "pos": "OT",
+      "height": "78",
+      "weight": "302",
+      "wonderlic": "",
+      "40yd": "4.97",
+      "benchpress": "22",
+      "vertleap": "33.5",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Kareem Martin",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Kareem&l=Martin&i=21005"
+      },
+      "college": "North Carolina",
+      "pos": "DE",
+      "height": "78",
+      "weight": "272",
+      "wonderlic": "",
+      "40yd": "4.72",
+      "benchpress": "22",
+      "vertleap": "35.5",
+      "broadjump": "128",
+      "shuttle": "",
+      "3cone": "7.20"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Tevin Mims",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Tevin&l=Mims&i=20939"
+      },
+      "college": "South Florida",
+      "pos": "DE",
+      "height": "76",
+      "weight": "260",
+      "wonderlic": "",
+      "40yd": "4.95",
+      "benchpress": "17",
+      "vertleap": "27.5",
+      "broadjump": "116",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Marcus Lucas",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Marcus&l=Lucas&i=20979"
+      },
+      "college": "Missouri",
+      "pos": "WR",
+      "height": "76",
+      "weight": "218",
+      "wonderlic": "",
+      "40yd": "4.60",
+      "benchpress": "20",
+      "vertleap": "36.0",
+      "broadjump": "123",
+      "shuttle": "4.25",
+      "3cone": "7.07"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Arthur Lynch",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Arthur&l=Lynch&i=21069"
+      },
+      "college": "Georgia",
+      "pos": "TE",
+      "height": "77",
+      "weight": "258",
+      "wonderlic": "",
+      "40yd": "4.82",
+      "benchpress": "28",
+      "vertleap": "29.5",
+      "broadjump": "115",
+      "shuttle": "4.35",
+      "3cone": "7.38"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Keith McGill",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Keith&l=McGill&i=21143"
+      },
+      "college": "Utah",
+      "pos": "CB",
+      "height": "75",
+      "weight": "211",
+      "wonderlic": "",
+      "40yd": "4.51",
+      "benchpress": "",
+      "vertleap": "39.0",
+      "broadjump": "128",
+      "shuttle": "4.18",
+      "3cone": "7.29"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Khalil Mack",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Khalil&l=Mack&i=10414"
+      },
+      "college": "Buffalo",
+      "pos": "OLB",
+      "height": "75",
+      "weight": "251",
+      "wonderlic": "",
+      "40yd": "4.65",
+      "benchpress": "23",
+      "vertleap": "40.0",
+      "broadjump": "127",
+      "shuttle": "4.18",
+      "3cone": "7.08"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Josh Mauro",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Josh&l=Mauro&i=20988"
+      },
+      "college": "Stanford",
+      "pos": "DE",
+      "height": "78",
+      "weight": "271",
+      "wonderlic": "",
+      "40yd": "5.21",
+      "benchpress": "21",
+      "vertleap": "32.0",
+      "broadjump": "115",
+      "shuttle": "",
+      "3cone": "7.43"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Austin Seferian-Jenkins",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Austin&l=Seferian-Jenkins&i=20984"
+      },
+      "college": "Washington",
+      "pos": "TE",
+      "height": "77",
+      "weight": "262",
+      "wonderlic": "",
+      "40yd": "4.75",
+      "benchpress": "20",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Terrance Mitchell",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Terrance&l=Mitchell&i=21128"
+      },
+      "college": "Oregon",
+      "pos": "CB",
+      "height": "71",
+      "weight": "192",
+      "wonderlic": "",
+      "40yd": "4.63",
+      "benchpress": "",
+      "vertleap": "34.0",
+      "broadjump": "116",
+      "shuttle": "4.00",
+      "3cone": "6.57"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Louis Nix",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Louis&l=Nix&i=21105"
+      },
+      "college": "Notre Dame",
+      "pos": "DT",
+      "height": "74",
+      "weight": "331",
+      "wonderlic": "",
+      "40yd": "5.42",
+      "benchpress": "",
+      "vertleap": "25.5",
+      "broadjump": "104",
+      "shuttle": "",
+      "3cone": "8.29"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Zack Martin",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Zack&l=Martin&i=21076"
+      },
+      "college": "Notre Dame",
+      "pos": "OT",
+      "height": "76",
+      "weight": "308",
+      "wonderlic": "",
+      "40yd": "5.22",
+      "benchpress": "29",
+      "vertleap": "28.0",
+      "broadjump": "104",
+      "shuttle": "4.59",
+      "3cone": "7.65"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Bryn Renner",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Bryn&l=Renner&i=21107"
+      },
+      "college": "North Carolina",
+      "pos": "QB",
+      "height": "75",
+      "weight": "228",
+      "wonderlic": "",
+      "40yd": "4.87",
+      "benchpress": "",
+      "vertleap": "25.5",
+      "broadjump": "108",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jabari Price",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jabari&l=Price&i=20937"
+      },
+      "college": "North Carolina",
+      "pos": "CB",
+      "height": "70",
+      "weight": "200",
+      "wonderlic": "",
+      "40yd": "4.45",
+      "benchpress": "16",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "4.30",
+      "3cone": "7.04"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Morgan Moses",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Morgan&l=Moses&i=21102"
+      },
+      "college": "Virginia",
+      "pos": "OT",
+      "height": "78",
+      "weight": "314",
+      "wonderlic": "",
+      "40yd": "5.35",
+      "benchpress": "",
+      "vertleap": "21.5",
+      "broadjump": "104",
+      "shuttle": "4.95",
+      "3cone": "7.93"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jake Matthews",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jake&l=Matthews&i=21028"
+      },
+      "college": "Texas A&M",
+      "pos": "OT",
+      "height": "77",
+      "weight": "308",
+      "wonderlic": "",
+      "40yd": "5.07",
+      "benchpress": "24",
+      "vertleap": "30.5",
+      "broadjump": "104",
+      "shuttle": "4.47",
+      "3cone": "7.34"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Antonio Richardson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Antonio&l=Richardson&i=21096"
+      },
+      "college": "Tennessee",
+      "pos": "OT",
+      "height": "78",
+      "weight": "336",
+      "wonderlic": "",
+      "40yd": "5.30",
+      "benchpress": "36",
+      "vertleap": "24.5",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "C.J. Mosley",
+        "href": "http://nflcombineresults.com/playerpage.php?f=C.J.&l=Mosley&i=20415"
+      },
+      "college": "Alabama",
+      "pos": "ILB",
+      "height": "74",
+      "weight": "234",
+      "wonderlic": "",
+      "40yd": "4.65",
+      "benchpress": "",
+      "vertleap": "35.0",
+      "broadjump": "116",
+      "shuttle": "4.40",
+      "3cone": "7.30"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Zach Moore",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Zach&l=Moore&i=21019"
+      },
+      "college": "Concordia - St Paul",
+      "pos": "DE",
+      "height": "77",
+      "weight": "269",
+      "wonderlic": "",
+      "40yd": "4.84",
+      "benchpress": "23",
+      "vertleap": "33.5",
+      "broadjump": "123",
+      "shuttle": "",
+      "3cone": "7.41"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jordan Matthews",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jordan&l=Matthews&i=20993"
+      },
+      "college": "Vanderbilt",
+      "pos": "WR",
+      "height": "75",
+      "weight": "212",
+      "wonderlic": "29",
+      "40yd": "4.46",
+      "benchpress": "21",
+      "vertleap": "35.5",
+      "broadjump": "120",
+      "shuttle": "4.18",
+      "3cone": "6.95"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Tevin Reese",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Tevin&l=Reese&i=21144"
+      },
+      "college": "Baylor",
+      "pos": "WR",
+      "height": "70",
+      "weight": "163",
+      "wonderlic": "",
+      "40yd": "4.46",
+      "benchpress": "",
+      "vertleap": "41.0",
+      "broadjump": "",
+      "shuttle": "4.18",
+      "3cone": "6.63"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Ronald Powell",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Ronald&l=Powell&i=20992"
+      },
+      "college": "Florida",
+      "pos": "OLB",
+      "height": "75",
+      "weight": "237",
+      "wonderlic": "",
+      "40yd": "4.65",
+      "benchpress": "21",
+      "vertleap": "35.5",
+      "broadjump": "113",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jerick McKinnon",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jerick&l=McKinnon&i=21090"
+      },
+      "college": "Georgia Southern",
+      "pos": "RB",
+      "height": "69",
+      "weight": "209",
+      "wonderlic": "",
+      "40yd": "4.41",
+      "benchpress": "32",
+      "vertleap": "40.5",
+      "broadjump": "132",
+      "shuttle": "4.12",
+      "3cone": "6.83"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jack Mewhort",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jack&l=Mewhort&i=21066"
+      },
+      "college": "Ohio State",
+      "pos": "OT",
+      "height": "78",
+      "weight": "309",
+      "wonderlic": "",
+      "40yd": "5.37",
+      "benchpress": "28",
+      "vertleap": "26.0",
+      "broadjump": "100",
+      "shuttle": "4.64",
+      "3cone": "7.79"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Calvin Pryor",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Calvin&l=Pryor&i=20949"
+      },
+      "college": "Louisville",
+      "pos": "FS",
+      "height": "71",
+      "weight": "207",
+      "wonderlic": "",
+      "40yd": "4.58",
+      "benchpress": "18",
+      "vertleap": "34.5",
+      "broadjump": "115",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jonathan Newsome",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jonathan&l=Newsome&i=20991"
+      },
+      "college": "Ball State",
+      "pos": "OLB",
+      "height": "75",
+      "weight": "247",
+      "wonderlic": "",
+      "40yd": "4.73",
+      "benchpress": "21",
+      "vertleap": "34.0",
+      "broadjump": "116",
+      "shuttle": "",
+      "3cone": "7.31"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Loucheiz Purifoy",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Loucheiz&l=Purifoy&i=20866"
+      },
+      "college": "Florida",
+      "pos": "CB",
+      "height": "71",
+      "weight": "190",
+      "wonderlic": "",
+      "40yd": "4.61",
+      "benchpress": "6",
+      "vertleap": "35.5",
+      "broadjump": "120",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Kelcy Quarles",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Kelcy&l=Quarles&i=21061"
+      },
+      "college": "South Carolina",
+      "pos": "DT",
+      "height": "76",
+      "weight": "297",
+      "wonderlic": "",
+      "40yd": "5.03",
+      "benchpress": "27",
+      "vertleap": "23.5",
+      "broadjump": "101",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jalen Saunders",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jalen&l=Saunders&i=21129"
+      },
+      "college": "Oklahoma",
+      "pos": "WR",
+      "height": "69",
+      "weight": "165",
+      "wonderlic": "",
+      "40yd": "4.44",
+      "benchpress": "",
+      "vertleap": "34.0",
+      "broadjump": "122",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Donte Moncrief",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Donte&l=Moncrief&i=20903"
+      },
+      "college": "Mississippi",
+      "pos": "WR",
+      "height": "74",
+      "weight": "221",
+      "wonderlic": "",
+      "40yd": "4.40",
+      "benchpress": "13",
+      "vertleap": "39.5",
+      "broadjump": "132",
+      "shuttle": "4.30",
+      "3cone": "7.02"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Tom Savage",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Tom&l=Savage&i=21109"
+      },
+      "college": "Pittsburgh",
+      "pos": "QB",
+      "height": "76",
+      "weight": "228",
+      "wonderlic": "",
+      "40yd": "4.97",
+      "benchpress": "",
+      "vertleap": "27.0",
+      "broadjump": "104",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Robert Thomas",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Robert&l=Thomas&i=21091"
+      },
+      "college": "Arkansas",
+      "pos": "DT",
+      "height": "73",
+      "weight": "327",
+      "wonderlic": "",
+      "40yd": "5.26",
+      "benchpress": "32",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Silas Redd",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Silas&l=Redd&i=20956"
+      },
+      "college": "Southern California",
+      "pos": "RB",
+      "height": "70",
+      "weight": "212",
+      "wonderlic": "",
+      "40yd": "4.70",
+      "benchpress": "18",
+      "vertleap": "37.0",
+      "broadjump": "122",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "James Morris",
+        "href": "http://nflcombineresults.com/playerpage.php?f=James&l=Morris&i=20950"
+      },
+      "college": "Iowa",
+      "pos": "ILB",
+      "height": "73",
+      "weight": "241",
+      "wonderlic": "",
+      "40yd": "4.80",
+      "benchpress": "18",
+      "vertleap": "34.5",
+      "broadjump": "116",
+      "shuttle": "4.36",
+      "3cone": "6.94"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Yawin Smallwood",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Yawin&l=Smallwood&i=20955"
+      },
+      "college": "Connecticut",
+      "pos": "ILB",
+      "height": "74",
+      "weight": "246",
+      "wonderlic": "",
+      "40yd": "",
+      "benchpress": "18",
+      "vertleap": "36.5",
+      "broadjump": "108",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Stephon Tuitt",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Stephon&l=Tuitt&i=21086"
+      },
+      "college": "Notre Dame",
+      "pos": "DT",
+      "height": "77",
+      "weight": "304",
+      "wonderlic": "",
+      "40yd": "4.92",
+      "benchpress": "31",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Tenny Palepoi",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Tenny&l=Palepoi&i=21084"
+      },
+      "college": "Utah",
+      "pos": "DT",
+      "height": "73",
+      "weight": "298",
+      "wonderlic": "",
+      "40yd": "5.10",
+      "benchpress": "31",
+      "vertleap": "30.5",
+      "broadjump": "111",
+      "shuttle": "",
+      "3cone": "7.67"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Connor Shaw",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Connor&l=Shaw&i=21127"
+      },
+      "college": "South Carolina",
+      "pos": "QB",
+      "height": "73",
+      "weight": "206",
+      "wonderlic": "",
+      "40yd": "4.66",
+      "benchpress": "",
+      "vertleap": "34.0",
+      "broadjump": "115",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Ed Reynolds",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Ed&l=Reynolds&i=20913"
+      },
+      "college": "Stanford",
+      "pos": "FS",
+      "height": "73",
+      "weight": "207",
+      "wonderlic": "",
+      "40yd": "4.57",
+      "benchpress": "15",
+      "vertleap": "32.5",
+      "broadjump": "116",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Mike Pennel",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Mike&l=Pennel&i=21012"
+      },
+      "college": "Colorado State - Pueblo",
+      "pos": "DT",
+      "height": "76",
+      "weight": "332",
+      "wonderlic": "",
+      "40yd": "5.23",
+      "benchpress": "23",
+      "vertleap": "28.5",
+      "broadjump": "101",
+      "shuttle": "",
+      "3cone": "7.94"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jake Murphy",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jake&l=Murphy&i=21031"
+      },
+      "college": "Utah",
+      "pos": "TE",
+      "height": "76",
+      "weight": "249",
+      "wonderlic": "",
+      "40yd": "4.79",
+      "benchpress": "24",
+      "vertleap": "33.0",
+      "broadjump": "113",
+      "shuttle": "4.27",
+      "3cone": "7.18"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Paul Richardson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Paul&l=Richardson&i=21138"
+      },
+      "college": "Colorado",
+      "pos": "WR",
+      "height": "73",
+      "weight": "175",
+      "wonderlic": "",
+      "40yd": "4.40",
+      "benchpress": "",
+      "vertleap": "38.0",
+      "broadjump": "123",
+      "shuttle": "",
+      "3cone": "7.09"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Trent Murphy",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Trent&l=Murphy&i=20963"
+      },
+      "college": "Stanford",
+      "pos": "DE",
+      "height": "77",
+      "weight": "250",
+      "wonderlic": "",
+      "40yd": "4.86",
+      "benchpress": "19",
+      "vertleap": "35.5",
+      "broadjump": "116",
+      "shuttle": "4.20",
+      "3cone": "6.78"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jordan Najvar",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jordan&l=Najvar&i=20947"
+      },
+      "college": "Baylor",
+      "pos": "TE",
+      "height": "78",
+      "weight": "256",
+      "wonderlic": "",
+      "40yd": "4.93",
+      "benchpress": "18",
+      "vertleap": "32.5",
+      "broadjump": "111",
+      "shuttle": "4.47",
+      "3cone": "7.14"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jimmie Ward",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jimmie&l=Ward&i=20875"
+      },
+      "college": "Northern Illinois",
+      "pos": "SS",
+      "height": "71",
+      "weight": "193",
+      "wonderlic": "",
+      "40yd": "4.59",
+      "benchpress": "9",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Telvin Smith",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Telvin&l=Smith&i=21119"
+      },
+      "college": "Florida State",
+      "pos": "OLB",
+      "height": "75",
+      "weight": "218",
+      "wonderlic": "",
+      "40yd": "4.52",
+      "benchpress": "",
+      "vertleap": "31.5",
+      "broadjump": "117",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Troy Niklas",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Troy&l=Niklas&i=21065"
+      },
+      "college": "Notre Dame",
+      "pos": "TE",
+      "height": "78",
+      "weight": "270",
+      "wonderlic": "",
+      "40yd": "4.84",
+      "benchpress": "27",
+      "vertleap": "32.0",
+      "broadjump": "113",
+      "shuttle": "4.55",
+      "3cone": "7.57"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Todd Washington",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Todd&l=Washington&i=20905"
+      },
+      "college": "Southeast Louisiana",
+      "pos": "CB",
+      "height": "71",
+      "weight": "196",
+      "wonderlic": "",
+      "40yd": "4.57",
+      "benchpress": "13",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jaylen Watkins",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jaylen&l=Watkins&i=21007"
+      },
+      "college": "Florida",
+      "pos": "CB",
+      "height": "71",
+      "weight": "194",
+      "wonderlic": "",
+      "40yd": "4.41",
+      "benchpress": "22",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Kevin Norwood",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Kevin&l=Norwood&i=20870"
+      },
+      "college": "Alabama",
+      "pos": "WR",
+      "height": "74",
+      "weight": "198",
+      "wonderlic": "",
+      "40yd": "4.48",
+      "benchpress": "8",
+      "vertleap": "33.0",
+      "broadjump": "121",
+      "shuttle": "4.32",
+      "3cone": "6.68"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Chris Watt",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Chris&l=Watt&i=21078"
+      },
+      "college": "Notre Dame",
+      "pos": "OG",
+      "height": "75",
+      "weight": "310",
+      "wonderlic": "",
+      "40yd": "5.50",
+      "benchpress": "29",
+      "vertleap": "",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Matt Paradis",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Matt&l=Paradis&i=21011"
+      },
+      "college": "Boise State",
+      "pos": "C",
+      "height": "75",
+      "weight": "306",
+      "wonderlic": "",
+      "40yd": "5.34",
+      "benchpress": "23",
+      "vertleap": "26.0",
+      "broadjump": "102",
+      "shuttle": "4.46",
+      "3cone": "7.60"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Caraun Reid",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Caraun&l=Reid&i=20970"
+      },
+      "college": "Princeton",
+      "pos": "DT",
+      "height": "74",
+      "weight": "302",
+      "wonderlic": "",
+      "40yd": "4.91",
+      "benchpress": "20",
+      "vertleap": "26.5",
+      "broadjump": "104",
+      "shuttle": "",
+      "3cone": "7.59"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "LaDarius Perkins",
+        "href": "http://nflcombineresults.com/playerpage.php?f=LaDarius&l=Perkins&i=21021"
+      },
+      "college": "Mississippi State",
+      "pos": "RB",
+      "height": "67",
+      "weight": "195",
+      "wonderlic": "",
+      "40yd": "4.46",
+      "benchpress": "23",
+      "vertleap": "35.5",
+      "broadjump": "123",
+      "shuttle": "4.30",
+      "3cone": "7.08"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Kevin Pierre-Louis",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Kevin&l=Pierre-Louis&i=21072"
+      },
+      "college": "Boston College",
+      "pos": "OLB",
+      "height": "73",
+      "weight": "232",
+      "wonderlic": "",
+      "40yd": "4.51",
+      "benchpress": "28",
+      "vertleap": "39.0",
+      "broadjump": "127",
+      "shuttle": "4.02",
+      "3cone": "6.92"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Lache Seastrunk",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Lache&l=Seastrunk&i=10406"
+      },
+      "college": "Baylor",
+      "pos": "RB",
+      "height": "69",
+      "weight": "201",
+      "wonderlic": "",
+      "40yd": "4.51",
+      "benchpress": "15",
+      "vertleap": "41.5",
+      "broadjump": "134",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Walter Powell",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Walter&l=Powell&i=20876"
+      },
+      "college": "Murray State",
+      "pos": "WR",
+      "height": "71",
+      "weight": "189",
+      "wonderlic": "",
+      "40yd": "4.63",
+      "benchpress": "10",
+      "vertleap": "31.5",
+      "broadjump": "120",
+      "shuttle": "4.23",
+      "3cone": "6.70"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Allen Robinson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Allen&l=Robinson&i=21141"
+      },
+      "college": "Penn State",
+      "pos": "WR",
+      "height": "74",
+      "weight": "220",
+      "wonderlic": "",
+      "40yd": "4.60",
+      "benchpress": "",
+      "vertleap": "39.0",
+      "broadjump": "126",
+      "shuttle": "4.00",
+      "3cone": "7.00"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Logan Thomas",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Logan&l=Thomas&i=21131"
+      },
+      "college": "Virginia Tech",
+      "pos": "QB",
+      "height": "78",
+      "weight": "248",
+      "wonderlic": "",
+      "40yd": "4.61",
+      "benchpress": "",
+      "vertleap": "35.5",
+      "broadjump": "116",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Bradley Roby",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Bradley&l=Roby&i=20944"
+      },
+      "college": "Ohio State",
+      "pos": "CB",
+      "height": "71",
+      "weight": "194",
+      "wonderlic": "",
+      "40yd": "4.39",
+      "benchpress": "17",
+      "vertleap": "38.5",
+      "broadjump": "123",
+      "shuttle": "4.04",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Trai Turner",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Trai&l=Turner&i=21041"
+      },
+      "college": "Louisiana State",
+      "pos": "OG",
+      "height": "75",
+      "weight": "310",
+      "wonderlic": "",
+      "40yd": "4.93",
+      "benchpress": "25",
+      "vertleap": "27.5",
+      "broadjump": "",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Michael Schofield",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Michael&l=Schofield&i=21103"
+      },
+      "college": "Michigan",
+      "pos": "OT",
+      "height": "78",
+      "weight": "301",
+      "wonderlic": "",
+      "40yd": "5.01",
+      "benchpress": "",
+      "vertleap": "24.0",
+      "broadjump": "92",
+      "shuttle": "4.57",
+      "3cone": "7.62"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Dustin Vaughan",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Dustin&l=Vaughan&i=21113"
+      },
+      "college": "West Texas AM",
+      "pos": "QB",
+      "height": "77",
+      "weight": "235",
+      "wonderlic": "",
+      "40yd": "4.95",
+      "benchpress": "",
+      "vertleap": "29.0",
+      "broadjump": "108",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Michael Sam",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Michael&l=Sam&i=20938"
+      },
+      "college": "Missouri",
+      "pos": "DE",
+      "height": "74",
+      "weight": "261",
+      "wonderlic": "",
+      "40yd": "4.91",
+      "benchpress": "17",
+      "vertleap": "25.5",
+      "broadjump": "113",
+      "shuttle": "",
+      "3cone": "7.80"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Shamar Stephen",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Shamar&l=Stephen&i=21045"
+      },
+      "college": "Connecticut",
+      "pos": "DT",
+      "height": "77",
+      "weight": "309",
+      "wonderlic": "",
+      "40yd": "5.25",
+      "benchpress": "25",
+      "vertleap": "30.5",
+      "broadjump": "102",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Rashaad Reynolds",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Rashaad&l=Reynolds&i=20981"
+      },
+      "college": "Oregon State",
+      "pos": "CB",
+      "height": "70",
+      "weight": "189",
+      "wonderlic": "",
+      "40yd": "4.51",
+      "benchpress": "20",
+      "vertleap": "37.5",
+      "broadjump": "123",
+      "shuttle": "4.00",
+      "3cone": "6.72"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Cyril Richardson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Cyril&l=Richardson&i=21039"
+      },
+      "college": "Baylor",
+      "pos": "OG",
+      "height": "77",
+      "weight": "329",
+      "wonderlic": "",
+      "40yd": "5.36",
+      "benchpress": "25",
+      "vertleap": "25.5",
+      "broadjump": "90",
+      "shuttle": "4.83",
+      "3cone": "7.70"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Weston Richburg",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Weston&l=Richburg&i=21040"
+      },
+      "college": "Colorado State",
+      "pos": "C",
+      "height": "75",
+      "weight": "298",
+      "wonderlic": "",
+      "40yd": "5.10",
+      "benchpress": "25",
+      "vertleap": "25.5",
+      "broadjump": "104",
+      "shuttle": "4.63",
+      "3cone": "7.93"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Marcus Roberson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Marcus&l=Roberson&i=20873"
+      },
+      "college": "Florida",
+      "pos": "CB",
+      "height": "73",
+      "weight": "191",
+      "wonderlic": "",
+      "40yd": "4.61",
+      "benchpress": "8",
+      "vertleap": "37.5",
+      "broadjump": "120",
+      "shuttle": "4.08",
+      "3cone": "6.84"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Keith Wenning",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Keith&l=Wenning&i=21110"
+      },
+      "college": "Ball State",
+      "pos": "QB",
+      "height": "75",
+      "weight": "218",
+      "wonderlic": "",
+      "40yd": "5.00",
+      "benchpress": "",
+      "vertleap": "28.0",
+      "broadjump": "99",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Greg Robinson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Greg&l=Robinson&i=21088"
+      },
+      "college": "Auburn",
+      "pos": "OT",
+      "height": "77",
+      "weight": "332",
+      "wonderlic": "",
+      "40yd": "4.92",
+      "benchpress": "32",
+      "vertleap": "28.5",
+      "broadjump": "112",
+      "shuttle": "4.86",
+      "3cone": "7.80"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "DeAnthony Thomas",
+        "href": "http://nflcombineresults.com/playerpage.php?f=DeAnthony&l=Thomas&i=20869"
+      },
+      "college": "Oregon",
+      "pos": "RB",
+      "height": "69",
+      "weight": "174",
+      "wonderlic": "",
+      "40yd": "4.50",
+      "benchpress": "8",
+      "vertleap": "32.0",
+      "broadjump": "123",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Chris Smith",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Chris&l=Smith&i=21071"
+      },
+      "college": "Arkansas",
+      "pos": "DE",
+      "height": "73",
+      "weight": "266",
+      "wonderlic": "",
+      "40yd": "4.71",
+      "benchpress": "28",
+      "vertleap": "37.0",
+      "broadjump": "121",
+      "shuttle": "",
+      "3cone": "7.55"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jemea Thomas",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jemea&l=Thomas&i=20965"
+      },
+      "college": "Georgia Tech",
+      "pos": "FS",
+      "height": "69",
+      "weight": "192",
+      "wonderlic": "",
+      "40yd": "4.55",
+      "benchpress": "19",
+      "vertleap": "37.0",
+      "broadjump": "124",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Richard Rodgers",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Richard&l=Rodgers&i=20929"
+      },
+      "college": "California",
+      "pos": "TE",
+      "height": "76",
+      "weight": "257",
+      "wonderlic": "",
+      "40yd": "4.87",
+      "benchpress": "16",
+      "vertleap": "31.5",
+      "broadjump": "115",
+      "shuttle": "4.47",
+      "3cone": "7.23"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Marcus Smith",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Marcus&l=Smith&i=21020"
+      },
+      "college": "Louisville",
+      "pos": "DE",
+      "height": "75",
+      "weight": "251",
+      "wonderlic": "",
+      "40yd": "4.68",
+      "benchpress": "23",
+      "vertleap": "35.0",
+      "broadjump": "121",
+      "shuttle": "",
+      "3cone": "7.48"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Bishop Sankey",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Bishop&l=Sankey&i=21055"
+      },
+      "college": "Washington",
+      "pos": "RB",
+      "height": "69",
+      "weight": "209",
+      "wonderlic": "",
+      "40yd": "4.49",
+      "benchpress": "26",
+      "vertleap": "35.5",
+      "broadjump": "125",
+      "shuttle": "4.00",
+      "3cone": "6.75"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Devin Street",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Devin&l=Street&i=21136"
+      },
+      "college": "Pittsburgh",
+      "pos": "WR",
+      "height": "75",
+      "weight": "198",
+      "wonderlic": "",
+      "40yd": "4.55",
+      "benchpress": "",
+      "vertleap": "37.0",
+      "broadjump": "123",
+      "shuttle": "4.01",
+      "3cone": "6.89"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "George Uko",
+        "href": "http://nflcombineresults.com/playerpage.php?f=George&l=Uko&i=20946"
+      },
+      "college": "Southern California",
+      "pos": "DT",
+      "height": "75",
+      "weight": "284",
+      "wonderlic": "",
+      "40yd": "4.99",
+      "benchpress": "18",
+      "vertleap": "29.5",
+      "broadjump": "110",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Ryan Shazier",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Ryan&l=Shazier&i=21048"
+      },
+      "college": "Ohio State",
+      "pos": "OLB",
+      "height": "73",
+      "weight": "237",
+      "wonderlic": "",
+      "40yd": "4.58",
+      "benchpress": "25",
+      "vertleap": "42.0",
+      "broadjump": "128",
+      "shuttle": "4.21",
+      "3cone": "6.91"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Prince Shembo",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Prince&l=Shembo&i=21057"
+      },
+      "college": "Notre Dame",
+      "pos": "OLB",
+      "height": "73",
+      "weight": "253",
+      "wonderlic": "",
+      "40yd": "4.71",
+      "benchpress": "26",
+      "vertleap": "38.5",
+      "broadjump": "122",
+      "shuttle": "4.31",
+      "3cone": "7.29"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Charles Sims",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Charles&l=Sims&i=20943"
+      },
+      "college": "West Virginia",
+      "pos": "RB",
+      "height": "73",
+      "weight": "214",
+      "wonderlic": "",
+      "40yd": "4.48",
+      "benchpress": "17",
+      "vertleap": "37.5",
+      "broadjump": "125",
+      "shuttle": "4.30",
+      "3cone": "7.16"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Will Sutton",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Will&l=Sutton&i=21026"
+      },
+      "college": "Arizona State",
+      "pos": "DT",
+      "height": "73",
+      "weight": "303",
+      "wonderlic": "",
+      "40yd": "5.36",
+      "benchpress": "24",
+      "vertleap": "28.5",
+      "broadjump": "99",
+      "shuttle": "",
+      "3cone": "7.93"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jerome Smith",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jerome&l=Smith&i=20910"
+      },
+      "college": "Syracuse",
+      "pos": "RB",
+      "height": "71",
+      "weight": "220",
+      "wonderlic": "",
+      "40yd": "4.84",
+      "benchpress": "14",
+      "vertleap": "36.0",
+      "broadjump": "116",
+      "shuttle": "4.60",
+      "3cone": "7.53"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Willie Snead",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Willie&l=Snead&i=20882"
+      },
+      "college": "Ball State",
+      "pos": "WR",
+      "height": "71",
+      "weight": "195",
+      "wonderlic": "",
+      "40yd": "4.62",
+      "benchpress": "11",
+      "vertleap": "33.5",
+      "broadjump": "112",
+      "shuttle": "4.39",
+      "3cone": "7.19"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Daniel Sorensen",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Daniel&l=Sorensen&i=20897"
+      },
+      "college": "BYU",
+      "pos": "SS",
+      "height": "73",
+      "weight": "205",
+      "wonderlic": "",
+      "40yd": "4.67",
+      "benchpress": "13",
+      "vertleap": "32.0",
+      "broadjump": "113",
+      "shuttle": "3.95",
+      "3cone": "6.47"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Terrance West",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Terrance&l=West&i=20932"
+      },
+      "college": "Towson",
+      "pos": "RB",
+      "height": "69",
+      "weight": "225",
+      "wonderlic": "",
+      "40yd": "4.56",
+      "benchpress": "16",
+      "vertleap": "33.5",
+      "broadjump": "120",
+      "shuttle": "",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Tyler Starr",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Tyler&l=Starr&i=21030"
+      },
+      "college": "South Dakota",
+      "pos": "OLB",
+      "height": "76",
+      "weight": "250",
+      "wonderlic": "",
+      "40yd": "4.95",
+      "benchpress": "24",
+      "vertleap": "32.0",
+      "broadjump": "115",
+      "shuttle": "4.15",
+      "3cone": "6.64"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Khyri Thornton",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Khyri&l=Thornton&i=21068"
+      },
+      "college": "Southern Miss",
+      "pos": "DT",
+      "height": "75",
+      "weight": "304",
+      "wonderlic": "",
+      "40yd": "5.03",
+      "benchpress": "28",
+      "vertleap": "29.0",
+      "broadjump": "111",
+      "shuttle": "",
+      "3cone": "7.83"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Josh Stewart",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Josh&l=Stewart&i=20884"
+      },
+      "college": "Oklahoma State",
+      "pos": "WR",
+      "height": "70",
+      "weight": "178",
+      "wonderlic": "",
+      "40yd": "4.69",
+      "benchpress": "11",
+      "vertleap": "35.0",
+      "broadjump": "116",
+      "shuttle": "4.33",
+      "3cone": "7.10"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "James Stone",
+        "href": "http://nflcombineresults.com/playerpage.php?f=James&l=Stone&i=20997"
+      },
+      "college": "Tennessee",
+      "pos": "C",
+      "height": "76",
+      "weight": "306",
+      "wonderlic": "",
+      "40yd": "5.17",
+      "benchpress": "22",
+      "vertleap": "27.5",
+      "broadjump": "104",
+      "shuttle": "4.63",
+      "3cone": "8.16"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jason Verrett",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jason&l=Verrett&i=21142"
+      },
+      "college": "TCU",
+      "pos": "CB",
+      "height": "69",
+      "weight": "189",
+      "wonderlic": "",
+      "40yd": "4.38",
+      "benchpress": "",
+      "vertleap": "39.0",
+      "broadjump": "127",
+      "shuttle": "4.00",
+      "3cone": "6.69"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Xavier Su'a-Filo",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Xavier&l=Su"
+      },
+      "college": "UCLA",
+      "pos": "OG",
+      "height": "76",
+      "weight": "307",
+      "wonderlic": "",
+      "40yd": "5.04",
+      "benchpress": "25",
+      "vertleap": "25.0",
+      "broadjump": "101",
+      "shuttle": "4.44",
+      "3cone": "7.60"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jordan Zumwalt",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jordan&l=Zumwalt&i=21122"
+      },
+      "college": "UCLA",
+      "pos": "OLB",
+      "height": "76",
+      "weight": "235",
+      "wonderlic": "",
+      "40yd": "4.76",
+      "benchpress": "",
+      "vertleap": "33.0",
+      "broadjump": "115",
+      "shuttle": "",
+      "3cone": "6.99"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Travis Swanson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Travis&l=Swanson&i=20969"
+      },
+      "college": "Arkansas",
+      "pos": "C",
+      "height": "77",
+      "weight": "312",
+      "wonderlic": "",
+      "40yd": "5.28",
+      "benchpress": "20",
+      "vertleap": "26.0",
+      "broadjump": "93",
+      "shuttle": "4.65",
+      "3cone": "7.73"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Lorenzo Taliaferro",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Lorenzo&l=Taliaferro&i=20948"
+      },
+      "college": "Coastal Carolina",
+      "pos": "RB",
+      "height": "73",
+      "weight": "229",
+      "wonderlic": "",
+      "40yd": "4.58",
+      "benchpress": "18",
+      "vertleap": "33.0",
+      "broadjump": "116",
+      "shuttle": "4.22",
+      "3cone": "6.88"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Brandon Thomas",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Brandon&l=Thomas&i=21092"
+      },
+      "college": "Clemson",
+      "pos": "OG",
+      "height": "75",
+      "weight": "317",
+      "wonderlic": "",
+      "40yd": "5.09",
+      "benchpress": "35",
+      "vertleap": "29.0",
+      "broadjump": "98",
+      "shuttle": "4.83",
+      "3cone": "8.13"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Andre Williams",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Andre&l=Williams&i=21139"
+      },
+      "college": "Boston College",
+      "pos": "RB",
+      "height": "71",
+      "weight": "230",
+      "wonderlic": "",
+      "40yd": "4.56",
+      "benchpress": "",
+      "vertleap": "38.0",
+      "broadjump": "128",
+      "shuttle": "4.06",
+      "3cone": "7.27"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Jordan Tripp",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Jordan&l=Tripp&i=21006"
+      },
+      "college": "Montana",
+      "pos": "OLB",
+      "height": "75",
+      "weight": "234",
+      "wonderlic": "",
+      "40yd": "4.67",
+      "benchpress": "22",
+      "vertleap": "37.5",
+      "broadjump": "120",
+      "shuttle": "3.96",
+      "3cone": "6.89"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Larry Webster",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Larry&l=Webster&i=20942"
+      },
+      "college": "Bloomsburg",
+      "pos": "DE",
+      "height": "78",
+      "weight": "252",
+      "wonderlic": "",
+      "40yd": "4.58",
+      "benchpress": "17",
+      "vertleap": "36.5",
+      "broadjump": "123",
+      "shuttle": "",
+      "3cone": "7.29"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Billy Turner",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Billy&l=Turner&i=21044"
+      },
+      "college": "North Dakota State",
+      "pos": "OT",
+      "height": "77",
+      "weight": "315",
+      "wonderlic": "",
+      "40yd": "5.16",
+      "benchpress": "25",
+      "vertleap": "28.0",
+      "broadjump": "108",
+      "shuttle": "4.71",
+      "3cone": "7.92"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Ethan Westbrooks",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Ethan&l=Westbrooks&i=20959"
+      },
+      "college": "West Texas AM",
+      "pos": "DE",
+      "height": "75",
+      "weight": "267",
+      "wonderlic": "",
+      "40yd": "4.90",
+      "benchpress": "19",
+      "vertleap": "29.0",
+      "broadjump": "110",
+      "shuttle": "",
+      "3cone": "7.30"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "John Urschel",
+        "href": "http://nflcombineresults.com/playerpage.php?f=John&l=Urschel&i=21080"
+      },
+      "college": "Penn State",
+      "pos": "OG",
+      "height": "75",
+      "weight": "313",
+      "wonderlic": "",
+      "40yd": "5.31",
+      "benchpress": "30",
+      "vertleap": "29.0",
+      "broadjump": "101",
+      "shuttle": "4.47",
+      "3cone": "7.55"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Avery Williamson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Avery&l=Williamson&i=21046"
+      },
+      "college": "Kentucky",
+      "pos": "ILB",
+      "height": "73",
+      "weight": "246",
+      "wonderlic": "",
+      "40yd": "4.66",
+      "benchpress": "25",
+      "vertleap": "30.5",
+      "broadjump": "120",
+      "shuttle": "4.07",
+      "3cone": ""
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Kyle Van Noy",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Kyle&l=Van Noy&i=20990"
+      },
+      "college": "BYU",
+      "pos": "OLB",
+      "height": "75",
+      "weight": "243",
+      "wonderlic": "",
+      "40yd": "4.71",
+      "benchpress": "21",
+      "vertleap": "32.5",
+      "broadjump": "111",
+      "shuttle": "4.20",
+      "3cone": "7.22"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Brock Vereen",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Brock&l=Vereen&i=21047"
+      },
+      "college": "Minnesota",
+      "pos": "SS",
+      "height": "73",
+      "weight": "199",
+      "wonderlic": "",
+      "40yd": "4.47",
+      "benchpress": "25",
+      "vertleap": "34.0",
+      "broadjump": "116",
+      "shuttle": "4.07",
+      "3cone": "6.90"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "L'Damian Washington",
+        "href": "http://nflcombineresults.com/playerpage.php?f=L"
+      },
+      "college": "Missouri",
+      "pos": "WR",
+      "height": "76",
+      "weight": "195",
+      "wonderlic": "",
+      "40yd": "4.46",
+      "benchpress": "8",
+      "vertleap": "32.0",
+      "broadjump": "114",
+      "shuttle": "4.35",
+      "3cone": "7.19"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Kerry Wynn",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Kerry&l=Wynn&i=21085"
+      },
+      "college": "Richmond",
+      "pos": "DE",
+      "height": "77",
+      "weight": "266",
+      "wonderlic": "",
+      "40yd": "4.97",
+      "benchpress": "31",
+      "vertleap": "34.0",
+      "broadjump": "113",
+      "shuttle": "",
+      "3cone": "7.11"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Sammy Watkins",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Sammy&l=Watkins&i=10408"
+      },
+      "college": "Clemson",
+      "pos": "WR",
+      "height": "73",
+      "weight": "211",
+      "wonderlic": "",
+      "40yd": "4.43",
+      "benchpress": "16",
+      "vertleap": "34.0",
+      "broadjump": "125",
+      "shuttle": "4.34",
+      "3cone": "6.95"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Lavelle Westbrooks",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Lavelle&l=Westbrooks&i=20917"
+      },
+      "college": "Georgia Southern",
+      "pos": "CB",
+      "height": "71",
+      "weight": "186",
+      "wonderlic": "",
+      "40yd": "4.63",
+      "benchpress": "15",
+      "vertleap": "36.0",
+      "broadjump": "121",
+      "shuttle": "4.27",
+      "3cone": "6.98"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "James White",
+        "href": "http://nflcombineresults.com/playerpage.php?f=James&l=White&i=21017"
+      },
+      "college": "Wisconsin",
+      "pos": "RB",
+      "height": "69",
+      "weight": "204",
+      "wonderlic": "",
+      "40yd": "4.57",
+      "benchpress": "23",
+      "vertleap": "32.0",
+      "broadjump": "113",
+      "shuttle": "4.20",
+      "3cone": "7.05"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "James Wilder",
+        "href": "http://nflcombineresults.com/playerpage.php?f=James&l=Wilder&i=20952"
+      },
+      "college": "Florida State",
+      "pos": "RB",
+      "height": "75",
+      "weight": "232",
+      "wonderlic": "",
+      "40yd": "4.86",
+      "benchpress": "18",
+      "vertleap": "35.0",
+      "broadjump": "121",
+      "shuttle": "4.24",
+      "3cone": "6.92"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Damien Williams",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Damien&l=Williams&i=20934"
+      },
+      "college": "Oklahoma",
+      "pos": "RB",
+      "height": "71",
+      "weight": "222",
+      "wonderlic": "",
+      "40yd": "4.45",
+      "benchpress": "16",
+      "vertleap": "35.5",
+      "broadjump": "121",
+      "shuttle": "4.25",
+      "3cone": "7.37"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "Albert Wilson",
+        "href": "http://nflcombineresults.com/playerpage.php?f=Albert&l=Wilson&i=20878"
+      },
+      "college": "Georgia State",
+      "pos": "WR",
+      "height": "69",
+      "weight": "202",
+      "wonderlic": "",
+      "40yd": "4.43",
+      "benchpress": "10",
+      "vertleap": "37.5",
+      "broadjump": "123",
+      "shuttle": "4.21",
+      "3cone": "7.00"
+    },
+    {
+      "year": "2014",
+      "name": {
+        "text": "David Yankey",
+        "href": "http://nflcombineresults.com/playerpage.php?f=David&l=Yankey&i=20998"
+      },
+      "college": "Stanford",
+      "pos": "OG",
+      "height": "78",
+      "weight": "315",
+      "wonderlic": "",
+      "40yd": "5.48",
+      "benchpress": "22",
+      "vertleap": "28.5",
+      "broadjump": "102",
+      "shuttle": "4.86",
+      "3cone": "7.81"
+    }
+  ]
+}
