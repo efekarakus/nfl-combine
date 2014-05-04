@@ -1,5 +1,7 @@
 import csv
 import numpy as np
+import pylab as pl
+import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 
 datafile = '../data/all.csv'
@@ -20,43 +22,23 @@ def read_positions(path):
             positions[pos].append( row[5:] )
     return positions
 
-
-def preprocess(positions):
-    # substract mean
-    counts = {}
-    for p in positions:
-        counts[p] = {}
-        for entry in positions[p]:
-            for i in range(len(entry)):
-                if not i in counts[p]:
-                    counts[p][i] = 0
-                counts[p][i] += entry[i]
-            # endfor i
-        # endfor entry
-    # endfor p
-    
-    means = {}
-    for p in counts:
-        means[p] = {}
-        for i in counts[p]:
-            means[p][i] = counts[p][i]/float(len(positions[p]))
-        # endfor
-    # endfor
-
-    for p in positions:
-        for entry in positions[p]:
-            for i in range(len(entry)):
-                entry[i] -= means[p][i]
-            # endfor
-        # endfor
-    #endfor
-
 def pca(positions):
+    count = 1
     for p in positions:
-        pca = PCA(n_components = 2)
+        pca = PCA(n_components = 2) # the mean substraction handled by lib
         pca.fit(positions[p])
 
         print p, pca.components_
+        Z = pca.transform(positions[p])
+
+        x = [v for [v,t] in Z]
+        y = [t for [v,t] in Z]
+        plt.subplot(11, 1, count)
+        plt.scatter(x, y)
+        plt.title('PCA for ' + p)
+
+        count += 1
+    plt.show()
 
 if __name__ == '__main__':
     positions = read_positions(datafile)
