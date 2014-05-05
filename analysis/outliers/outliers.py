@@ -27,21 +27,21 @@ def get_params(pos):
     elif pos == 'LB':
         return (3, 2)
     elif pos == 'CB':
-        return (2, 3)
+        return (3.5, 3)
     elif pos == 'FB':
-        return (5, 2)
+        return (6, 2)
     elif pos == 'S':
-        return (2, 3)
+        return (3, 2)
     elif pos == 'QB':
         return (2, 2)
     elif pos == 'WR':
-        return (2, 3)
+        return (3, 1)
     elif pos == 'RB':
-        return (2, 3)
+        return (3, 2)
     elif pos == 'DT':
-        return (2, 2)
+        return (4, 3)
     else:
-        return (2, 2)
+        return (4, 2)
 
 def scan_points(points):
     scans = {}
@@ -57,6 +57,8 @@ def scan_points(points):
 
 def plot_scans(scans):
     count = 1
+    plt.subplots(11, 1)
+    plt.subplots_adjust(hspace=0.9)
     for pos in scans:
         scan = scans[pos]
 

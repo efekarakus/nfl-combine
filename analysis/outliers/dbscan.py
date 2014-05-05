@@ -59,7 +59,8 @@ class DBScan:
                 if neighbor.label == 'UNEXPLORED':
                     neighbor.label = 'EXPLORED'
                     surroundings = get_neighbors(neighbor)
-                    reachables.extend(surroundings)
+                    if len(surroundings) >= self.min_pts:
+                        reachables.extend(surroundings)
             # endfor
 
             for reach in reachables:
