@@ -27,6 +27,7 @@ def pca(positions):
     count = 1
     eigens = {}
     T = {}
+    plt.subplots_adjust(hspace=0.9)
     for p in positions:
         X = []
         for name in positions[p]:
@@ -41,16 +42,16 @@ def pca(positions):
         for name in positions[p]:
             Z = pca.transform([positions[p][name]])
             T[p][name] = Z
-        #Z = pca.transform(X)
+        Z = pca.transform(X)
 
-        #x = [v for [v,t] in Z]
-        #y = [t for [v,t] in Z]
-        #plt.subplot(11, 1, count)
-        #plt.scatter(x, y)
-        #plt.title('PCA for ' + p)
+        x = [v for [v,t] in Z]
+        y = [t for [v,t] in Z]
+        plt.subplot(11, 1, count)
+        plt.scatter(x, y)
+        plt.title('PCA for ' + p)
 
-        #count += 1
-    #plt.show()
+        count += 1
+    plt.show()
 
     return eigens, T
 
@@ -83,7 +84,6 @@ def write_transformation(path, T):
 
 if __name__ == '__main__':
     positions = read_positions(datafile)
-    #preprocess( positions )
     eigens, T = pca( positions )
     write_eigens('../data/eigen_vectors.csv', eigens)
     write_transformation('../data/transformed_all.csv', T)

@@ -21,7 +21,7 @@ def read_points(path):
 
 def get_params(pos):
     if pos == 'DL':
-        return (3, 2)
+        return (4, 3)
     elif pos == 'OL':
         return (3, 3)
     elif pos == 'LB':
@@ -38,8 +38,6 @@ def get_params(pos):
         return (3, 1)
     elif pos == 'RB':
         return (3, 2)
-    elif pos == 'DT':
-        return (4, 3)
     else:
         return (4, 2)
 
@@ -57,7 +55,7 @@ def scan_points(points):
 
 def plot_scans(scans):
     count = 1
-    plt.subplots(11, 1)
+    plt.subplots(10, 1)
     plt.subplots_adjust(hspace=0.9)
     for pos in scans:
         scan = scans[pos]
@@ -65,7 +63,7 @@ def plot_scans(scans):
         outliers = scan.get_outliers()
         clusters = scan.get_clusters()
 
-        plt.subplot(11, 1, count)
+        plt.subplot(10, 1, count)
 
         # plt outliers
         x = [v for [v,t] in outliers]
@@ -197,4 +195,4 @@ if __name__ == '__main__':
     scans = scan_points(points)
     
     find_otherpositions(scans)
-    #plot_scans(scans)
+    plot_scans(scans)

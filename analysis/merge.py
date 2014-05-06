@@ -30,7 +30,7 @@ positions = {
     'ILB': 'LB',
 
     # defensive line
-    'DF': 'DL',
+    'DT': 'DL',
     'DE': 'DL'
 }
 
