@@ -1,5 +1,5 @@
 from dbscan import DBScan
-import csv
+import csv, json
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -154,6 +154,10 @@ def find_otherpositions(scans):
     eigens = read_eigenvectors()
     means = get_feature_means()
 
+    alternative= {
+        'players': []    
+    }
+
     for pos in scans:
         scan = scans[pos]
         outliers = scan.get_outliers()
@@ -169,7 +173,9 @@ def find_otherpositions(scans):
             name = get_name(pos, x, y)
             features = get_features(pos, name)
 
-            print 'original: ', name, pos, str([x,y])
+            #print 'original: ', name, pos, str([x,y])
+
+            other_positions = []
             for opos in eigens:
                 if pos == opos: continue
 
@@ -185,14 +191,34 @@ def find_otherpositions(scans):
                 newY = sum(p*q for p,q in zip(scaled_features, yEigen))
 
                 if newX >= 0 and newY >= 0:
-                    print 'other: ', name, opos, str([newX,newY])
+                    #print 'other: ', name, opos, str([newX,newY])
+                    other_positions.append({
+                        'position': opos,
+                        'x': newX,
+                        'y': newY
+                    })
 
+            if not other_positions == []:
+                alternative['players'].append({
+                    'name': name,
+                    'position': pos,
+                    'x': x,
+                    'y': y,
+                    'alternatives': other_positions
+                })
         # endfor outlier
     # endfor eigens
+    return alternative
+
+def write_alternatives(alternatives):
+    with open('../../data/alternatives.json', 'w') as f:
+        json.dump(alternatives, f)
+
 
 if __name__ == '__main__':
     points = read_points('../../data/transformed_all.csv')
     scans = scan_points(points)
     
-    find_otherpositions(scans)
-    plot_scans(scans)
+    alternatives = find_otherpositions(scans)
+    write_alternatives(alternatives)
+    #plot_scans(scans)
